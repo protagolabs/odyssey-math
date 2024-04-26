@@ -9,23 +9,23 @@ The GAIC Math 2024 problem setter committee is composed of mathematics professor
 A new dataset of 387 questions and solutions from high school competition questions, high school mathematics questions, and university-level mathematics questions.
 
 
-| ID | ID         | Level                                     | Label                                              | Number   | 
-|----|------------|-------------------------------------------|----------------------------------------------------|----------|
-| 1  | MIT        | high school competition                   | Algebra                                            | 82       | 
-| 2  | MIT        | high school competition                   | NumberTheory                                       | 4        | 
-| 3  | MIT        | high school competition                   | Geometry                                           | 25       | 
-| 4  | MIT        | high school competition                   | Combinatorics                                      | 37       | 
-| 5  | MIT        | high school mathematics questions         | Algebra                                            | 69       | 
-| 6  | MIT        | high school mathematics questions         | Geometry                                           | 14       | 
-| 7  | MIT        | high school mathematics questions         | PreCalculus                                        | 47       | 
-| 8  | MIT        | high school mathematics questions         | Trigonometry                                       | 2        | 
-| 9  | MIT        | high school mathematics questions         | Calculus                                           | 5        | 
-| 10 | MIT        | high school mathematics questions         | Series                                             | 1        | 
-| 11 | MIT        | university-level                          | Linear Algebra and Abstract Algebra                | 25       | 
-| 12 | MIT        | university-level                          | Calculus and Analysis                              | 24       | 
-| 13 | MIT        | university-level                          | Differential Equations                             | 14       | 
-| 14 | MIT        | university-level                          | Probability                                        | 21       | 
-| 15 | MIT        | university-level                          | Statistics                                         | 17       | 
+| ID |  Level                                     | Label                                              | Number   | 
+|----|-------------------------------------------|----------------------------------------------------|----------|
+| 1  | high school competition                   | Algebra                                            | 82       | 
+| 2  | high school competition                   | NumberTheory                                       | 4        | 
+| 3  | high school competition                   | Geometry                                           | 25       | 
+| 4  | high school competition                   | Combinatorics                                      | 37       | 
+| 5  | high school mathematics questions         | Algebra                                            | 69       | 
+| 6  | high school mathematics questions         | Geometry                                           | 14       | 
+| 7  | high school mathematics questions         | PreCalculus                                        | 47       | 
+| 8  | high school mathematics questions         | Trigonometry                                       | 2        | 
+| 9  | high school mathematics questions         | Calculus                                           | 5        | 
+| 10 | high school mathematics questions         | Series                                             | 1        | 
+| 11 | university-level                          | Linear Algebra and Abstract Algebra                | 25       | 
+| 12 | university-level                          | Calculus and Analysis                              | 24       | 
+| 13 | university-level                          | Differential Equations                             | 14       | 
+| 14 | university-level                          | Probability                                        | 21       | 
+| 15 | university-level                          | Statistics                                         | 17       | 
 
 ## Evaluation Baseline
 
