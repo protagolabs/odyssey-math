@@ -1,7 +1,5 @@
-# odyssey-math
-![odyssey](./docs/odyssey.webp)
-
 # A Dataset for The Global Artificial Intelligence Championship
+![odyssey](./docs/odyssey.webp)
 
 GAIC Math 2024 presents a collection of 387 meticulously crafted math problems, meticulously curated by professional math problem writers from both universities and high schools. The compilation includes high school competition questions with 148 problems, followed by a series of 138 high school mathematics questions, and concluding with 101 university-level mathematics questions. 
 
