@@ -1,0 +1,7 @@
+numpy
+python-dotenv
+openai
+gradio-client
+tqdm
+prettytable
+tenacity
