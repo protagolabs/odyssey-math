@@ -29,10 +29,8 @@ A new dataset of 387 questions and solutions from high school competition questi
 
 ## Evaluation Baseline
 
-Evaluation Results of gpt-4-0125-preview on the GAIC Math 2024 problem setter.
-![visualize based on different label](./docs/acc_by_label.webp)
-
-![visualize based on different level](./docs/acc_by_level.webp)
+Evaluation Results of Odyssey-Math dataset across different models.
+![table_from_paper](./docs/benchmark.webp)
 
 
 ## News
@@ -43,15 +41,30 @@ Evaluation Results of gpt-4-0125-preview on the GAIC Math 2024 problem setter.
 
 To duplicate the baseline evaluation result, we provide the tutorials.
 
-The first step is to generate the response using gpt4.
+To generate the response using gpt4.
 ```python
 python generate_response.py
 ```
 
-The second step is to compare with the right answer:
+To generate the response using llama or dbrx.
+```python
+python generate_with_llama.py
+python generate_with_dbrx.py
+```
+Please note that the api_url may be subject to change over time, you can find the newest on [power.netmind.ai](https://power.netmind.ai/inference).
+
+To clean the generated answer.
+```python
+cd jsonl
+python process.py
+```
+
+To compare with the ground-truth data:
 ```python
 python evaluate_response.py
 ```
+
+Finally, in the visualize.ipynb, you can check the final accuracy.
 
 
 ## ​​Acknowledgement

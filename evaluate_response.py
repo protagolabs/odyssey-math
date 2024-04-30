@@ -23,18 +23,7 @@ def process_files(file_true, file_pred):
         problem_id = list(true.keys())[0]
         true_info = true[problem_id]
         
-        # Check if pred[problem_id] is a string or needs JSON parsing
-        if isinstance(pred[problem_id], str):
-            try:
-                # Try to parse it as JSON in case it's a JSON string inline
-                pred_data = json.loads(pred[problem_id])
-                pred_answer = pred_data["answer"] if "answer" in pred_data else pred[problem_id]
-            except json.JSONDecodeError:
-                # If it's not a JSON string, use it directly
-                pred_answer = 'No answer provided.'
-        else:
-            # Assume it's a dictionary with an "answer" key
-            pred_answer = pred[problem_id]["answer"]
+        pred_answer = pred[problem_id]["answer"]
 
         comparison_result = evalution(question=true_info["question"], true=true_info["answer"], prediction=pred_answer)
 
@@ -53,10 +42,10 @@ def process_files(file_true, file_pred):
 
 def main():
     file_true = 'final-odyssey-math-with-levels.jsonl'
-    file_pred = 'jsonl/gpt-4-0125-preview-solution.jsonl'
+    file_pred = 'jsonl/clean/dbrx-instruct-solution-clean.jsonl'
     results = process_files(file_true, file_pred)
-    save_jsonl(results, 'jsonl/evaluation_results.jsonl')
-    print("Results have been saved to 'evaluation_results.jsonl'.")
+    save_jsonl(results, 'jsonl/eval/result-'+file_pred.split('/')[-1])
+    print("Results have been saved.")
 
 if __name__ == "__main__":
     main()

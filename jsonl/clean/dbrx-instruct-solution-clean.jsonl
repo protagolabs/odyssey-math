@@ -1,0 +1,387 @@
+{"Problem_1": {"answer": "3"}}
+{"Problem_2": {"answer": "1"}}
+{"Problem_3": {"answer": "The number of stickers Sasha originally had is between 50 and 100, exclusive."}}
+{"Problem_4": {"answer": "f(2020) = 1010"}}
+{"Problem_5": {"answer": "The value of d - b cannot be determined with the given information."}}
+{"Problem_6": {"answer": "n = 11"}}
+{"Problem_7": {"answer": "99"}}
+{"Problem_8": {"answer": "2023"}}
+{"Problem_9": {"answer": "There are 6 possible sets of (a, b, c)."}}
+{"Problem_10": {"answer": "There is no solution for this problem."}}
+{"Problem_11": {"answer": "The minimum value of {a_n + 90} / n is 90."}}
+{"Problem_12": {"answer": "n = 6"}}
+{"Problem_13": {"answer": "The prime numbers with the shape $p^p+1$ that have no more than 19 digits are 2^2+1 = 5, 3^3+1 = 28, 5^5+1 = 3126, and 11^11+1 = 25937424601. The sum of these prime numbers is 25937424631."}}
+{"Problem_14": {"answer": "The maximum possible value of $n$ is 5."}}
+{"Problem_15": {"answer": "The first digit before the decimal point is 1 and after the decimal point is a non-terminating sequence of numbers."}}
+{"Problem_16": {"answer": "The sum of all such 5-digit numbers N is 100111."}}
+{"Problem_17": {"answer": "37"}}
+{"Problem_18": {"answer": "a + b = 10"}}
+{"Problem_19": {"answer": "The sum of all such $n$ is 204."}}
+{"Problem_20": {"answer": "The sum of all such natural numbers x is 1000."}}
+{"Problem_21": {"answer": "{\n        \"a\": 2,\n        \"b\": 3\n    }"}}
+{"Problem_22": {"answer": "The sum of $p$ and $q$ is $4$."}}
+{"Problem_23": {"answer": "994"}}
+{"Problem_24": {"answer": "There are 36 sets (a, b, c) that satisfy S(a) + S(b) + S(c) = M."}}
+{"Problem_25": {"answer": "1002"}}
+{"Problem_26": {"answer": "No answer provided."}}
+{"Problem_27": {"answer": "The sum of all positive integers n such that 3 | pn is 12."}}
+{"Problem_28": {"answer": "The sum of the values of $y$ is 5."}}
+{"Problem_29": {"answer": "There are no non-zero integer pairs (a,b) that satisfy the equation."}}
+{"Problem_30": {"answer": "10025"}}
+{"Problem_31": {"answer": "1000000"}}
+{"Problem_32": {"answer": "11"}}
+{"Problem_33": {"answer": "There are 12 triples of positive integers (a, b, c) satisfying a^2 + b^2 + c^2 = 2005 and a \u2264 b \u2264 c."}}
+{"Problem_34": {"answer": "1991"}}
+{"Problem_35": {"answer": "156"}}
+{"Problem_36": {"answer": "2"}}
+{"Problem_37": {"answer": "The sum of all such positive integers $b$ is 12."}}
+{"Problem_38": {"answer": "The sum of all such n is 2016."}}
+{"Problem_39": {"answer": "The sum of all positive integers k satisfying the condition is 211."}}
+{"Problem_40": {"answer": "The sum of all such $n$ is $-2005$."}}
+{"Problem_41": {"answer": "There is no such positive integer with more than two digits where each pair of adjacent digits forms a perfect square."}}
+{"Problem_42": {"answer": "The number of values of \u03b1 that make the system of equations have integer solutions is 2006."}}
+{"Problem_43": {"answer": "1003"}}
+{"Problem_44": {"answer": "The maximum number of elements in $S$ is 5."}}
+{"Problem_45": {"answer": "200320022022"}}
+{"Problem_46": {"answer": "The number of positive integer solutions is 24."}}
+{"Problem_47": {"answer": "The number of integers satisfying the condition that $x^2 + 5n + 1$ is a perfect square is known to be $0$ for $n > 0$."}}
+{"Problem_48": {"answer": "16"}}
+{"Problem_49": {"answer": "The maximum of x + y + z is 0."}}
+{"Problem_50": {"answer": "The value of the two-digit number $\\overline{ab}$ is 25."}}
+{"Problem_51": {"answer": "0"}}
+{"Problem_52": {"answer": "The sum of the sequence from n=1 to 2022 is approximately 2022.000000."}}
+{"Problem_53": {"answer": "The maximum value of a + b is 1/2."}}
+{"Problem_54": {"answer": "2"}}
+{"Problem_55": {"answer": "f(6) = 21"}}
+{"Problem_56": {"answer": "102"}}
+{"Problem_57": {"answer": "m = 100"}}
+{"Problem_58": {"answer": "x_1 + x_2 = 2"}}
+{"Problem_59": {"answer": "x_0 = 2"}}
+{"Problem_60": {"answer": "There are infinitely many sets of positive integers (x, y) that satisfy the equation 5F_x - 3F_y = 1."}}
+{"Problem_61": {"answer": "The number of such positive integers is 2018."}}
+{"Problem_62": {"answer": "120 - 10!"}}
+{"Problem_63": {"answer": "2"}}
+{"Problem_64": {"answer": "The value of m + n cannot be determined with the given information."}}
+{"Problem_65": {"answer": "4"}}
+{"Problem_66": {"answer": "a > 0"}}
+{"Problem_67": {"answer": "k = 3.6"}}
+{"Problem_68": {"answer": "There are 36 functions that make $p(f)|36$."}}
+{"Problem_69": {"answer": "1"}}
+{"Problem_70": {"answer": "null"}}
+{"Problem_71": {"answer": "-10"}}
+{"Problem_72": {"answer": "2"}}
+{"Problem_73": {"answer": "2022"}}
+{"Problem_74": {"answer": "The system of equations has no real solutions."}}
+{"Problem_75": {"answer": "{\n        \"minimum\": -0.25,\n        \"maximum\": 0.5\n    }"}}
+{"Problem_76": {"answer": "1"}}
+{"Problem_77": {"answer": "198"}}
+{"Problem_78": {"answer": "2024"}}
+{"Problem_79": {"answer": "1"}}
+{"Problem_80": {"answer": "The maximum value of 9x + y is 25."}}
+{"Problem_81": {"answer": "5"}}
+{"Problem_82": {"answer": "-1"}}
+{"Problem_83": {"answer": "<answer>"}}
+{"Problem_84": {"answer": "<answer>"}}
+{"Problem_85": {"answer": "The minimum value of a^2 + b^2 is 16."}}
+{"Problem_86": {"answer": "The maximum value of real number c is 2."}}
+{"Problem_87": {"answer": "1/2 * sqrt(3)"}}
+{"Problem_88": {"answer": "-0.5"}}
+{"Problem_89": {"answer": "1"}}
+{"Problem_90": {"answer": "1000"}}
+{"Problem_91": {"answer": "The maximum of $|\\\\overrightarrow{A B}|+|\\\\overrightarrow{B C}|$ is 4."}}
+{"Problem_92": {"answer": "0.4330127018922193"}}
+{"Problem_93": {"answer": "4"}}
+{"Problem_94": {"answer": "The number of bricks that can fit into the box is 24 pieces."}}
+{"Problem_95": {"answer": "15"}}
+{"Problem_96": {"answer": "1800"}}
+{"Problem_97": {"answer": "1.4142135623730951"}}
+{"Problem_98": {"answer": "15"}}
+{"Problem_99": {"answer": "The measure of angle C is 90 degrees."}}
+{"Problem_100": {"answer": "The maximum area of quadrilateral $ABCD$ is 4."}}
+{"Problem_101": {"answer": "sin A = 1/2"}}
+{"Problem_102": {"answer": "3"}}
+{"Problem_103": {"answer": "-0.6"}}
+{"Problem_104": {"answer": "1.5"}}
+{"Problem_105": {"answer": "The value of AM/ME is 1/3."}}
+{"Problem_106": {"answer": "6"}}
+{"Problem_107": {"answer": "120"}}
+{"Problem_108": {"answer": "The minimum perimeter of quadrilateral $ABCD$ is $2(AB + AD)$, where $AB$ and $AD$ are the shortest possible distinct integer lengths."}}
+{"Problem_109": {"answer": "two loop-like structures"}}
+{"Problem_110": {"answer": "The eccentricity of \u03931 is \u221a(1 - (b^2/a^2))"}}
+{"Problem_111": {"answer": "-1"}}
+{"Problem_112": {"answer": "0.42105263157894735"}}
+{"Problem_113": {"answer": "2023"}}
+{"Problem_114": {"answer": "0.5"}}
+{"Problem_115": {"answer": "264"}}
+{"Problem_116": {"answer": "36"}}
+{"Problem_117": {"answer": "1/30"}}
+{"Problem_118": {"answer": "Each wizard needs to endure at least 101 beard pulls."}}
+{"Problem_119": {"answer": "225"}}
+{"Problem_120": {"answer": "395"}}
+{"Problem_121": {"answer": "47"}}
+{"Problem_122": {"answer": "<answer>"}}
+{"Problem_123": {"answer": "The maximum value of $M(A)$ is 105."}}
+{"Problem_124": {"answer": "A. Alice"}}
+{"Problem_125": {"answer": "The smallest integer k > 2 that satisfies the given condition is k = 6."}}
+{"Problem_126": {"answer": "The minimum value of $k$ is 1009."}}
+{"Problem_127": {"answer": "1/4"}}
+{"Problem_128": {"answer": "264"}}
+{"Problem_129": {"answer": "The minimum number of times that someone writes down different numbers is n - 1."}}
+{"Problem_130": {"answer": "At most 6561 guests can be at the party."}}
+{"Problem_131": {"answer": "B. Alice can guarantee victory."}}
+{"Problem_132": {"answer": "B. Carl has a winning strategy."}}
+{"Problem_133": {"answer": "12 coins"}}
+{"Problem_134": {"answer": "The value of k can be any integer between 1 and 10, inclusive."}}
+{"Problem_135": {"answer": "0.00048828125"}}
+{"Problem_136": {"answer": "66 holidays"}}
+{"Problem_137": {"answer": "119"}}
+{"Problem_138": {"answer": "30240"}}
+{"Problem_139": {"answer": "The number of such sequences is 120."}}
+{"Problem_140": {"answer": "1024"}}
+{"Problem_141": {"answer": "12"}}
+{"Problem_142": {"answer": "120"}}
+{"Problem_143": {"answer": "144"}}
+{"Problem_144": {"answer": "There are 90 numbers that can be selected."}}
+{"Problem_145": {"answer": "50"}}
+{"Problem_146": {"answer": "5"}}
+{"Problem_147": {"answer": "The four-digit number is 1025 and the digit a is 1."}}
+{"Problem_148": {"answer": "The answer is 106."}}
+{"Problem_149": {"answer": "-28"}}
+{"Problem_150": {"answer": "B) 2x(x-7)"}}
+{"Problem_151": {"answer": "15.5 m"}}
+{"Problem_152": {"answer": "-16m^6p^9/n^5"}}
+{"Problem_153": {"answer": "B) 4*a^5*c / 3*b^3"}}
+{"Problem_154": {"answer": "B) (x+3)"}}
+{"Problem_155": {"answer": "A) 6x^3 - 2x^2 - 3x + 1"}}
+{"Problem_156": {"answer": "D) (8b + 1)^2"}}
+{"Problem_157": {"answer": "C"}}
+{"Problem_158": {"answer": "B) 16xyz\\sqrt{5x^3z}"}}
+{"Problem_159": {"answer": "A"}}
+{"Problem_160": {"answer": "B) {-\\frac{4}{5},\\frac{2}{3}}"}}
+{"Problem_161": {"answer": "-4"}}
+{"Problem_162": {"answer": "D) {(-7-\\sqrt{41})/2, (-7+\\sqrt{41})/2}"}}
+{"Problem_163": {"answer": "120"}}
+{"Problem_164": {"answer": "A) y=(x-3)/z"}}
+{"Problem_165": {"answer": "C) one solution"}}
+{"Problem_166": {"answer": "D"}}
+{"Problem_167": {"answer": "A) (3/17, -32/17)"}}
+{"Problem_168": {"answer": "B) {x: x >= -7}"}}
+{"Problem_169": {"answer": "C) 2x + y = 4"}}
+{"Problem_170": {"answer": "D) -3$ per person"}}
+{"Problem_171": {"answer": "-53"}}
+{"Problem_172": {"answer": "20  mph"}}
+{"Problem_173": {"answer": "{\n        \"constant_of_variation\": 0.04,\n        \"price_of_800_stickers\": 32.00\n    }"}}
+{"Problem_174": {"answer": "D"}}
+{"Problem_175": {"answer": "B) The x-intercept is -6, and the y-intercept is 10"}}
+{"Problem_176": {"answer": "No"}}
+{"Problem_177": {"answer": "y=6"}}
+{"Problem_178": {"answer": "8"}}
+{"Problem_179": {"answer": "y = -5x - 3"}}
+{"Problem_180": {"answer": "12 ft"}}
+{"Problem_181": {"answer": "The number is 3."}}
+{"Problem_182": {"answer": "x = 5"}}
+{"Problem_183": {"answer": "15"}}
+{"Problem_184": {"answer": "D"}}
+{"Problem_185": {"answer": "C"}}
+{"Problem_186": {"answer": "-1"}}
+{"Problem_187": {"answer": "D"}}
+{"Problem_188": {"answer": "D"}}
+{"Problem_189": {"answer": "C"}}
+{"Problem_190": {"answer": "x = \u00b12, x = \u00b1\\sqrt{6}"}}
+{"Problem_191": {"answer": "B) 25"}}
+{"Problem_192": {"answer": "C"}}
+{"Problem_193": {"answer": "x=-\\frac{7}{4}, x=1, x=\\frac{7}{3}"}}
+{"Problem_194": {"answer": "D) x=1.35 and x=0.45"}}
+{"Problem_195": {"answer": "83"}}
+{"Problem_196": {"answer": "A"}}
+{"Problem_197": {"answer": "D) {(-3.7,0);(0.4,0)}"}}
+{"Problem_198": {"answer": "B) 3 + \\sqrt{2}"}}
+{"Problem_199": {"answer": "x=5"}}
+{"Problem_200": {"answer": "[\"A\", \"B\", \"C\"]"}}
+{"Problem_201": {"answer": "C) III and IV"}}
+{"Problem_202": {"answer": "B) 4x/y"}}
+{"Problem_203": {"answer": "x=9"}}
+{"Problem_204": {"answer": "-3"}}
+{"Problem_205": {"answer": "D) no horizontal asymptotes"}}
+{"Problem_206": {"answer": "B) x=6 and x=-3"}}
+{"Problem_207": {"answer": "B) (n + 6) / (n - 4)"}}
+{"Problem_208": {"answer": "B) \\\\frac{4(x + 8)}{(x^2 - 64)^2}"}}
+{"Problem_209": {"answer": "-1 * sqrt(2) + 6 * sqrt(3)"}}
+{"Problem_210": {"answer": "A"}}
+{"Problem_211": {"answer": "A) 2 x y z \\sqrt{7 x y z}"}}
+{"Problem_212": {"answer": "{\n        \"a\": -6,\n        \"b\": 4\n    }"}}
+{"Problem_213": {"answer": "The account balance after 15 years will be approximately $11,349.15."}}
+{"Problem_214": {"answer": "12.45 years"}}
+{"Problem_215": {"answer": "x = -3 or x = 5"}}
+{"Problem_216": {"answer": "10 \\sqrt{3} \\mathrm{~cm}"}}
+{"Problem_217": {"answer": "10"}}
+{"Problem_218": {"answer": "D) a right triangle"}}
+{"Problem_219": {"answer": "B) cosine"}}
+{"Problem_220": {"answer": "D"}}
+{"Problem_221": {"answer": "7\\\\sqrt{2} \\\\ cm"}}
+{"Problem_222": {"answer": "A) Dilation"}}
+{"Problem_223": {"answer": "(12, -6)"}}
+{"Problem_224": {"answer": "(1, -3)"}}
+{"Problem_225": {"answer": "Kite"}}
+{"Problem_226": {"answer": "12"}}
+{"Problem_227": {"answer": "310"}}
+{"Problem_228": {"answer": "565"}}
+{"Problem_229": {"answer": "2094 cubic feet"}}
+{"Problem_230": {"answer": "16.875 cm^3"}}
+{"Problem_231": {"answer": "7:12"}}
+{"Problem_232": {"answer": "3"}}
+{"Problem_233": {"answer": "B) 4^x = 1/64; x = -3"}}
+{"Problem_234": {"answer": "A"}}
+{"Problem_235": {"answer": "-119/169"}}
+{"Problem_236": {"answer": "0"}}
+{"Problem_237": {"answer": "pi"}}
+{"Problem_238": {"answer": "C) horizontal asymptote"}}
+{"Problem_239": {"answer": "3"}}
+{"Problem_240": {"answer": "B) x-5 is a factor of f(x)"}}
+{"Problem_241": {"answer": "C) x > 5"}}
+{"Problem_242": {"answer": "B"}}
+{"Problem_243": {"answer": "B) a_1=-10, d=3"}}
+{"Problem_244": {"answer": "C) y = 0"}}
+{"Problem_245": {"answer": "B) log_3 (8/25)"}}
+{"Problem_246": {"answer": "B"}}
+{"Problem_247": {"answer": "-2"}}
+{"Problem_248": {"answer": "-cos^2 x"}}
+{"Problem_249": {"answer": "\u03c0/3"}}
+{"Problem_250": {"answer": "B) \u03c0/6, (11\u03c0)/6"}}
+{"Problem_251": {"answer": "-\\frac{\\pi}{4}"}}
+{"Problem_252": {"answer": "C) 0.70710678118 or approximately 0.7071"}}
+{"Problem_253": {"answer": "B)  \\frac{\\pi}{6}"}}
+{"Problem_254": {"answer": "-17"}}
+{"Problem_255": {"answer": "B) x^4 - 8x^3 + 24x^2 - 32x + 16"}}
+{"Problem_256": {"answer": "170"}}
+{"Problem_257": {"answer": "-3.6"}}
+{"Problem_258": {"answer": "No answer provided."}}
+{"Problem_259": {"answer": "B) 132.1^{\\circ}"}}
+{"Problem_260": {"answer": "11.9"}}
+{"Problem_261": {"answer": "-0.536585073743622"}}
+{"Problem_262": {"answer": "12"}}
+{"Problem_263": {"answer": "2 * log(x) + 3 * log(y - sqrt(z)) - 0.5 * log(y + 1)"}}
+{"Problem_264": {"answer": "log((x - 1)^2 / (x + 4)^3 * 125^(1/3))"}}
+{"Problem_265": {"answer": "x = 1/3"}}
+{"Problem_266": {"answer": "{\n        \"quotient\": \"2x^2 + x - 1 + \\\\\\\\frac{4}{3x-2}\",\n        \"remainder\": \"0\"\n    }"}}
+{"Problem_267": {"answer": "800 * 2^5"}}
+{"Problem_268": {"answer": "0.231"}}
+{"Problem_269": {"answer": "B) y = 9x - 0.366"}}
+{"Problem_270": {"answer": "3.146"}}
+{"Problem_271": {"answer": "B) 1/2 * tan^(-1)(x^2/4) + C"}}
+{"Problem_272": {"answer": "No answer provided."}}
+{"Problem_273": {"answer": "6.204"}}
+{"Problem_274": {"answer": "1"}}
+{"Problem_275": {"answer": "0.333"}}
+{"Problem_276": {"answer": "3 * sin(3x)"}}
+{"Problem_277": {"answer": "B) 16/3"}}
+{"Problem_278": {"answer": "D"}}
+{"Problem_279": {"answer": "No answer provided."}}
+{"Problem_280": {"answer": "1/6"}}
+{"Problem_281": {"answer": "C"}}
+{"Problem_282": {"answer": "C"}}
+{"Problem_283": {"answer": "B"}}
+{"Problem_284": {"answer": "D"}}
+{"Problem_285": {"answer": "\\\\frac{1}{4}e^{2x}(2x - 1) + C"}}
+{"Problem_286": {"answer": "E) \\\\frac{2}{5}(x+3)^{\\\\frac{5}{2}}-2(x+3)^{\\\\frac{3}{2}}+C"}}
+{"Problem_287": {"answer": "y = c \\* x + 1"}}
+{"Problem_288": {"answer": "-6"}}
+{"Problem_289": {"answer": "<answer>"}}
+{"Problem_290": {"answer": "[1, 2, 3]"}}
+{"Problem_291": {"answer": "[6, 1, 1; 1, 6, 1; 1, 1, 6]"}}
+{"Problem_292": {"answer": "16.666666666666668"}}
+{"Problem_293": {"answer": "[a,b]"}}
+{"Problem_294": {"answer": "[a_{11}, a_{12}, a_{13}; a_{21}, a_{22}, a_{23}; a_{31}, a_{32}, a_{33} ] = [6, -11, 6; 0, 3, 0; 0, 6, 0]"}}
+{"Problem_295": {"answer": "2"}}
+{"Problem_296": {"answer": "The dimension of the linear subspace generated by the given vectors is 3."}}
+{"Problem_297": {"answer": "[0, 0, 0; 0, 0, 0; 0, 0, 0]"}}
+{"Problem_298": {"answer": "1"}}
+{"Problem_299": {"answer": "The determinant of the adjoint matrix A* is 4."}}
+{"Problem_300": {"answer": "<value of |A^*-2A^-1|>"}}
+{"Problem_301": {"answer": "[1, -2, 3; 0, 1, -4; 0, 0, 1]"}}
+{"Problem_302": {"answer": "[2, 1]"}}
+{"Problem_303": {"answer": "[2, 2]"}}
+{"Problem_304": {"answer": "a = 4"}}
+{"Problem_305": {"answer": "[[a11, a12], [a21, a22]]"}}
+{"Problem_306": {"answer": "[1, -1, 3]"}}
+{"Problem_307": {"answer": "3 + 2\\\\sqrt{3}"}}
+{"Problem_308": {"answer": "6"}}
+{"Problem_309": {"answer": "The limit of the sequence {y_n}/{x_n} as n approaches infinity is the golden ratio, (1 + sqrt(5))/2."}}
+{"Problem_310": {"answer": "a = 45"}}
+{"Problem_311": {"answer": "The polynomial is x^4 - 10x^2 + 1"}}
+{"Problem_312": {"answer": "f(x) = x^2 - 5x + 6"}}
+{"Problem_313": {"answer": "<answer>"}}
+{"Problem_314": {"answer": "The limit is 3."}}
+{"Problem_315": {"answer": "0.5"}}
+{"Problem_316": {"answer": "a = 1 or a = 3"}}
+{"Problem_317": {"answer": "0.5"}}
+{"Problem_318": {"answer": "0.5"}}
+{"Problem_319": {"answer": "0.4"}}
+{"Problem_320": {"answer": "x = 1 + sqrt(2), x = 1 - sqrt(2)"}}
+{"Problem_321": {"answer": "32256"}}
+{"Problem_322": {"answer": "a = 1"}}
+{"Problem_323": {"answer": "16/3"}}
+{"Problem_324": {"answer": "1/2"}}
+{"Problem_325": {"answer": "-e/2"}}
+{"Problem_326": {"answer": "0.6065306597126334"}}
+{"Problem_327": {"answer": "1"}}
+{"Problem_328": {"answer": "{\n        \"alpha\": 1,\n        \"beta\": 0\n    }"}}
+{"Problem_329": {"answer": "<length of the curve>"}}
+{"Problem_330": {"answer": "0.667"}}
+{"Problem_331": {"answer": "0.5"}}
+{"Problem_332": {"answer": "<calculated area>"}}
+{"Problem_333": {"answer": "0.7853981633974483"}}
+{"Problem_334": {"answer": "<answer>"}}
+{"Problem_335": {"answer": "The sum of the series is 2."}}
+{"Problem_336": {"answer": "<answer>"}}
+{"Problem_337": {"answer": "null"}}
+{"Problem_338": {"answer": "y(x) = e^(-x) + xe^(-x)"}}
+{"Problem_339": {"answer": "No, there does not exist a system of three linear homogeneous ODEs such that all of $y_1,y_2,y_3$ are the solution to this homogeneous ODE system."}}
+{"Problem_340": {"answer": "Yes, the ODE has a nonzero power series solution near $x=0$."}}
+{"Problem_341": {"answer": "No, $y=0$ is not a singular solution to $y'=\\sqrt{y}\\ln(\\ln(1+y))$."}}
+{"Problem_342": {"answer": "The equilibrium (x,y)=(0,0) is unstable."}}
+{"Problem_343": {"answer": "The equilibrium x(t)=0 is stable if g(0)=0 and g'(0)<0, unstable if g(0)=0 and g'(0)>0, and asymptotically stable if g(0)=0, g'(0)=0, and g''(0)>0."}}
+{"Problem_344": {"answer": "The number of limit cycles cannot be determined exactly with the given information."}}
+{"Problem_345": {"answer": "No, we cannot assert that $\\frac{\\partial y}{\\partial \\eta}(x,\\eta)$ is always positive."}}
+{"Problem_346": {"answer": "No, there does not exist any nonzero function $f(x)\\\\in L^2(\\\\mathbb{R}^n)$ that is harmonic in $\\\\mathbb{R}^n$."}}
+{"Problem_347": {"answer": "Yes, u is a constant."}}
+{"Problem_348": {"answer": "The limit does not exist."}}
+{"Problem_349": {"answer": "[1, -1]"}}
+{"Problem_350": {"answer": "277, 200"}}
+{"Problem_351": {"answer": "0.24"}}
+{"Problem_352": {"answer": "4060"}}
+{"Problem_353": {"answer": "n = 3"}}
+{"Problem_354": {"answer": "0.456790123456789"}}
+{"Problem_355": {"answer": "0.3435524971668944"}}
+{"Problem_356": {"answer": "0.1111111111111111"}}
+{"Problem_357": {"answer": "The exact value cannot be determined without knowing the specific distribution of W and S, but the expected value can be approximated using Monte Carlo simulations or other numerical methods."}}
+{"Problem_358": {"answer": "0.375"}}
+{"Problem_359": {"answer": "825"}}
+{"Problem_360": {"answer": "0.3032653298033023"}}
+{"Problem_361": {"answer": "0.0505"}}
+{"Problem_362": {"answer": "<variance>"}}
+{"Problem_363": {"answer": "<calculated_value>"}}
+{"Problem_364": {"answer": "0.5"}}
+{"Problem_365": {"answer": "<variance of X given X>1 and Y>2>"}}
+{"Problem_366": {"answer": "<answer>"}}
+{"Problem_367": {"answer": "-0.04"}}
+{"Problem_368": {"answer": "The long-run probability that there is one ball in the left box is 1/2."}}
+{"Problem_369": {"answer": "The probability that $W_t = 0$ for some $t \\\\in [1, 3]$ is 1."}}
+{"Problem_370": {"answer": "0.5"}}
+{"Problem_371": {"answer": "[5.0, 2.23606797749979]"}}
+{"Problem_372": {"answer": "Reject the null hypothesis"}}
+{"Problem_373": {"answer": "The slope of the least squares regression line is 1.4"}}
+{"Problem_374": {"answer": "Yes, the data suggests that the actual percentage of type A donations differs from 40% at a significance level of 0.01."}}
+{"Problem_375": {"answer": "Yes, the concrete should be used for the particular application."}}
+{"Problem_376": {"answer": "{\n        \"sample_mean\": 107.72,\n        \"sample_standard_deviation\": 1.217,\n        \"confidence_interval\": [106.25, 109.19]\n    }"}}
+{"Problem_377": {"answer": "[0.231, 0.269]"}}
+{"Problem_378": {"answer": "[0.33, 2.67]"}}
+{"Problem_379": {"answer": "<confidence interval>"}}
+{"Problem_380": {"answer": "There is sufficient evidence to indicate a difference in the true means of the two groups at level \u03b1=0.05."}}
+{"Problem_381": {"answer": "To determine if X is a complete statistic, we need to check if the expectation of any function, g(X), of X is zero implies that g(X) is identically zero. In other words, if E_theta(g(X)) = 0 for all theta in the parameter space implies g(X) = 0 almost surely."}}
+{"Problem_382": {"answer": "The Cramer-Rao Lower Bound for estimating \\\\(\\\\theta\\\\) is \\\\(\\\\frac{\\\\theta^2}{2n}\\\\)."}}
+{"Problem_383": {"answer": "<variance of the asymptotic distribution>"}}
+{"Problem_384": {"answer": "The variance of the asymptotic distribution is 1."}}
+{"Problem_385": {"answer": "No, there does not exist a Cramer-Rao Lower Bound for estimating \\\\(\\\\theta\\\\)."}}
+{"Problem_386": {"answer": "The UMVUE for 1/\u03b2 is n/X\u0304, where X\u0304 is the sample mean of X\u2081,..., X\u2099."}}
+{"Problem_387": {"answer": "Yes, the UMP test should reject H_0 if \u03a3_{i=1}^n X_i^2 > \u03b8_0/2 * \u03c7_{2n, \u03b1}^2"}}

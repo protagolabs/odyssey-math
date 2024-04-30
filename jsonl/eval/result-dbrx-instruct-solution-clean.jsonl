@@ -1,0 +1,387 @@
+{"Problem_1": {"true": "16\\\\\n\\noindent", "prediction": "3", "is_correct": "0", "label": "Algebra", "level": "high school competition"}}
+{"Problem_2": {"true": "3906\\\\\n\\noindent", "prediction": "1", "is_correct": "0", "label": "Algebra", "level": "high school competition"}}
+{"Problem_3": {"true": "66\\\\\n\\noindent", "prediction": "The number of stickers Sasha originally had is between 50 and 100, exclusive.", "is_correct": "0", "label": "Algebra", "level": "high school competition"}}
+{"Problem_4": {"true": "101\\\\\n\\noindent", "prediction": "f(2020) = 1010", "is_correct": "0", "label": "Algebra", "level": "high school competition"}}
+{"Problem_5": {"true": "235\\\\\n\\noindent", "prediction": "The value of d - b cannot be determined with the given information.", "is_correct": "0", "label": "Algebra", "level": "high school competition"}}
+{"Problem_6": {"true": "16\\\\\n\\noindent", "prediction": "n = 11", "is_correct": "0", "label": "Algebra", "level": "high school competition"}}
+{"Problem_7": {"true": "100!\\\\\n\\noindent", "prediction": "99", "is_correct": "0", "label": "Algebra", "level": "high school competition"}}
+{"Problem_8": {"true": "D\\\\\n\\noindent", "prediction": "2023", "is_correct": "0", "label": "Algebra", "level": "high school competition"}}
+{"Problem_9": {"true": "1\\\\\n\\noindent", "prediction": "There are 6 possible sets of (a, b, c).", "is_correct": "0", "label": "Algebra", "level": "high school competition"}}
+{"Problem_10": {"true": "4\\\\\n\\noindent", "prediction": "There is no solution for this problem.", "is_correct": "0", "label": "Algebra", "level": "high school competition"}}
+{"Problem_11": {"true": "13\\\\\n\\noindent", "prediction": "The minimum value of {a_n + 90} / n is 90.", "is_correct": "0", "label": "Algebra", "level": "high school competition"}}
+{"Problem_12": {"true": "7\\\\\n\\noindent", "prediction": "n = 6", "is_correct": "0", "label": "Algebra", "level": "high school competition"}}
+{"Problem_13": {"true": "264\\\\\n\\noindent", "prediction": "The prime numbers with the shape $p^p+1$ that have no more than 19 digits are 2^2+1 = 5, 3^3+1 = 28, 5^5+1 = 3126, and 11^11+1 = 25937424601. The sum of these prime numbers is 25937424631.", "is_correct": "0", "label": "Algebra", "level": "high school competition"}}
+{"Problem_14": {"true": "2\\\\\n\\noindent", "prediction": "The maximum possible value of $n$ is 5.", "is_correct": "0", "label": "Algebra", "level": "high school competition"}}
+{"Problem_15": {"true": "1,9\\\\\n\\noindent", "prediction": "The first digit before the decimal point is 1 and after the decimal point is a non-terminating sequence of numbers.", "is_correct": "0", "label": "Algebra", "level": "high school competition"}}
+{"Problem_16": {"true": "35964\\\\\n\\noindent", "prediction": "The sum of all such 5-digit numbers N is 100111.", "is_correct": "0", "label": "Algebra", "level": "high school competition"}}
+{"Problem_17": {"true": "192\\\\\n\\noindent", "prediction": "37", "is_correct": "0", "label": "Algebra", "level": "high school competition"}}
+{"Problem_18": {"true": "81\\\\\n\\noindent", "prediction": "a + b = 10", "is_correct": "0", "label": "Algebra", "level": "high school competition"}}
+{"Problem_19": {"true": "34\\\\\n\\noindent", "prediction": "The sum of all such $n$ is 204.", "is_correct": "0", "label": "Algebra", "level": "high school competition"}}
+{"Problem_20": {"true": "1989\\\\\n\\noindent", "prediction": "The sum of all such natural numbers x is 1000.", "is_correct": "0", "label": "Algebra", "level": "high school competition"}}
+{"Problem_21": {"true": "251,7\\\\\n\\noindent", "prediction": "{\n        \"a\": 2,\n        \"b\": 3\n    }", "is_correct": "0", "label": "Algebra", "level": "high school competition"}}
+{"Problem_22": {"true": "14\\\\\n\\noindent", "prediction": "The sum of $p$ and $q$ is $4$.", "is_correct": "0", "label": "Algebra", "level": "high school competition"}}
+{"Problem_23": {"true": "840\\\\\n\\noindent", "prediction": "994", "is_correct": "0", "label": "Algebra", "level": "high school competition"}}
+{"Problem_24": {"true": "17160\\\\\n\\noindent", "prediction": "There are 36 sets (a, b, c) that satisfy S(a) + S(b) + S(c) = M.", "is_correct": "0", "label": "Algebra", "level": "high school competition"}}
+{"Problem_25": {"true": "$127$\\\\\n\\noindent", "prediction": "1002", "is_correct": "0", "label": "Algebra", "level": "high school competition"}}
+{"Problem_26": {"true": "C\\\\\n\\noindent", "prediction": "No answer provided.", "is_correct": "0", "label": "Algebra", "level": "high school competition"}}
+{"Problem_27": {"true": "31\\\\\n\\noindent", "prediction": "The sum of all positive integers n such that 3 | pn is 12.", "is_correct": "0", "label": "Algebra", "level": "high school competition"}}
+{"Problem_28": {"true": "10\\\\\n\\noindent", "prediction": "The sum of the values of $y$ is 5.", "is_correct": "0", "label": "Algebra", "level": "high school competition"}}
+{"Problem_29": {"true": "6\\\\\n\\noindent", "prediction": "There are no non-zero integer pairs (a,b) that satisfy the equation.", "is_correct": "0", "label": "Algebra", "level": "high school competition"}}
+{"Problem_30": {"true": "52000 \\\\\n\\noindent", "prediction": "10025", "is_correct": "0", "label": "Algebra", "level": "high school competition"}}
+{"Problem_31": {"true": "1111\\\\\n\\noindent", "prediction": "1000000", "is_correct": "0", "label": "Algebra", "level": "high school competition"}}
+{"Problem_32": {"true": "76 \\\\\n\\noindent", "prediction": "11", "is_correct": "0", "label": "Algebra", "level": "high school competition"}}
+{"Problem_33": {"true": "7\\\\\n\\noindent", "prediction": "There are 12 triples of positive integers (a, b, c) satisfying a^2 + b^2 + c^2 = 2005 and a \u2264 b \u2264 c.", "is_correct": "0", "label": "Algebra", "level": "high school competition"}}
+{"Problem_34": {"true": "1991\\\\\n\\noindent", "prediction": "1991", "is_correct": "1", "label": "Algebra", "level": "high school competition"}}
+{"Problem_35": {"true": "193\\\\\n\\noindent", "prediction": "156", "is_correct": "0", "label": "Algebra", "level": "high school competition"}}
+{"Problem_36": {"true": "5\\\\\n\\noindent", "prediction": "2", "is_correct": "0", "label": "Algebra", "level": "high school competition"}}
+{"Problem_37": {"true": "5\\\\\n\\noindent", "prediction": "The sum of all such positive integers $b$ is 12.", "is_correct": "0", "label": "Algebra", "level": "high school competition"}}
+{"Problem_38": {"true": "30\\\\\n\\noindent", "prediction": "The sum of all such n is 2016.", "is_correct": "0", "label": "Algebra", "level": "high school competition"}}
+{"Problem_39": {"true": "160 \\\\\n\\noindent", "prediction": "The sum of all positive integers k satisfying the condition is 211.", "is_correct": "0", "label": "Algebra", "level": "high school competition"}}
+{"Problem_40": {"true": "45\\\\\n\\noindent", "prediction": "The sum of all such $n$ is $-2005$.", "is_correct": "0", "label": "Algebra", "level": "high school competition"}}
+{"Problem_41": {"true": "97104 \\\\\n\\noindent", "prediction": "There is no such positive integer with more than two digits where each pair of adjacent digits forms a perfect square.", "is_correct": "0", "label": "Algebra", "level": "high school competition"}}
+{"Problem_42": {"true": "90\\\\\n\\noindent", "prediction": "The number of values of \u03b1 that make the system of equations have integer solutions is 2006.", "is_correct": "0", "label": "Algebra", "level": "high school competition"}}
+{"Problem_43": {"true": "154\\\\\n\\noindent", "prediction": "1003", "is_correct": "0", "label": "Algebra", "level": "high school competition"}}
+{"Problem_44": {"true": "3\\\\\n\\noindent", "prediction": "The maximum number of elements in $S$ is 5.", "is_correct": "0", "label": "Algebra", "level": "high school competition"}}
+{"Problem_45": {"true": "2672002\\\\\n\\noindent", "prediction": "200320022022", "is_correct": "0", "label": "NumberTheory", "level": "high school competition"}}
+{"Problem_46": {"true": "8 \\\\\n\\noindent", "prediction": "The number of positive integer solutions is 24.", "is_correct": "0", "label": "NumberTheory", "level": "high school competition"}}
+{"Problem_47": {"true": "$4$ \\\\\n\\noindent", "prediction": "The number of integers satisfying the condition that $x^2 + 5n + 1$ is a perfect square is known to be $0$ for $n > 0$.", "is_correct": "0", "label": "NumberTheory", "level": "high school competition"}}
+{"Problem_48": {"true": "48\\\\\n\\noindent", "prediction": "16", "is_correct": "0", "label": "Algebra", "level": "high school competition"}}
+{"Problem_49": {"true": "0\\\\\n\\noindent", "prediction": "The maximum of x + y + z is 0.", "is_correct": "1", "label": "Algebra", "level": "high school competition"}}
+{"Problem_50": {"true": "31\\\\\n\\noindent", "prediction": "The value of the two-digit number $\\overline{ab}$ is 25.", "is_correct": "0", "label": "Algebra", "level": "high school competition"}}
+{"Problem_51": {"true": "1975\\\\\n\\noindent", "prediction": "0", "is_correct": "0", "label": "NumberTheory", "level": "high school competition"}}
+{"Problem_52": {"true": "0\\\\\n\\noindent", "prediction": "The sum of the sequence from n=1 to 2022 is approximately 2022.000000.", "is_correct": "0", "label": "Algebra", "level": "high school competition"}}
+{"Problem_53": {"true": "2 \\\\\n\\noindent", "prediction": "The maximum value of a + b is 1/2.", "is_correct": "0", "label": "Algebra", "level": "high school competition"}}
+{"Problem_54": {"true": "$\\frac{8}{3}$\\\\\n\\noindent", "prediction": "2", "is_correct": "0", "label": "Algebra", "level": "high school competition"}}
+{"Problem_55": {"true": "35\\\\\n\\noindent", "prediction": "f(6) = 21", "is_correct": "0", "label": "Algebra", "level": "high school competition"}}
+{"Problem_56": {"true": "14996\\\\\n\\noindent", "prediction": "102", "is_correct": "0", "label": "Algebra", "level": "high school competition"}}
+{"Problem_57": {"true": "3333 \\\\\n\\noindent", "prediction": "m = 100", "is_correct": "0", "label": "Algebra", "level": "high school competition"}}
+{"Problem_58": {"true": "2 \\\\\n\\noindent", "prediction": "x_1 + x_2 = 2", "is_correct": "1", "label": "Algebra", "level": "high school competition"}}
+{"Problem_59": {"true": "$\\frac{\\sqrt{2}}{2}$ \\\\\n\\noindent", "prediction": "x_0 = 2", "is_correct": "0", "label": "Algebra", "level": "high school competition"}}
+{"Problem_60": {"true": "3 \\\\\n\\noindent", "prediction": "There are infinitely many sets of positive integers (x, y) that satisfy the equation 5F_x - 3F_y = 1.", "is_correct": "0", "label": "Algebra", "level": "high school competition"}}
+{"Problem_61": {"true": "1017073\\\\\n\\noindent", "prediction": "The number of such positive integers is 2018.", "is_correct": "0", "label": "Algebra", "level": "high school competition"}}
+{"Problem_62": {"true": "4862 \\\\\n\\noindent", "prediction": "120 - 10!", "is_correct": "0", "label": "Algebra", "level": "high school competition"}}
+{"Problem_63": {"true": "0 \\\\\n\\noindent", "prediction": "2", "is_correct": "0", "label": "Algebra", "level": "high school competition"}}
+{"Problem_64": {"true": "6\\\\\n\\noindent", "prediction": "The value of m + n cannot be determined with the given information.", "is_correct": "0", "label": "Algebra", "level": "high school competition"}}
+{"Problem_65": {"true": "8 \\\\\n\\noindent", "prediction": "4", "is_correct": "0", "label": "Algebra", "level": "high school competition"}}
+{"Problem_66": {"true": "$(0,\\frac{1}{2}) \\cup (2,+\\infty)$ \\\\\n\\noindent", "prediction": "a > 0", "is_correct": "0", "label": "Algebra", "level": "high school competition"}}
+{"Problem_67": {"true": "$\\sqrt{19}$ \\\\\n\\noindent", "prediction": "k = 3.6", "is_correct": "0", "label": "Algebra", "level": "high school competition"}}
+{"Problem_68": {"true": "580 \\\\\n\\noindent", "prediction": "There are 36 functions that make $p(f)|36$.", "is_correct": "0", "label": "Algebra", "level": "high school competition"}}
+{"Problem_69": {"true": "$\\frac{\\sqrt{6}-\\sqrt{2}}{2}$ \\\\\n\\noindent", "prediction": "1", "is_correct": "0", "label": "Algebra", "level": "high school competition"}}
+{"Problem_70": {"true": "12\\\\\n\\noindent", "prediction": "null", "is_correct": "0", "label": "Algebra", "level": "high school competition"}}
+{"Problem_71": {"true": "20\\\\\n\\noindent", "prediction": "-10", "is_correct": "0", "label": "Algebra", "level": "high school competition"}}
+{"Problem_72": {"true": "401\\\\\n\\noindent", "prediction": "2", "is_correct": "0", "label": "Algebra", "level": "high school competition"}}
+{"Problem_73": {"true": "2021 \\\\\n\\noindent", "prediction": "2022", "is_correct": "0", "label": "Algebra", "level": "high school competition"}}
+{"Problem_74": {"true": "1\\\\\n\\noindent", "prediction": "The system of equations has no real solutions.", "is_correct": "0", "label": "Algebra", "level": "high school competition"}}
+{"Problem_75": {"true": "$\\frac{\\sqrt{2}}{2},-\\frac{\\sqrt{2}}{2}$\\\\\n\\noindent", "prediction": "{\n        \"minimum\": -0.25,\n        \"maximum\": 0.5\n    }", "is_correct": "0", "label": "Algebra", "level": "high school competition"}}
+{"Problem_76": {"true": "13\\\\\n\\noindent", "prediction": "1", "is_correct": "0", "label": "Algebra", "level": "high school competition"}}
+{"Problem_77": {"true": "194\\\\\n\\noindent", "prediction": "198", "is_correct": "0", "label": "Algebra", "level": "high school competition"}}
+{"Problem_78": {"true": "7\\\\\n\\noindent", "prediction": "2024", "is_correct": "0", "label": "Algebra", "level": "high school competition"}}
+{"Problem_79": {"true": "3\\\\\n\\noindent", "prediction": "1", "is_correct": "0", "label": "Algebra", "level": "high school competition"}}
+{"Problem_80": {"true": "$\\frac{869}{27}$\\\\\n\\noindent", "prediction": "The maximum value of 9x + y is 25.", "is_correct": "0", "label": "Algebra", "level": "high school competition"}}
+{"Problem_81": {"true": "$5+2 \\sqrt{3}$\\\\\n\\noindent", "prediction": "5", "is_correct": "0", "label": "Algebra", "level": "high school competition"}}
+{"Problem_82": {"true": "-1\\\\\n\\noindent", "prediction": "-1", "is_correct": "1", "label": "Algebra", "level": "high school competition"}}
+{"Problem_83": {"true": "12\\\\\n\\noindent", "prediction": "<answer>", "is_correct": "0", "label": "Algebra", "level": "high school competition"}}
+{"Problem_84": {"true": "144\\\\\n\\noindent", "prediction": "<answer>", "is_correct": "0", "label": "Algebra", "level": "high school competition"}}
+{"Problem_85": {"true": "1\\\\\n\\noindent", "prediction": "The minimum value of a^2 + b^2 is 16.", "is_correct": "0", "label": "Algebra", "level": "high school competition"}}
+{"Problem_86": {"true": "$\\frac{4}{3}$\\\\\n\\noindent", "prediction": "The maximum value of real number c is 2.", "is_correct": "0", "label": "Algebra", "level": "high school competition"}}
+{"Problem_87": {"true": "$\\frac{7}{10}\\pi$\\\\\n\\noindent", "prediction": "1/2 * sqrt(3)", "is_correct": "0", "label": "Geometry", "level": "high school competition"}}
+{"Problem_88": {"true": "$\\frac{\\sqrt{2}}{3}$\\\\\n\\noindent", "prediction": "-0.5", "is_correct": "0", "label": "Geometry", "level": "high school competition"}}
+{"Problem_89": {"true": "$-\\frac{1}{4}$\\\\\n\\noindent", "prediction": "1", "is_correct": "0", "label": "Geometry", "level": "high school competition"}}
+{"Problem_90": {"true": "120 \\\\\n\\noindent", "prediction": "1000", "is_correct": "0", "label": "Geometry", "level": "high school competition"}}
+{"Problem_91": {"true": "$4 \\sqrt{2}$\\\\\n\\noindent", "prediction": "The maximum of $|\\\\overrightarrow{A B}|+|\\\\overrightarrow{B C}|$ is 4.", "is_correct": "0", "label": "Geometry", "level": "high school competition"}}
+{"Problem_92": {"true": "$\\frac{4}{29} \\sqrt{29}$\n\\\\\n\\noindent", "prediction": "0.4330127018922193", "is_correct": "The correct answer is $\\frac{4}{29} \\sqrt{29}$, which numerically approximates to approximately 0.4330127018922193. Since the student's answer matches this numerical approximation, the score is:\n\n1", "label": "Geometry", "level": "high school competition"}}
+{"Problem_93": {"true": "$2 \\sqrt{7}$\\\\\n\\noindent", "prediction": "4", "is_correct": "0", "label": "Geometry", "level": "high school competition"}}
+{"Problem_94": {"true": "24\\\\\n\\noindent", "prediction": "The number of bricks that can fit into the box is 24 pieces.", "is_correct": "1", "label": "Geometry", "level": "high school competition"}}
+{"Problem_95": {"true": "10\\\\\n\\noindent", "prediction": "15", "is_correct": "0", "label": "Geometry", "level": "high school competition"}}
+{"Problem_96": {"true": "1600\\\\\n\\noindent", "prediction": "1800", "is_correct": "0", "label": "Geometry", "level": "high school competition"}}
+{"Problem_97": {"true": "$\\frac{\\sqrt{15}}{3}$\\\\\n\\noindent", "prediction": "1.4142135623730951", "is_correct": "0", "label": "Geometry", "level": "high school competition"}}
+{"Problem_98": {"true": "20 \\\\\n\\noindent", "prediction": "15", "is_correct": "0", "label": "Geometry", "level": "high school competition"}}
+{"Problem_99": {"true": "90\\\\\n\\noindent", "prediction": "The measure of angle C is 90 degrees.", "is_correct": "1", "label": "Geometry", "level": "high school competition"}}
+{"Problem_100": {"true": "$\\sqrt{15}$\\\\\n\\noindent", "prediction": "The maximum area of quadrilateral $ABCD$ is 4.", "is_correct": "0", "label": "Geometry", "level": "high school competition"}}
+{"Problem_101": {"true": "$\\frac{8}{17}$\n\\\\\n\\noindent", "prediction": "sin A = 1/2", "is_correct": "0", "label": "Geometry", "level": "high school competition"}}
+{"Problem_102": {"true": "3\\\\\n\\noindent", "prediction": "3", "is_correct": "1", "label": "Geometry", "level": "high school competition"}}
+{"Problem_103": {"true": "$\\frac{1}{2}$\\\\\n\\noindent", "prediction": "-0.6", "is_correct": "0", "label": "Geometry", "level": "high school competition"}}
+{"Problem_104": {"true": "\\frac{\\sqrt{30}}{12} $.\n\n\\noindent", "prediction": "1.5", "is_correct": "0", "label": "Geometry", "level": "high school competition"}}
+{"Problem_105": {"true": "$\\sqrt{3}$ \\\\\n\\noindent", "prediction": "The value of AM/ME is 1/3.", "is_correct": "0", "label": "Geometry", "level": "high school competition"}}
+{"Problem_106": {"true": "$\\sqrt{23}$\\\\\n\\noindent", "prediction": "6", "is_correct": "0", "label": "Geometry", "level": "high school competition"}}
+{"Problem_107": {"true": "13 \\\\\n\\noindent", "prediction": "120", "is_correct": "0", "label": "Geometry", "level": "high school competition"}}
+{"Problem_108": {"true": "32\\\\\n\\noindent", "prediction": "The minimum perimeter of quadrilateral $ABCD$ is $2(AB + AD)$, where $AB$ and $AD$ are the shortest possible distinct integer lengths.", "is_correct": "0", "label": "Geometry", "level": "high school competition"}}
+{"Problem_109": {"true": "2\\\\\n\\noindent", "prediction": "two loop-like structures", "is_correct": "1", "label": "Geometry", "level": "high school competition"}}
+{"Problem_110": {"true": "$\\frac{\\sqrt{6}}{3}$\\\\\n\\noindent", "prediction": "The eccentricity of \u03931 is \u221a(1 - (b^2/a^2))", "is_correct": "0", "label": "Geometry", "level": "high school competition"}}
+{"Problem_111": {"true": "1\\\\\n\\noindent", "prediction": "-1", "is_correct": "0", "label": "Geometry", "level": "high school competition"}}
+{"Problem_112": {"true": "$\\frac{3}{10}$\\\\\n\\noindent", "prediction": "0.42105263157894735", "is_correct": "0", "label": "Combinatorics", "level": "high school competition"}}
+{"Problem_113": {"true": "4045\\\\\n\\noindent", "prediction": "2023", "is_correct": "0", "label": "Combinatorics", "level": "high school competition"}}
+{"Problem_114": {"true": "$\\frac{13}{288}$\\\\\n\\noindent", "prediction": "0.5", "is_correct": "0", "label": "Combinatorics", "level": "high school competition"}}
+{"Problem_115": {"true": "90 \\\\\n\\noindent", "prediction": "264", "is_correct": "0", "label": "Combinatorics", "level": "high school competition"}}
+{"Problem_116": {"true": "321\\\\\n\\noindent", "prediction": "36", "is_correct": "0", "label": "Combinatorics", "level": "high school competition"}}
+{"Problem_117": {"true": "$\\frac{3}{17}$\\\\\n\\noindent", "prediction": "1/30", "is_correct": "0", "label": "Combinatorics", "level": "high school competition"}}
+{"Problem_118": {"true": "101 \\\\\n\\noindent", "prediction": "Each wizard needs to endure at least 101 beard pulls.", "is_correct": "1", "label": "Combinatorics", "level": "high school competition"}}
+{"Problem_119": {"true": "1\\\\\n\\noindent", "prediction": "225", "is_correct": "0", "label": "Combinatorics", "level": "high school competition"}}
+{"Problem_120": {"true": "51\\\\\n\\noindent", "prediction": "395", "is_correct": "0", "label": "Combinatorics", "level": "high school competition"}}
+{"Problem_121": {"true": "112\\\\\n\\noindent", "prediction": "47", "is_correct": "0", "label": "Combinatorics", "level": "high school competition"}}
+{"Problem_122": {"true": "511566 \\\\\n\\noindent", "prediction": "<answer>", "is_correct": "0", "label": "Combinatorics", "level": "high school competition"}}
+{"Problem_123": {"true": "39\\\\\n\\noindent", "prediction": "The maximum value of $M(A)$ is 105.", "is_correct": "0", "label": "Combinatorics", "level": "high school competition"}}
+{"Problem_124": {"true": "A \\\\\n\\noindent", "prediction": "A. Alice", "is_correct": "1", "label": "Combinatorics", "level": "high school competition"}}
+{"Problem_125": {"true": "32\\\\\n\\noindent", "prediction": "The smallest integer k > 2 that satisfies the given condition is k = 6.", "is_correct": "0", "label": "Combinatorics", "level": "high school competition"}}
+{"Problem_126": {"true": "1010\\\\\n\\noindent", "prediction": "The minimum value of $k$ is 1009.", "is_correct": "0", "label": "Combinatorics", "level": "high school competition"}}
+{"Problem_127": {"true": "$\\frac{40}{243}$.\\\\\n\\noindent", "prediction": "1/4", "is_correct": "0", "label": "Combinatorics", "level": "high school competition"}}
+{"Problem_128": {"true": "96\\\\\n\\noindent", "prediction": "264", "is_correct": "0", "label": "Combinatorics", "level": "high school competition"}}
+{"Problem_129": {"true": "2\\\\\n\\noindent", "prediction": "The minimum number of times that someone writes down different numbers is n - 1.", "is_correct": "0", "label": "Combinatorics", "level": "high school competition"}}
+{"Problem_130": {"true": "5832\\\\\n\\noindent", "prediction": "At most 6561 guests can be at the party.", "is_correct": "0", "label": "Combinatorics", "level": "high school competition"}}
+{"Problem_131": {"true": "A\\\\\n\\noindent", "prediction": "B. Alice can guarantee victory.", "is_correct": "0", "label": "Combinatorics", "level": "high school competition"}}
+{"Problem_132": {"true": "B\\\\\n\\noindent", "prediction": "B. Carl has a winning strategy.", "is_correct": "1", "label": "Combinatorics", "level": "high school competition"}}
+{"Problem_133": {"true": "22\\\\\n\\noindent", "prediction": "12 coins", "is_correct": "0", "label": "Combinatorics", "level": "high school competition"}}
+{"Problem_134": {"true": "512\\\\\n\\noindent", "prediction": "The value of k can be any integer between 1 and 10, inclusive.", "is_correct": "0", "label": "Combinatorics", "level": "high school competition"}}
+{"Problem_135": {"true": "2024\\\\\n\\noindent", "prediction": "0.00048828125", "is_correct": "0", "label": "Combinatorics", "level": "high school competition"}}
+{"Problem_136": {"true": "$2^{22}$\\\\\n\\noindent", "prediction": "66 holidays", "is_correct": "0", "label": "Combinatorics", "level": "high school competition"}}
+{"Problem_137": {"true": "2023\\\\\n\\noindent", "prediction": "119", "is_correct": "0", "label": "Combinatorics", "level": "high school competition"}}
+{"Problem_138": {"true": "27568\\\\\n\\noindent", "prediction": "30240", "is_correct": "0", "label": "Combinatorics", "level": "high school competition"}}
+{"Problem_139": {"true": "869\\\\\n\\noindent", "prediction": "The number of such sequences is 120.", "is_correct": "0", "label": "Combinatorics", "level": "high school competition"}}
+{"Problem_140": {"true": "342\\\\\n\\noindent", "prediction": "1024", "is_correct": "0", "label": "Combinatorics", "level": "high school competition"}}
+{"Problem_141": {"true": "91\\\\\n\\noindent", "prediction": "12", "is_correct": "0", "label": "Combinatorics", "level": "high school competition"}}
+{"Problem_142": {"true": "980\\\\\n\\noindent", "prediction": "120", "is_correct": "0", "label": "Combinatorics", "level": "high school competition"}}
+{"Problem_143": {"true": "5880\\\\\n\\noindent", "prediction": "144", "is_correct": "0", "label": "Combinatorics", "level": "high school competition"}}
+{"Problem_144": {"true": "61\\\\\n\\noindent", "prediction": "There are 90 numbers that can be selected.", "is_correct": "0", "label": "Combinatorics", "level": "high school competition"}}
+{"Problem_145": {"true": "26\\\\\n\\noindent", "prediction": "50", "is_correct": "0", "label": "Combinatorics", "level": "high school competition"}}
+{"Problem_146": {"true": "9\\\\\n\\noindent", "prediction": "5", "is_correct": "0", "label": "Combinatorics", "level": "high school competition"}}
+{"Problem_147": {"true": "3125\\\\\n\\noindent", "prediction": "The four-digit number is 1025 and the digit a is 1.", "is_correct": "0", "label": "Combinatorics", "level": "high school competition"}}
+{"Problem_148": {"true": "116\\\\\n\\noindent", "prediction": "The answer is 106.", "is_correct": "0", "label": "Combinatorics", "level": "high school competition"}}
+{"Problem_149": {"true": "D\\\\\n\\noindent", "prediction": "-28", "is_correct": "0", "label": "Algebra", "level": "high school math"}}
+{"Problem_150": {"true": "B\\\\\n\\noindent", "prediction": "B) 2x(x-7)", "is_correct": "1", "label": "Algebra", "level": "high school math"}}
+{"Problem_151": {"true": "C\n\n\\noindent", "prediction": "15.5 m", "is_correct": "0", "label": "Geometry", "level": "high school math"}}
+{"Problem_152": {"true": "$A$\\\\\n\\noindent", "prediction": "-16m^6p^9/n^5", "is_correct": "0", "label": "Algebra", "level": "high school math"}}
+{"Problem_153": {"true": "$C$\\\\\n\\noindent", "prediction": "B) 4*a^5*c / 3*b^3", "is_correct": "0", "label": "Algebra", "level": "high school math"}}
+{"Problem_154": {"true": "$A$\\\\\n\\noindent", "prediction": "B) (x+3)", "is_correct": "0", "label": "Algebra", "level": "high school math"}}
+{"Problem_155": {"true": "B\n\n\\noindent", "prediction": "A) 6x^3 - 2x^2 - 3x + 1", "is_correct": "0", "label": "Algebra", "level": "high school math"}}
+{"Problem_156": {"true": "C\n\n\\noindent", "prediction": "D) (8b + 1)^2", "is_correct": "0", "label": "Algebra", "level": "high school math"}}
+{"Problem_157": {"true": "$B$\\\\\n\\noindent", "prediction": "C", "is_correct": "0", "label": "Algebra", "level": "high school math"}}
+{"Problem_158": {"true": "$C$\\\\\n\\noindent", "prediction": "B) 16xyz\\sqrt{5x^3z}", "is_correct": "0", "label": "Algebra", "level": "high school math"}}
+{"Problem_159": {"true": "$C$\\\\\n\\noindent", "prediction": "A", "is_correct": "0", "label": "Algebra", "level": "high school math"}}
+{"Problem_160": {"true": "$D$\\\\\n\\noindent", "prediction": "B) {-\\frac{4}{5},\\frac{2}{3}}", "is_correct": "0", "label": "Algebra", "level": "high school math"}}
+{"Problem_161": {"true": "$A$\\\\\n\\noindent", "prediction": "-4", "is_correct": "0", "label": "Algebra", "level": "high school math"}}
+{"Problem_162": {"true": "$A$\\\\\n\\noindent", "prediction": "D) {(-7-\\sqrt{41})/2, (-7+\\sqrt{41})/2}", "is_correct": "0", "label": "Algebra", "level": "high school math"}}
+{"Problem_163": {"true": "$C$\\\\\n\\noindent", "prediction": "120", "is_correct": "1", "label": "Algebra", "level": "high school math"}}
+{"Problem_164": {"true": "$A$\\\\\n\\noindent", "prediction": "A) y=(x-3)/z", "is_correct": "1", "label": "Algebra", "level": "high school math"}}
+{"Problem_165": {"true": "B\n\n\\noindent", "prediction": "C) one solution", "is_correct": "0", "label": "Algebra", "level": "high school math"}}
+{"Problem_166": {"true": "$D$\\\\\n\\noindent", "prediction": "D", "is_correct": "1", "label": "Algebra", "level": "high school math"}}
+{"Problem_167": {"true": "$A$\\\\\n\\noindent", "prediction": "A) (3/17, -32/17)", "is_correct": "1", "label": "Algebra", "level": "high school math"}}
+{"Problem_168": {"true": "D\\\\\n\\noindent", "prediction": "B) {x: x >= -7}", "is_correct": "0", "label": "Algebra", "level": "high school math"}}
+{"Problem_169": {"true": "C \\\\\n\\noindent", "prediction": "C) 2x + y = 4", "is_correct": "1", "label": "Algebra", "level": "high school math"}}
+{"Problem_170": {"true": "D \\\\\n\\noindent", "prediction": "D) -3$ per person", "is_correct": "1", "label": "Algebra", "level": "high school math"}}
+{"Problem_171": {"true": "A \\\\\n\\noindent", "prediction": "-53", "is_correct": "0", "label": "Algebra", "level": "high school math"}}
+{"Problem_172": {"true": "A \\\\\n\\noindent", "prediction": "20  mph", "is_correct": "1", "label": "Algebra", "level": "high school math"}}
+{"Problem_173": {"true": "A \\\\\n\\noindent", "prediction": "{\n        \"constant_of_variation\": 0.04,\n        \"price_of_800_stickers\": 32.00\n    }", "is_correct": "1", "label": "Algebra", "level": "high school math"}}
+{"Problem_174": {"true": "D \\\\\n\\noindent", "prediction": "D", "is_correct": "1", "label": "Algebra", "level": "high school math"}}
+{"Problem_175": {"true": "B\\\\\n\\noindent", "prediction": "B) The x-intercept is -6, and the y-intercept is 10", "is_correct": "1", "label": "Algebra", "level": "high school math"}}
+{"Problem_176": {"true": "A \\\\\n\\noindent", "prediction": "No", "is_correct": "0", "label": "Algebra", "level": "high school math"}}
+{"Problem_177": {"true": "B \\\\\n\\noindent", "prediction": "y=6", "is_correct": "1", "label": "Algebra", "level": "high school math"}}
+{"Problem_178": {"true": "C \\\\\n\\noindent", "prediction": "8", "is_correct": "1", "label": "Algebra", "level": "high school math"}}
+{"Problem_179": {"true": "$y=-5x-3$\\\\\n\\noindent", "prediction": "y = -5x - 3", "is_correct": "1", "label": "Algebra", "level": "high school math"}}
+{"Problem_180": {"true": "4ft \\\\\n\\noindent", "prediction": "12 ft", "is_correct": "0", "label": "Algebra", "level": "high school math"}}
+{"Problem_181": {"true": "-3\\\\\n\\noindent", "prediction": "The number is 3.", "is_correct": "0", "label": "Algebra", "level": "high school math"}}
+{"Problem_182": {"true": "$x=-1$\\\\\n\\noindent", "prediction": "x = 5", "is_correct": "0", "label": "Algebra", "level": "high school math"}}
+{"Problem_183": {"true": "5 Robins. \\\\\n\\noindent", "prediction": "15", "is_correct": "0", "label": "Algebra", "level": "high school math"}}
+{"Problem_184": {"true": "D \\\\\n\\noindent", "prediction": "D", "is_correct": "1", "label": "Algebra", "level": "high school math"}}
+{"Problem_185": {"true": "C \\\\\n\\noindent", "prediction": "C", "is_correct": "1", "label": "Algebra", "level": "high school math"}}
+{"Problem_186": {"true": "$B$\\\\\n\\noindent", "prediction": "-1", "is_correct": "1", "label": "Algebra", "level": "high school math"}}
+{"Problem_187": {"true": "$B$\\\\\n\\noindent", "prediction": "D", "is_correct": "0", "label": "Algebra", "level": "high school math"}}
+{"Problem_188": {"true": "$B$\\\\\n\\noindent", "prediction": "D", "is_correct": "0", "label": "Algebra", "level": "high school math"}}
+{"Problem_189": {"true": "$A$\\\\\n\\noindent", "prediction": "C", "is_correct": "0", "label": "Algebra", "level": "high school math"}}
+{"Problem_190": {"true": "$B$\\\\\n\\noindent", "prediction": "x = \u00b12, x = \u00b1\\sqrt{6}", "is_correct": "1", "label": "Algebra", "level": "high school math"}}
+{"Problem_191": {"true": "D\n\n\\noindent", "prediction": "B) 25", "is_correct": "0", "label": "Algebra", "level": "high school math"}}
+{"Problem_192": {"true": "$D$\\\\\n\\noindent", "prediction": "C", "is_correct": "0", "label": "Algebra", "level": "high school math"}}
+{"Problem_193": {"true": "$B$\\\\\n\\noindent", "prediction": "x=-\\frac{7}{4}, x=1, x=\\frac{7}{3}", "is_correct": "0", "label": "Algebra", "level": "high school math"}}
+{"Problem_194": {"true": "$B$\\\\\n\\noindent", "prediction": "D) x=1.35 and x=0.45", "is_correct": "0", "label": "Algebra", "level": "high school math"}}
+{"Problem_195": {"true": "$C$\\\\\n\\noindent", "prediction": "83", "is_correct": "1", "label": "Algebra", "level": "high school math"}}
+{"Problem_196": {"true": "$A$\\\\\n\\noindent", "prediction": "A", "is_correct": "1", "label": "Algebra", "level": "high school math"}}
+{"Problem_197": {"true": "$A$\\\\\n\\noindent", "prediction": "D) {(-3.7,0);(0.4,0)}", "is_correct": "0", "label": "Algebra", "level": "high school math"}}
+{"Problem_198": {"true": "$B$\\\\\n\\noindent", "prediction": "B) 3 + \\sqrt{2}", "is_correct": "1", "label": "Algebra", "level": "high school math"}}
+{"Problem_199": {"true": "D \\\\\n\\noindent", "prediction": "x=5", "is_correct": "0", "label": "Algebra", "level": "high school math"}}
+{"Problem_200": {"true": "B, F\\\\\n\\noindent", "prediction": "[\"A\", \"B\", \"C\"]", "is_correct": "0", "label": "Algebra", "level": "high school math"}}
+{"Problem_201": {"true": "C\n\n\\noindent", "prediction": "C) III and IV", "is_correct": "1", "label": "Algebra", "level": "high school math"}}
+{"Problem_202": {"true": "A \\\\\n\\noindent", "prediction": "B) 4x/y", "is_correct": "0", "label": "Algebra", "level": "high school math"}}
+{"Problem_203": {"true": "D\\\\\n\\noindent", "prediction": "x=9", "is_correct": "0", "label": "Algebra", "level": "high school math"}}
+{"Problem_204": {"true": "D\\\\\n\\noindent", "prediction": "-3", "is_correct": "0", "label": "Algebra", "level": "high school math"}}
+{"Problem_205": {"true": "D\\\\\n\\noindent", "prediction": "D) no horizontal asymptotes", "is_correct": "1", "label": "Algebra", "level": "high school math"}}
+{"Problem_206": {"true": "B\\\\\n\\noindent", "prediction": "B) x=6 and x=-3", "is_correct": "1", "label": "Algebra", "level": "high school math"}}
+{"Problem_207": {"true": "A \\\\\n\\noindent", "prediction": "B) (n + 6) / (n - 4)", "is_correct": "0", "label": "Algebra", "level": "high school math"}}
+{"Problem_208": {"true": "C\n\n\\noindent", "prediction": "B) \\\\frac{4(x + 8)}{(x^2 - 64)^2}", "is_correct": "0", "label": "Algebra", "level": "high school math"}}
+{"Problem_209": {"true": "A\n\n\\noindent", "prediction": "-1 * sqrt(2) + 6 * sqrt(3)", "is_correct": "0", "label": "Algebra", "level": "high school math"}}
+{"Problem_210": {"true": "B\\\\\n\\noindent", "prediction": "A", "is_correct": "0", "label": "Algebra", "level": "high school math"}}
+{"Problem_211": {"true": "C\\\\\n\\noindent", "prediction": "A) 2 x y z \\sqrt{7 x y z}", "is_correct": "0", "label": "Algebra", "level": "high school math"}}
+{"Problem_212": {"true": "a. 3, b. 4 \\\\\n\\noindent", "prediction": "{\n        \"a\": -6,\n        \"b\": 4\n    }", "is_correct": "0\n1", "label": "Algebra", "level": "high school math"}}
+{"Problem_213": {"true": "\\$ 9681.72 \\\\\n\\noindent", "prediction": "The account balance after 15 years will be approximately $11,349.15.", "is_correct": "0", "label": "Algebra", "level": "high school math"}}
+{"Problem_214": {"true": "13.45 years\\\\\n\\noindent", "prediction": "12.45 years", "is_correct": "0", "label": "Algebra", "level": "high school math"}}
+{"Problem_215": {"true": "-4\\\\\n\\noindent", "prediction": "x = -3 or x = 5", "is_correct": "0", "label": "Algebra", "level": "high school math"}}
+{"Problem_216": {"true": "C\\\\\n\\noindent", "prediction": "10 \\sqrt{3} \\mathrm{~cm}", "is_correct": "1", "label": "PreCalculus", "level": "high school math"}}
+{"Problem_217": {"true": "D\\\\\n\\noindent", "prediction": "10", "is_correct": "0", "label": "PreCalculus", "level": "high school math"}}
+{"Problem_218": {"true": "B\\\\\n\\noindent", "prediction": "D) a right triangle", "is_correct": "0", "label": "PreCalculus", "level": "high school math"}}
+{"Problem_219": {"true": "$B$\\\\\n\\noindent", "prediction": "B) cosine", "is_correct": "1", "label": "Geometry", "level": "high school math"}}
+{"Problem_220": {"true": "$D$\\\\\n\\noindent", "prediction": "D", "is_correct": "1", "label": "Geometry", "level": "high school math"}}
+{"Problem_221": {"true": "$B$\\\\\n\\noindent", "prediction": "7\\\\sqrt{2} \\\\ cm", "is_correct": "1", "label": "Geometry", "level": "high school math"}}
+{"Problem_222": {"true": "$A$\\\\\n\\noindent", "prediction": "A) Dilation", "is_correct": "1", "label": "Geometry", "level": "high school math"}}
+{"Problem_223": {"true": "$A$\\\\\n\\noindent", "prediction": "(12, -6)", "is_correct": "1", "label": "Geometry", "level": "high school math"}}
+{"Problem_224": {"true": "$C$\\\\\n\\noindent", "prediction": "(1, -3)", "is_correct": "1", "label": "Geometry", "level": "high school math"}}
+{"Problem_225": {"true": "$A$\\\\\n\\noindent", "prediction": "Kite", "is_correct": "0", "label": "Geometry", "level": "high school math"}}
+{"Problem_226": {"true": "$C$\\\\\n\\noindent", "prediction": "12", "is_correct": "0", "label": "Geometry", "level": "high school math"}}
+{"Problem_227": {"true": "$D$\\\\\n\\noindent", "prediction": "310", "is_correct": "0", "label": "Geometry", "level": "high school math"}}
+{"Problem_228": {"true": "$B$\\\\\n\\noindent", "prediction": "565", "is_correct": "0", "label": "Geometry", "level": "high school math"}}
+{"Problem_229": {"true": "$C$\\\\\n\\noindent", "prediction": "2094 cubic feet", "is_correct": "1", "label": "Geometry", "level": "high school math"}}
+{"Problem_230": {"true": "$B$\\\\\n\\noindent", "prediction": "16.875 cm^3", "is_correct": "0", "label": "Geometry", "level": "high school math"}}
+{"Problem_231": {"true": "$C$\\\\\n\\noindent", "prediction": "7:12", "is_correct": "1", "label": "Geometry", "level": "high school math"}}
+{"Problem_232": {"true": "$C$\\\\\n\\noindent", "prediction": "3", "is_correct": "1", "label": "PreCalculus", "level": "high school math"}}
+{"Problem_233": {"true": "B.\n\n\\noindent", "prediction": "B) 4^x = 1/64; x = -3", "is_correct": "1", "label": "Algebra", "level": "high school math"}}
+{"Problem_234": {"true": "B\\\\\n\\noindent", "prediction": "A", "is_correct": "0", "label": "PreCalculus", "level": "high school math"}}
+{"Problem_235": {"true": "$C$\\\\\n\\noindent", "prediction": "-119/169", "is_correct": "0", "label": "PreCalculus", "level": "high school math"}}
+{"Problem_236": {"true": "$D$\\\\\n\\noindent", "prediction": "0", "is_correct": "0", "label": "PreCalculus", "level": "high school math"}}
+{"Problem_237": {"true": "C\n\n\\noindent", "prediction": "pi", "is_correct": "1", "label": "Trigonometry", "level": "high school math"}}
+{"Problem_238": {"true": "$C$\\\\\n\\noindent", "prediction": "C) horizontal asymptote", "is_correct": "1", "label": "PreCalculus", "level": "high school math"}}
+{"Problem_239": {"true": "$C$\\\\\n\\noindent", "prediction": "3", "is_correct": "0", "label": "PreCalculus", "level": "high school math"}}
+{"Problem_240": {"true": "C \\\\\n\\noindent", "prediction": "B) x-5 is a factor of f(x)", "is_correct": "0", "label": "PreCalculus", "level": "high school math"}}
+{"Problem_241": {"true": "C\\\\\n\\noindent", "prediction": "C) x > 5", "is_correct": "1", "label": "PreCalculus", "level": "high school math"}}
+{"Problem_242": {"true": "C \\\\\n\\noindent", "prediction": "B", "is_correct": "0", "label": "PreCalculus", "level": "high school math"}}
+{"Problem_243": {"true": "A \\\\\n\\noindent", "prediction": "B) a_1=-10, d=3", "is_correct": "0", "label": "PreCalculus", "level": "high school math"}}
+{"Problem_244": {"true": "C\n\n\\noindent", "prediction": "C) y = 0", "is_correct": "1", "label": "Calculus", "level": "high school math"}}
+{"Problem_245": {"true": "B\n\n\\noindent", "prediction": "B) log_3 (8/25)", "is_correct": "1", "label": "Algebra", "level": "high school math"}}
+{"Problem_246": {"true": "B\\\\\n\\noindent", "prediction": "B", "is_correct": "1", "label": "PreCalculus", "level": "high school math"}}
+{"Problem_247": {"true": "D\\\\\n\\noindent", "prediction": "-2", "is_correct": "0", "label": "PreCalculus", "level": "high school math"}}
+{"Problem_248": {"true": "B\\\\\n\\noindent", "prediction": "-cos^2 x", "is_correct": "1", "label": "PreCalculus", "level": "high school math"}}
+{"Problem_249": {"true": "A\\\\\n\\noindent", "prediction": "\u03c0/3", "is_correct": "0", "label": "PreCalculus", "level": "high school math"}}
+{"Problem_250": {"true": "B\\\\\n\\noindent", "prediction": "B) \u03c0/6, (11\u03c0)/6", "is_correct": "1", "label": "PreCalculus", "level": "high school math"}}
+{"Problem_251": {"true": "B\\\\\n\\noindent", "prediction": "-\\frac{\\pi}{4}", "is_correct": "0", "label": "PreCalculus", "level": "high school math"}}
+{"Problem_252": {"true": "A \\\\\n\\noindent", "prediction": "C) 0.70710678118 or approximately 0.7071", "is_correct": "0", "label": "PreCalculus", "level": "high school math"}}
+{"Problem_253": {"true": "C\\\\\n\\noindent", "prediction": "B)  \\frac{\\pi}{6}", "is_correct": "0", "label": "PreCalculus", "level": "high school math"}}
+{"Problem_254": {"true": "D\\\\\n\\noindent", "prediction": "-17", "is_correct": "0", "label": "PreCalculus", "level": "high school math"}}
+{"Problem_255": {"true": "B \\\\\n\\noindent", "prediction": "B) x^4 - 8x^3 + 24x^2 - 32x + 16", "is_correct": "1", "label": "PreCalculus", "level": "high school math"}}
+{"Problem_256": {"true": "D\n\n\\noindent", "prediction": "170", "is_correct": "1", "label": "Algebra", "level": "high school math"}}
+{"Problem_257": {"true": "C\n\n\\noindent", "prediction": "-3.6", "is_correct": "1", "label": "Series", "level": "high school math"}}
+{"Problem_258": {"true": "B\\\\\n\\noindent", "prediction": "No answer provided.", "is_correct": "0", "label": "PreCalculus", "level": "high school math"}}
+{"Problem_259": {"true": "C\\\\\n\\noindent", "prediction": "B) 132.1^{\\circ}", "is_correct": "0", "label": "PreCalculus", "level": "high school math"}}
+{"Problem_260": {"true": "D\\\\\n\\noindent", "prediction": "11.9", "is_correct": "1", "label": "PreCalculus", "level": "high school math"}}
+{"Problem_261": {"true": "A\n\n\\noindent", "prediction": "-0.536585073743622", "is_correct": "0", "label": "Trigonometry", "level": "high school math"}}
+{"Problem_262": {"true": "2 \\\\\n\\noindent", "prediction": "12", "is_correct": "0", "label": "PreCalculus", "level": "high school math"}}
+{"Problem_263": {"true": "$2 \\ln x+3 \\ln \\left(y^{2}-z\\right)-\\frac{1}{2} \\ln (y+1)$\\\\\n\\noindent", "prediction": "2 * log(x) + 3 * log(y - sqrt(z)) - 0.5 * log(y + 1)", "is_correct": "0", "label": "PreCalculus", "level": "high school math"}}
+{"Problem_264": {"true": "$\\log \\left(5 \\times (x-7)^{2} /(x+4)^{3}\\right)$ \\\\\n\\noindent", "prediction": "log((x - 1)^2 / (x + 4)^3 * 125^(1/3))", "is_correct": "To evaluate the student's response, we need to simplify and compare it to the provided solution:\n\nProvided solution:\n$$\n\\log \\left(\\frac{5 \\times (x-1)^2}{(x+4)^3}\\right)\n$$\n\nStudent's response:\n$$\n\\log \\left(\\frac{(x-1)^2 \\times 125^{1/3}}{(x+4)^3}\\right)\n$$\n\nWe know that \\(125^{1/3} = 5\\), so the student's response simplifies to:\n$$\n\\log \\left(\\frac{5 \\times (x-1)^2}{(x+4)^3}\\right)\n$$\n\nThis matches the provided solution exactly. Therefore, the student's response is correct.\n\nScore: 1", "label": "PreCalculus", "level": "high school math"}}
+{"Problem_265": {"true": "4/9 \\\\\n\\noindent", "prediction": "x = 1/3", "is_correct": "0", "label": "PreCalculus", "level": "high school math"}}
+{"Problem_266": {"true": "$2 x^{2}+x-1$ \\\\\n\\noindent", "prediction": "{\n        \"quotient\": \"2x^2 + x - 1 + \\\\\\\\frac{4}{3x-2}\",\n        \"remainder\": \"0\"\n    }", "is_correct": "0", "label": "PreCalculus", "level": "high school math"}}
+{"Problem_267": {"true": "5242.88\\\\\n\\noindent", "prediction": "800 * 2^5", "is_correct": "0", "label": "PreCalculus", "level": "high school math"}}
+{"Problem_268": {"true": "C\n\n\\noindent", "prediction": "0.231", "is_correct": "0", "label": "Calculus", "level": "high school math"}}
+{"Problem_269": {"true": "C\n\n\\noindent", "prediction": "B) y = 9x - 0.366", "is_correct": "0", "label": "Calculus", "level": "high school math"}}
+{"Problem_270": {"true": "A\\\\\n\\noindent", "prediction": "3.146", "is_correct": "1", "label": "PreCalculus", "level": "high school math"}}
+{"Problem_271": {"true": "B\n\n\\noindent", "prediction": "B) 1/2 * tan^(-1)(x^2/4) + C", "is_correct": "1", "label": "Calculus", "level": "high school math"}}
+{"Problem_272": {"true": "E\\\\\n\\noindent", "prediction": "No answer provided.", "is_correct": "0", "label": "PreCalculus", "level": "high school math"}}
+{"Problem_273": {"true": "B\\\\\n\\noindent", "prediction": "6.204", "is_correct": "1", "label": "PreCalculus", "level": "high school math"}}
+{"Problem_274": {"true": "C\\\\\n\\noindent", "prediction": "1", "is_correct": "0", "label": "PreCalculus", "level": "high school math"}}
+{"Problem_275": {"true": "A\\\\\n\\noindent", "prediction": "0.333", "is_correct": "1", "label": "PreCalculus", "level": "high school math"}}
+{"Problem_276": {"true": "E\n\n\\noindent", "prediction": "3 * sin(3x)", "is_correct": "1", "label": "Calculus", "level": "high school math"}}
+{"Problem_277": {"true": "B\\\\\n\\noindent", "prediction": "B) 16/3", "is_correct": "1", "label": "PreCalculus", "level": "high school math"}}
+{"Problem_278": {"true": "D\\\\\n\\noindent", "prediction": "D", "is_correct": "1", "label": "PreCalculus", "level": "high school math"}}
+{"Problem_279": {"true": "C\\\\\n\\noindent", "prediction": "No answer provided.", "is_correct": "0", "label": "PreCalculus", "level": "high school math"}}
+{"Problem_280": {"true": "A \\\\\n\\noindent", "prediction": "1/6", "is_correct": "1", "label": "PreCalculus", "level": "high school math"}}
+{"Problem_281": {"true": "C \\\\\n\\noindent", "prediction": "C", "is_correct": "1", "label": "PreCalculus", "level": "high school math"}}
+{"Problem_282": {"true": "B\\\\\n\\noindent", "prediction": "C", "is_correct": "0", "label": "PreCalculus", "level": "high school math"}}
+{"Problem_283": {"true": "C \\\\\n\\noindent", "prediction": "B", "is_correct": "0", "label": "PreCalculus", "level": "high school math"}}
+{"Problem_284": {"true": "C \\\\\n\\noindent", "prediction": "D", "is_correct": "0", "label": "PreCalculus", "level": "high school math"}}
+{"Problem_285": {"true": "E\\\\\n\\noindent", "prediction": "\\\\frac{1}{4}e^{2x}(2x - 1) + C", "is_correct": "The correct answer to the integral $\\int x e^{2x} dx$ can be found using integration by parts. Let's verify the student's answer:\n\nUsing integration by parts, where \\( u = x \\) and \\( dv = e^{2x} dx \\), we get:\n- \\( du = dx \\)\n- \\( v = \\frac{1}{2} e^{2x} \\)\n\nThen,\n\\[\n\\int x e^{2x} dx = x \\cdot \\frac{1}{2} e^{2x} - \\int \\frac{1}{2} e^{2x} dx = \\frac{1}{2} x e^{2x} - \\frac{1}{4} e^{2x} + C\n\\]\n\nThis simplifies to:\n\\[\n\\frac{1}{2} x e^{2x} - \\frac{1}{4} e^{2x} + C = \\frac{1}{4} e^{2x} (2x - 1) + C\n\\]\n\nThe student's answer \\(\\frac{1}{4} e^{2x} (2x - 1) + C\\) matches the result obtained through integration by parts. Therefore, the student's answer is correct. However, the provided correct answer was labeled as \"E) None of these,\" which suggests none of the given multiple-choice answers match the correct integral result. Since the student's answer is mathematically correct but not listed among the choices, and the correct choice is \"E) None of these,\" the student's answer is effectively acknowledging that none of the provided choices are correct.\n\nScore: 1", "label": "PreCalculus", "level": "high school math"}}
+{"Problem_286": {"true": "E \\\\\n\\noindent", "prediction": "E) \\\\frac{2}{5}(x+3)^{\\\\frac{5}{2}}-2(x+3)^{\\\\frac{3}{2}}+C", "is_correct": "1", "label": "PreCalculus", "level": "high school math"}}
+{"Problem_287": {"true": "$y = ce^{-\\frac{1}{x}}+1$.\\\\\n\\noindent", "prediction": "y = c \\* x + 1", "is_correct": "0", "label": "Differential Equations", "level": "college math"}}
+{"Problem_288": {"true": "10. \\\\\n\\noindent", "prediction": "-6", "is_correct": "0", "label": "Linear Algebra and Abstract Algebra", "level": "college math"}}
+{"Problem_289": {"true": "21. \\\\\n\\noindent", "prediction": "<answer>", "is_correct": "0", "label": "Linear Algebra and Abstract Algebra", "level": "college math"}}
+{"Problem_290": {"true": "[1,2,3]. \\\\\n\\noindent", "prediction": "[1, 2, 3]", "is_correct": "1", "label": "Linear Algebra and Abstract Algebra", "level": "college math"}}
+{"Problem_291": {"true": "[3, 1, 1; 1, 3, 1; 1, 1, 3] \n\n\\\\\n\\noindent", "prediction": "[6, 1, 1; 1, 6, 1; 1, 1, 6]", "is_correct": "0", "label": "Linear Algebra and Abstract Algebra", "level": "college math"}}
+{"Problem_292": {"true": "13.5\\\\\n\n\\noindent", "prediction": "16.666666666666668", "is_correct": "0", "label": "Linear Algebra and Abstract Algebra", "level": "college math"}}
+{"Problem_293": {"true": "[3,3]  \\\\\n\\noindent", "prediction": "[a,b]", "is_correct": "0", "label": "Linear Algebra and Abstract Algebra", "level": "college math"}}
+{"Problem_294": {"true": "[3, -1, 1; -1, 5, -1; 1, -1, 3]. \\\\\n\\noindent", "prediction": "[a_{11}, a_{12}, a_{13}; a_{21}, a_{22}, a_{23}; a_{31}, a_{32}, a_{33} ] = [6, -11, 6; 0, 3, 0; 0, 6, 0]", "is_correct": "0", "label": "Linear Algebra and Abstract Algebra", "level": "college math"}}
+{"Problem_295": {"true": "$2\n$ \\\\\n\\noindent", "prediction": "2", "is_correct": "1", "label": "Linear Algebra and Abstract Algebra", "level": "college math"}}
+{"Problem_296": {"true": "$3$.\\\\\n\\noindent", "prediction": "The dimension of the linear subspace generated by the given vectors is 3.", "is_correct": "1", "label": "Linear Algebra and Abstract Algebra", "level": "college math"}}
+{"Problem_297": {"true": "[2, -2, 1; 4, -4, 2; 6, -6, 3]. \\\\\n\n\\noindent", "prediction": "[0, 0, 0; 0, 0, 0; 0, 0, 0]", "is_correct": "0", "label": "Linear Algebra and Abstract Algebra", "level": "college math"}}
+{"Problem_298": {"true": "1. \\\\\n\\noindent", "prediction": "1", "is_correct": "1", "label": "Linear Algebra and Abstract Algebra", "level": "college math"}}
+{"Problem_299": {"true": "4.  \\\\\n\\noindent", "prediction": "The determinant of the adjoint matrix A* is 4.", "is_correct": "1", "label": "Linear Algebra and Abstract Algebra", "level": "college math"}}
+{"Problem_300": {"true": "$-1.$ \\\\\n\\noindent", "prediction": "<value of |A^*-2A^-1|>", "is_correct": "0", "label": "Linear Algebra and Abstract Algebra", "level": "college math"}}
+{"Problem_301": {"true": "[1, -2, 5; 0, 1, -4; 0, 0, 1]. \\\\\n\n\\noindent", "prediction": "[1, -2, 3; 0, 1, -4; 0, 0, 1]", "is_correct": "0", "label": "Linear Algebra and Abstract Algebra", "level": "college math"}}
+{"Problem_302": {"true": "[1,2] \\\\\n\\noindent", "prediction": "[2, 1]", "is_correct": "0", "label": "Linear Algebra and Abstract Algebra", "level": "college math"}}
+{"Problem_303": {"true": "[4,5]\\\\\n\n\\noindent", "prediction": "[2, 2]", "is_correct": "0", "label": "Linear Algebra and Abstract Algebra", "level": "college math"}}
+{"Problem_304": {"true": "-2 \\\\\n\n\\noindent", "prediction": "a = 4", "is_correct": "0", "label": "Linear Algebra and Abstract Algebra", "level": "college math"}}
+{"Problem_305": {"true": "[9,0; 0, 9] \\\\\n\\noindent", "prediction": "[[a11, a12], [a21, a22]]", "is_correct": "0", "label": "Linear Algebra and Abstract Algebra", "level": "college math"}}
+{"Problem_306": {"true": "[-1,-2,4]  \\\\\n\\noindent", "prediction": "[1, -1, 3]", "is_correct": "0", "label": "Linear Algebra and Abstract Algebra", "level": "college math"}}
+{"Problem_307": {"true": "4 \\\\\n\\noindent", "prediction": "3 + 2\\\\sqrt{3}", "is_correct": "0", "label": "Linear Algebra and Abstract Algebra", "level": "college math"}}
+{"Problem_308": {"true": "3 \\\\\n\\noindent", "prediction": "6", "is_correct": "0", "label": "Linear Algebra and Abstract Algebra", "level": "college math"}}
+{"Problem_309": {"true": "1.62 \\\\\n\n\\noindent", "prediction": "The limit of the sequence {y_n}/{x_n} as n approaches infinity is the golden ratio, (1 + sqrt(5))/2.", "is_correct": "1", "label": "Linear Algebra and Abstract Algebra", "level": "college math"}}
+{"Problem_310": {"true": "2 \\\\\n\\noindent", "prediction": "a = 45", "is_correct": "0", "label": "Linear Algebra and Abstract Algebra", "level": "college math"}}
+{"Problem_311": {"true": "$x^4-10x^2+1.$ \\\\\n\\noindent", "prediction": "The polynomial is x^4 - 10x^2 + 1", "is_correct": "1", "label": "Linear Algebra and Abstract Algebra", "level": "college math"}}
+{"Problem_312": {"true": "$x^2-8x+7$. \\\\\n\\noindent", "prediction": "f(x) = x^2 - 5x + 6", "is_correct": "0", "label": "Linear Algebra and Abstract Algebra", "level": "college math"}}
+{"Problem_313": {"true": "$1$. \\\\\n\\noindent", "prediction": "<answer>", "is_correct": "0", "label": "Calculus and Analysis", "level": "college math"}}
+{"Problem_314": {"true": "$-5$.\\\\\n\\noindent", "prediction": "The limit is 3.", "is_correct": "0", "label": "Calculus and Analysis", "level": "college math"}}
+{"Problem_315": {"true": "$4$\\\\\n\\noindent", "prediction": "0.5", "is_correct": "0", "label": "Calculus and Analysis", "level": "college math"}}
+{"Problem_316": {"true": "$2$.\\\\\n\\noindent", "prediction": "a = 1 or a = 3", "is_correct": "0", "label": "Calculus and Analysis", "level": "college math"}}
+{"Problem_317": {"true": "$0$\\\\\n\\noindent", "prediction": "0.5", "is_correct": "0", "label": "Calculus and Analysis", "level": "college math"}}
+{"Problem_318": {"true": "$1$\\\\\n\\noindent", "prediction": "0.5", "is_correct": "0", "label": "Calculus and Analysis", "level": "college math"}}
+{"Problem_319": {"true": "1.25 \\\\ \n\n\\noindent", "prediction": "0.4", "is_correct": "0", "label": "Calculus and Analysis", "level": "college math"}}
+{"Problem_320": {"true": "2 \\\\\n\n\\noindent", "prediction": "x = 1 + sqrt(2), x = 1 - sqrt(2)", "is_correct": "0", "label": "Calculus and Analysis", "level": "college math"}}
+{"Problem_321": {"true": "$3^5$ \\\\\n\\noindent", "prediction": "32256", "is_correct": "0", "label": "Calculus and Analysis", "level": "college math"}}
+{"Problem_322": {"true": "0\\\\\n\\noindent", "prediction": "a = 1", "is_correct": "0", "label": "Calculus and Analysis", "level": "college math"}}
+{"Problem_323": {"true": "3.43 \\\\\n\n\\noindent", "prediction": "16/3", "is_correct": "0", "label": "Calculus and Analysis", "level": "college math"}}
+{"Problem_324": {"true": "0.42 \\\\\n\n\\noindent", "prediction": "1/2", "is_correct": "0", "label": "Calculus and Analysis", "level": "college math"}}
+{"Problem_325": {"true": "$-\\frac{ e}{2}$.\\\\\n\\noindent", "prediction": "-e/2", "is_correct": "1", "label": "Calculus and Analysis", "level": "college math"}}
+{"Problem_326": {"true": "$\\ln\\sqrt{3}$.\\\\\n\\noindent", "prediction": "0.6065306597126334", "is_correct": "0", "label": "Calculus and Analysis", "level": "college math"}}
+{"Problem_327": {"true": "$\\frac{\\pi}{2}$.\\\\\n\\noindent", "prediction": "1", "is_correct": "0", "label": "Calculus and Analysis", "level": "college math"}}
+{"Problem_328": {"true": "$\\alpha=1$ and $\\beta=4$. \\\\\n\\noindent", "prediction": "{\n        \"alpha\": 1,\n        \"beta\": 0\n    }", "is_correct": "0", "label": "Calculus and Analysis", "level": "college math"}}
+{"Problem_329": {"true": "$8$.\\\\\n\\noindent", "prediction": "<length of the curve>", "is_correct": "0", "label": "Calculus and Analysis", "level": "college math"}}
+{"Problem_330": {"true": "$ \\frac{\\pi}{8} + \\frac{1}{4}$.\\\\\n\\noindent", "prediction": "0.667", "is_correct": "0", "label": "Calculus and Analysis", "level": "college math"}}
+{"Problem_331": {"true": "$\\frac{\\pi}{4}$.\\\\\n\\noindent", "prediction": "0.5", "is_correct": "0", "label": "Calculus and Analysis", "level": "college math"}}
+{"Problem_332": {"true": "$8+\\pi$. \\\\\n\\noindent", "prediction": "<calculated area>", "is_correct": "0", "label": "Calculus and Analysis", "level": "college math"}}
+{"Problem_333": {"true": "$\\frac{\\sqrt{2}\\pi}{4}$ or $\\frac{\\pi}{2\\sqrt{2}}$. \\\\\n\\noindent", "prediction": "0.7853981633974483", "is_correct": "1", "label": "Calculus and Analysis", "level": "college math"}}
+{"Problem_334": {"true": "$\\frac{3}{2}-\\frac12 e^{-1}$.\\\\\n\\noindent", "prediction": "<answer>", "is_correct": "0", "label": "Calculus and Analysis", "level": "college math"}}
+{"Problem_335": {"true": "$2$.\\\\\n\\noindent", "prediction": "The sum of the series is 2.", "is_correct": "1", "label": "Calculus and Analysis", "level": "college math"}}
+{"Problem_336": {"true": "$1$.\\\\\n\\noindent", "prediction": "<answer>", "is_correct": "0", "label": "Calculus and Analysis", "level": "college math"}}
+{"Problem_337": {"true": "2e \\\\\n\n\\noindent", "prediction": "null", "is_correct": "0", "label": "Differential Equations", "level": "college math"}}
+{"Problem_338": {"true": "$y = e^{-x}$.  \\\\\n\\noindent", "prediction": "y(x) = e^(-x) + xe^(-x)", "is_correct": "0", "label": "Differential Equations", "level": "college math"}}
+{"Problem_339": {"true": "No.\\\\\n\\noindent", "prediction": "No, there does not exist a system of three linear homogeneous ODEs such that all of $y_1,y_2,y_3$ are the solution to this homogeneous ODE system.", "is_correct": "1", "label": "Differential Equations", "level": "college math"}}
+{"Problem_340": {"true": "No.\\\\\n\\noindent", "prediction": "Yes, the ODE has a nonzero power series solution near $x=0$.", "is_correct": "0", "label": "Differential Equations", "level": "college math"}}
+{"Problem_341": {"true": "Yes.\\\\\n\\noindent", "prediction": "No, $y=0$ is not a singular solution to $y'=\\sqrt{y}\\ln(\\ln(1+y))$.", "is_correct": "0", "label": "Differential Equations", "level": "college math"}}
+{"Problem_342": {"true": "No \\\\ \n\n\n\\noindent", "prediction": "The equilibrium (x,y)=(0,0) is unstable.", "is_correct": "1", "label": "Differential Equations", "level": "college math"}}
+{"Problem_343": {"true": "Yes  \\\\\n\n\\noindent", "prediction": "The equilibrium x(t)=0 is stable if g(0)=0 and g'(0)<0, unstable if g(0)=0 and g'(0)>0, and asymptotically stable if g(0)=0, g'(0)=0, and g''(0)>0.", "is_correct": "0", "label": "Differential Equations", "level": "college math"}}
+{"Problem_344": {"true": "0 \\\\\n\\noindent", "prediction": "The number of limit cycles cannot be determined exactly with the given information.", "is_correct": "0", "label": "Differential Equations", "level": "college math"}}
+{"Problem_345": {"true": "Yes \\\\\n\\noindent", "prediction": "No, we cannot assert that $\\frac{\\partial y}{\\partial \\eta}(x,\\eta)$ is always positive.", "is_correct": "0", "label": "Differential Equations", "level": "college math"}}
+{"Problem_346": {"true": "No.\\\\\n\\noindent", "prediction": "No, there does not exist any nonzero function $f(x)\\\\in L^2(\\\\mathbb{R}^n)$ that is harmonic in $\\\\mathbb{R}^n$.", "is_correct": "1", "label": "Differential Equations", "level": "college math"}}
+{"Problem_347": {"true": "Yes.\\\\\n\\noindent", "prediction": "Yes, u is a constant.", "is_correct": "1", "label": "Differential Equations", "level": "college math"}}
+{"Problem_348": {"true": "0 \\\\\n\\noindent", "prediction": "The limit does not exist.", "is_correct": "0", "label": "Differential Equations", "level": "college math"}}
+{"Problem_349": {"true": "[1,2] \\\\\n\n\\noindent", "prediction": "[1, -1]", "is_correct": "0", "label": "Differential Equations", "level": "college math"}}
+{"Problem_350": {"true": "9979200.\\\\\n\\noindent", "prediction": "277, 200", "is_correct": "0", "label": "Probability", "level": "college math"}}
+{"Problem_351": {"true": "0.42. \\\\\n\\noindent", "prediction": "0.24", "is_correct": "0", "label": "Probability", "level": "college math"}}
+{"Problem_352": {"true": "24192 \\\\\n\\noindent", "prediction": "4060", "is_correct": "0", "label": "Probability", "level": "college math"}}
+{"Problem_353": {"true": "5. \\\\\n\\noindent", "prediction": "n = 3", "is_correct": "0", "label": "Probability", "level": "college math"}}
+{"Problem_354": {"true": "0.24 \\\\\n\n\\noindent", "prediction": "0.456790123456789", "is_correct": "0", "label": "Probability", "level": "college math"}}
+{"Problem_355": {"true": "0.59 \\\\\n\\noindent", "prediction": "0.3435524971668944", "is_correct": "0", "label": "Probability", "level": "college math"}}
+{"Problem_356": {"true": "$0.11$. \\\\\n\\noindent", "prediction": "0.1111111111111111", "is_correct": "1", "label": "Probability", "level": "college math"}}
+{"Problem_357": {"true": "12.08 \\\\\n\n\\noindent", "prediction": "The exact value cannot be determined without knowing the specific distribution of W and S, but the expected value can be approximated using Monte Carlo simulations or other numerical methods.", "is_correct": "0", "label": "Probability", "level": "college math"}}
+{"Problem_358": {"true": "0.47 \\\\\n\n\\noindent", "prediction": "0.375", "is_correct": "0", "label": "Probability", "level": "college math"}}
+{"Problem_359": {"true": "1389960  \\\\\n\\noindent", "prediction": "825", "is_correct": "0", "label": "Probability", "level": "college math"}}
+{"Problem_360": {"true": "0.37 \\\\\n\n\\noindent", "prediction": "0.3032653298033023", "is_correct": "0", "label": "Probability", "level": "college math"}}
+{"Problem_361": {"true": "0.70 \\\\\n\n\\noindent", "prediction": "0.0505", "is_correct": "0", "label": "Probability", "level": "college math"}}
+{"Problem_362": {"true": "0.93\\\\ \n\n\\noindent", "prediction": "<variance>", "is_correct": "0", "label": "Probability", "level": "college math"}}
+{"Problem_363": {"true": "0.01 \\\\\n\n\\noindent", "prediction": "<calculated_value>", "is_correct": "0", "label": "Probability", "level": "college math"}}
+{"Problem_364": {"true": "1.69 \\\\\n\n\\noindent", "prediction": "0.5", "is_correct": "0", "label": "Probability", "level": "college math"}}
+{"Problem_365": {"true": "$0.25$.\\\\\n\\noindent", "prediction": "<variance of X given X>1 and Y>2>", "is_correct": "0", "label": "Probability", "level": "college math"}}
+{"Problem_366": {"true": "0.62  \\\\\n\n\\noindent", "prediction": "<answer>", "is_correct": "0", "label": "Probability", "level": "college math"}}
+{"Problem_367": {"true": "-0.02 \\\\\n\\noindent", "prediction": "-0.04", "is_correct": "0", "label": "Probability", "level": "college math"}}
+{"Problem_368": {"true": "$N2^{-N}$  \\\\\n\\noindent", "prediction": "The long-run probability that there is one ball in the left box is 1/2.", "is_correct": "0", "label": "Probability", "level": "college math"}}
+{"Problem_369": {"true": "0.61 \\\\\n\n\\noindent", "prediction": "The probability that $W_t = 0$ for some $t \\\\in [1, 3]$ is 1.", "is_correct": "0", "label": "Probability", "level": "college math"}}
+{"Problem_370": {"true": "0.80 \\\\\n\n\\noindent", "prediction": "0.5", "is_correct": "0", "label": "Probability", "level": "college math"}}
+{"Problem_371": {"true": "[4.8, 2.28] \\\\\n\t\\noindent", "prediction": "[5.0, 2.23606797749979]", "is_correct": "0", "label": "Statistics", "level": "college math"}}
+{"Problem_372": {"true": "No \\\\\n\n  \n\t\\noindent", "prediction": "Reject the null hypothesis", "is_correct": "1", "label": "Statistics", "level": "college math"}}
+{"Problem_373": {"true": "1.5\\\\\n\n  \n\t\\noindent", "prediction": "The slope of the least squares regression line is 1.4", "is_correct": "0", "label": "Statistics", "level": "college math"}}
+{"Problem_374": {"true": "Yes \\\\\n\t\\noindent", "prediction": "Yes, the data suggests that the actual percentage of type A donations differs from 40% at a significance level of 0.01.", "is_correct": "1", "label": "Statistics", "level": "college math"}}
+{"Problem_375": {"true": "Yes. \\\\ \n\t\\noindent", "prediction": "Yes, the concrete should be used for the particular application.", "is_correct": "1", "label": "Statistics", "level": "college math"}}
+{"Problem_376": {"true": "$(106.44, 109.12)$. \\\\\n\t\\noindent", "prediction": "{\n        \"sample_mean\": 107.72,\n        \"sample_standard_deviation\": 1.217,\n        \"confidence_interval\": [106.25, 109.19]\n    }", "is_correct": "0", "label": "Statistics", "level": "college math"}}
+{"Problem_377": {"true": "$(0.225, 0.275)$. \\\\\n\t\\noindent", "prediction": "[0.231, 0.269]", "is_correct": "0", "label": "Statistics", "level": "college math"}}
+{"Problem_378": {"true": "$(-5.9, 3.9)$. \\\\\n\t\\noindent", "prediction": "[0.33, 2.67]", "is_correct": "0", "label": "Statistics", "level": "college math"}}
+{"Problem_379": {"true": "$(38.90, 2792.41)$.\\\\\n\t\\noindent", "prediction": "<confidence interval>", "is_correct": "0", "label": "Statistics", "level": "college math"}}
+{"Problem_380": {"true": "No \\\\\n\n\t\\noindent", "prediction": "There is sufficient evidence to indicate a difference in the true means of the two groups at level \u03b1=0.05.", "is_correct": "0", "label": "Statistics", "level": "college math"}}
+{"Problem_381": {"true": "No \\\\\n\\noindent", "prediction": "To determine if X is a complete statistic, we need to check if the expectation of any function, g(X), of X is zero implies that g(X) is identically zero. In other words, if E_theta(g(X)) = 0 for all theta in the parameter space implies g(X) = 0 almost surely.", "is_correct": "0", "label": "Statistics", "level": "college math"}}
+{"Problem_382": {"true": "$2\\theta^2/n$. \\\\\n\\noindent", "prediction": "The Cramer-Rao Lower Bound for estimating \\\\(\\\\theta\\\\) is \\\\(\\\\frac{\\\\theta^2}{2n}\\\\).", "is_correct": "0", "label": "Statistics", "level": "college math"}}
+{"Problem_383": {"true": "$\\theta^2$ \\\\\n\\noindent", "prediction": "<variance of the asymptotic distribution>", "is_correct": "0", "label": "Statistics", "level": "college math"}}
+{"Problem_384": {"true": "1 \\\\ \n\n\\noindent", "prediction": "The variance of the asymptotic distribution is 1.", "is_correct": "1", "label": "Statistics", "level": "college math"}}
+{"Problem_385": {"true": "No \\\\\n\\noindent", "prediction": "No, there does not exist a Cramer-Rao Lower Bound for estimating \\\\(\\\\theta\\\\).", "is_correct": "1", "label": "Statistics", "level": "college math"}}
+{"Problem_386": {"true": "0 \\\\\n\n\\noindent", "prediction": "The UMVUE for 1/\u03b2 is n/X\u0304, where X\u0304 is the sample mean of X\u2081,..., X\u2099.", "is_correct": "0", "label": "Statistics", "level": "college math"}}
+{"Problem_387": {"true": "Yes  \\\\\n\\noindent", "prediction": "Yes, the UMP test should reject H_0 if \u03a3_{i=1}^n X_i^2 > \u03b8_0/2 * \u03c7_{2n, \u03b1}^2", "is_correct": "1", "label": "Statistics", "level": "college math"}}

@@ -1,0 +1,387 @@
+{"Problem_1": {"answer": "66"}}
+{"Problem_2": {"answer": "16"}}
+{"Problem_3": {"answer": "67"}}
+{"Problem_4": {"answer": "1010"}}
+{"Problem_5": {"answer": "308"}}
+{"Problem_6": {"answer": "40"}}
+{"Problem_7": {"answer": "50"}}
+{"Problem_8": {"answer": "2024"}}
+{"Problem_9": {"answer": "1"}}
+{"Problem_10": {"answer": "1"}}
+{"Problem_11": {"answer": "10"}}
+{"Problem_12": {"answer": "28"}}
+{"Problem_13": {"answer": "[\n        5,\n        257\n    ],\n    \"sum_of_primes\": 262"}}
+{"Problem_14": {"answer": "3"}}
+{"Problem_15": {"answer": "{\n        \"before_decimal_point\": 1,\n        \"after_decimal_point\": 4\n    }"}}
+{"Problem_16": {"answer": "19994"}}
+{"Problem_17": {"answer": "192"}}
+{"Problem_18": {"answer": "36"}}
+{"Problem_19": {"answer": "454"}}
+{"Problem_20": {"answer": "324"}}
+{"Problem_21": {"answer": "{\n        \"a\": 7,\n        \"b\": 1\n    }"}}
+{"Problem_22": {"answer": "11"}}
+{"Problem_23": {"answer": "987"}}
+{"Problem_24": {"answer": "20"}}
+{"Problem_25": {"answer": "1"}}
+{"Problem_26": {"answer": "\\\\frac{5}{7}+\\\\frac{5}{7^2}+\\\\frac{6}{7^3}+\\\\frac{2}{7^4}"}}
+{"Problem_27": {"answer": "4"}}
+{"Problem_28": {"answer": "7"}}
+{"Problem_29": {"answer": "8"}}
+{"Problem_30": {"answer": "10008"}}
+{"Problem_31": {"answer": "778331"}}
+{"Problem_32": {"answer": "7"}}
+{"Problem_33": {"answer": "22"}}
+{"Problem_34": {"answer": "991"}}
+{"Problem_35": {"answer": "311"}}
+{"Problem_36": {"answer": "3"}}
+{"Problem_37": {"answer": "13"}}
+{"Problem_38": {"answer": "60"}}
+{"Problem_39": {"answer": "216"}}
+{"Problem_40": {"answer": "199"}}
+{"Problem_41": {"answer": "4913"}}
+{"Problem_42": {"answer": "90"}}
+{"Problem_43": {"answer": "1003"}}
+{"Problem_44": {"answer": "5"}}
+{"Problem_45": {"answer": "40032022"}}
+{"Problem_46": {"answer": "8"}}
+{"Problem_47": {"answer": "10"}}
+{"Problem_48": {"answer": "16"}}
+{"Problem_49": {"answer": "9"}}
+{"Problem_50": {"answer": "64"}}
+{"Problem_51": {"answer": "1"}}
+{"Problem_52": {"answer": "1001"}}
+{"Problem_53": {"answer": "3"}}
+{"Problem_54": {"answer": "8"}}
+{"Problem_55": {"answer": "42"}}
+{"Problem_56": {"answer": "5"}}
+{"Problem_57": {"answer": "6"}}
+{"Problem_58": {"answer": "2"}}
+{"Problem_59": {"answer": "2"}}
+{"Problem_60": {"answer": "7"}}
+{"Problem_61": {"answer": "67"}}
+{"Problem_62": {"answer": "1330"}}
+{"Problem_63": {"answer": "5"}}
+{"Problem_64": {"answer": "2"}}
+{"Problem_65": {"answer": "4"}}
+{"Problem_66": {"answer": "(0, 1) U (1, infinity)"}}
+{"Problem_67": {"answer": "2"}}
+{"Problem_68": {"answer": "81"}}
+{"Problem_69": {"answer": "1"}}
+{"Problem_70": {"answer": "40"}}
+{"Problem_71": {"answer": "-10"}}
+{"Problem_72": {"answer": "2"}}
+{"Problem_73": {"answer": "2022"}}
+{"Problem_74": {"answer": "1"}}
+{"Problem_75": {"answer": "{\n        \"maximum\": 1/8,\n        \"minimum\": -1/8\n    }"}}
+{"Problem_76": {"answer": "47"}}
+{"Problem_77": {"answer": "196"}}
+{"Problem_78": {"answer": "11"}}
+{"Problem_79": {"answer": "-1"}}
+{"Problem_80": {"answer": "43"}}
+{"Problem_81": {"answer": "7"}}
+{"Problem_82": {"answer": "-1"}}
+{"Problem_83": {"answer": "12"}}
+{"Problem_84": {"answer": "-1"}}
+{"Problem_85": {"answer": "32"}}
+{"Problem_86": {"answer": "sqrt(2)"}}
+{"Problem_87": {"answer": "(\u03c0/2)"}}
+{"Problem_88": {"answer": "\\frac{11}{13}"}}
+{"Problem_89": {"answer": "1"}}
+{"Problem_90": {"answer": "672"}}
+{"Problem_91": {"answer": "8"}}
+{"Problem_92": {"answer": "1/\u221a10"}}
+{"Problem_93": {"answer": "4"}}
+{"Problem_94": {"answer": "42"}}
+{"Problem_95": {"answer": "30"}}
+{"Problem_96": {"answer": "36100"}}
+{"Problem_97": {"answer": "\\sqrt{\\frac{3}{2}}"}}
+{"Problem_98": {"answer": "12"}}
+{"Problem_99": {"answer": "150^\\circ"}}
+{"Problem_100": {"answer": "8"}}
+{"Problem_101": {"answer": "\\frac{\\sqrt{3}}{2}"}}
+{"Problem_102": {"answer": "3"}}
+{"Problem_103": {"answer": "\\frac{7}{30}"}}
+{"Problem_104": {"answer": "\\frac{\\sqrt{11}}{6}"}}
+{"Problem_105": {"answer": "2"}}
+{"Problem_106": {"answer": "12"}}
+{"Problem_107": {"answer": "45"}}
+{"Problem_108": {"answer": "14"}}
+{"Problem_109": {"answer": "two linked loops"}}
+{"Problem_110": {"answer": "\\frac{\\sqrt{3}}{2}"}}
+{"Problem_111": {"answer": "1"}}
+{"Problem_112": {"answer": "35/136"}}
+{"Problem_113": {"answer": "866"}}
+{"Problem_114": {"answer": "0.645"}}
+{"Problem_115": {"answer": "144"}}
+{"Problem_116": {"answer": "10"}}
+{"Problem_117": {"answer": "1/15"}}
+{"Problem_118": {"answer": "101"}}
+{"Problem_119": {"answer": "1"}}
+{"Problem_120": {"answer": "101"}}
+{"Problem_121": {"answer": "52"}}
+{"Problem_122": {"answer": "336666"}}
+{"Problem_123": {"answer": "110"}}
+{"Problem_124": {"answer": "A. Alice"}}
+{"Problem_125": {"answer": "7"}}
+{"Problem_126": {"answer": "67"}}
+{"Problem_127": {"answer": "2/5"}}
+{"Problem_128": {"answer": "80"}}
+{"Problem_129": {"answer": "2"}}
+{"Problem_130": {"answer": "81"}}
+{"Problem_131": {"answer": "B. Alice can guarantee victory."}}
+{"Problem_132": {"answer": "A"}}
+{"Problem_133": {"answer": "10"}}
+{"Problem_134": {"answer": "11"}}
+{"Problem_135": {"answer": "1"}}
+{"Problem_136": {"answer": "110"}}
+{"Problem_137": {"answer": "2017"}}
+{"Problem_138": {"answer": "241"}}
+{"Problem_139": {"answer": "144"}}
+{"Problem_140": {"answer": "32"}}
+{"Problem_141": {"answer": "420"}}
+{"Problem_142": {"answer": "20"}}
+{"Problem_143": {"answer": "3600"}}
+{"Problem_144": {"answer": "90"}}
+{"Problem_145": {"answer": "4"}}
+{"Problem_146": {"answer": "7"}}
+{"Problem_147": {"answer": "{\n        \"a\": 9,\n        \"b\": 8,\n        \"c\": 7,\n        \"d\": 0\n    }"}}
+{"Problem_148": {"answer": "196"}}
+{"Problem_149": {"answer": "-44"}}
+{"Problem_150": {"answer": "2x(x-7)"}}
+{"Problem_151": {"answer": "31"}}
+{"Problem_152": {"answer": "-64m^3p^6/n"}}
+{"Problem_153": {"answer": "\\frac{3b^9}{4a^5c^9}"}}
+{"Problem_154": {"answer": "(x+4)"}}
+{"Problem_155": {"answer": "6x^3 - 2x^2 + 3x - 1"}}
+{"Problem_156": {"answer": "(8b - 1)^2"}}
+{"Problem_157": {"answer": "12"}}
+{"Problem_158": {"answer": "4xy\\sqrt{5x^3z}"}}
+{"Problem_159": {"answer": "D) 4\\\\sqrt{25}-8\\\\sqrt[3]{27}"}}
+{"Problem_160": {"answer": "{-0.8, 0.6667}"}}
+{"Problem_161": {"answer": "-4"}}
+{"Problem_162": {"answer": "{\\\\frac{-7-\\\\sqrt{41}}{2}, \\\\frac{-7+\\\\sqrt{41}}{2}}"}}
+{"Problem_163": {"answer": "120"}}
+{"Problem_164": {"answer": "y = \\\\frac{x-3}{z}"}}
+{"Problem_165": {"answer": "C) one solution"}}
+{"Problem_166": {"answer": "A"}}
+{"Problem_167": {"answer": "(-\\frac{3}{17}, -\\frac{32}{17})"}}
+{"Problem_168": {"answer": "{x: x \u2264 1}"}}
+{"Problem_169": {"answer": "18x + 9y = 20"}}
+{"Problem_170": {"answer": "-3 dollars per person"}}
+{"Problem_171": {"answer": "49"}}
+{"Problem_172": {"answer": "20"}}
+{"Problem_173": {"answer": "{\n        \"constant_of_variation\": 0.04,\n        \"cost_of_800_stickers\": 32.00\n    }"}}
+{"Problem_174": {"answer": "D) y = x^2 - 2x + 5"}}
+{"Problem_175": {"answer": "{\n        \"x-intercept\": \"-6\",\n        \"y-intercept\": \"10\"\n    }"}}
+{"Problem_176": {"answer": "B) No"}}
+{"Problem_177": {"answer": "y=6"}}
+{"Problem_178": {"answer": "8"}}
+{"Problem_179": {"answer": "y = -5x - 3"}}
+{"Problem_180": {"answer": "40"}}
+{"Problem_181": {"answer": "3"}}
+{"Problem_182": {"answer": "x = 2"}}
+{"Problem_183": {"answer": "15"}}
+{"Problem_184": {"answer": "D) Translated 3 units right and 1 unit up and reflected over the x-axis"}}
+{"Problem_185": {"answer": "C) II and III only"}}
+{"Problem_186": {"answer": "-1"}}
+{"Problem_187": {"answer": "A) f(x)=3(2x-3)^2"}}
+{"Problem_188": {"answer": "(8x+7)(8x-7)"}}
+{"Problem_189": {"answer": "-12"}}
+{"Problem_190": {"answer": "\u00b1\u221a8"}}
+{"Problem_191": {"answer": "100"}}
+{"Problem_192": {"answer": "13"}}
+{"Problem_193": {"answer": "x = \\\\frac{9}{4}, x = 1, x = \\\\frac{5}{3}"}}
+{"Problem_194": {"answer": "x = -1.35 and x = 0.8"}}
+{"Problem_195": {"answer": "43"}}
+{"Problem_196": {"answer": "A) h(t) = -16t^2 + 62t + 150"}}
+{"Problem_197": {"answer": "{(-3.7,0);(0.4,0)}"}}
+{"Problem_198": {"answer": "3 + \\\\sqrt{2}"}}
+{"Problem_199": {"answer": "x = \\frac{9}{2}"}}
+{"Problem_200": {"answer": "No answer provided."}}
+{"Problem_201": {"answer": "C) III and IV"}}
+{"Problem_202": {"answer": "\\frac{xy}{4}"}}
+{"Problem_203": {"answer": "-\\frac{7}{3}"}}
+{"Problem_204": {"answer": "(-3, undefined)"}}
+{"Problem_205": {"answer": "y = \u221e"}}
+{"Problem_206": {"answer": "A) x = 3 and x = -6"}}
+{"Problem_207": {"answer": "\\\\frac{n+6}{n-4}"}}
+{"Problem_208": {"answer": "\\frac{1}{x-8}"}}
+{"Problem_209": {"answer": "-\\sqrt{2} + 6\\sqrt{3}"}}
+{"Problem_210": {"answer": "12"}}
+{"Problem_211": {"answer": "7xy^2\u221a(2xyz)"}}
+{"Problem_212": {"answer": "-3"}}
+{"Problem_213": {"answer": "$7,131.41"}}
+{"Problem_214": {"answer": "10"}}
+{"Problem_215": {"answer": "x = -8 or x = 2"}}
+{"Problem_216": {"answer": "10 \\sqrt{3} cm"}}
+{"Problem_217": {"answer": "15"}}
+{"Problem_218": {"answer": "C) an obtuse triangle"}}
+{"Problem_219": {"answer": "cosine"}}
+{"Problem_220": {"answer": "C) 5,11,13"}}
+{"Problem_221": {"answer": "7\u221a2 cm"}}
+{"Problem_222": {"answer": "A) Dilation"}}
+{"Problem_223": {"answer": "(12, -6)"}}
+{"Problem_224": {"answer": "(1,-3)"}}
+{"Problem_225": {"answer": "Kite"}}
+{"Problem_226": {"answer": "13"}}
+{"Problem_227": {"answer": "350"}}
+{"Problem_228": {"answer": "2262"}}
+{"Problem_229": {"answer": "2094"}}
+{"Problem_230": {"answer": "40"}}
+{"Problem_231": {"answer": "7:12"}}
+{"Problem_232": {"answer": "3"}}
+{"Problem_233": {"answer": "B) 4^x = \\\\frac{1}{64}; x = -3"}}
+{"Problem_234": {"answer": "-\\frac{\\sqrt{2}+\\sqrt{6}}{4}"}}
+{"Problem_235": {"answer": "-\\\\frac{120}{169}"}}
+{"Problem_236": {"answer": "\\\\frac{\\\\pi}{2}"}}
+{"Problem_237": {"answer": "\\pi"}}
+{"Problem_238": {"answer": "C) horizontal asymptote"}}
+{"Problem_239": {"answer": "3, 5"}}
+{"Problem_240": {"answer": "B"}}
+{"Problem_241": {"answer": "x > 5"}}
+{"Problem_242": {"answer": "{\n        \"x-intercept\": \"-1\",\n        \"y-intercept\": \"4\"\n    }"}}
+{"Problem_243": {"answer": "a_1 = -10, d = 3"}}
+{"Problem_244": {"answer": "y = 0"}}
+{"Problem_245": {"answer": "\\\\log_3 \\\\left(\\\\frac{8}{125}\\\\right)"}}
+{"Problem_246": {"answer": "-\\\\frac{\\\\pi}{3}"}}
+{"Problem_247": {"answer": "-2"}}
+{"Problem_248": {"answer": "-\\cos^2x"}}
+{"Problem_249": {"answer": "\\frac{\\pi}{3}"}}
+{"Problem_250": {"answer": "[\"\\\\\\\\frac{\u03c0}{6}\", \"\\\\\\\\frac{11\u03c0}{6}\"]"}}
+{"Problem_251": {"answer": "-\\\\frac{\\\\pi}{4}"}}
+{"Problem_252": {"answer": "\\frac{\\sqrt{2 + \\sqrt{2}}}{2}"}}
+{"Problem_253": {"answer": "C) \\\\frac{5\\\\pi}{6}"}}
+{"Problem_254": {"answer": "-60"}}
+{"Problem_255": {"answer": "x^4 - 8x^3 + 24x^2 - 32x + 16"}}
+{"Problem_256": {"answer": "180"}}
+{"Problem_257": {"answer": "9"}}
+{"Problem_258": {"answer": "16.91 cm"}}
+{"Problem_259": {"answer": "47.9"}}
+{"Problem_260": {"answer": "11.9"}}
+{"Problem_261": {"answer": "-\\frac{25\\sqrt{3} + 48}{39}"}}
+{"Problem_262": {"answer": "2"}}
+{"Problem_263": {"answer": "2\\*ln(x) + 3\\*ln(y^2-z) - (1/2)\\*ln(y+1)"}}
+{"Problem_264": {"answer": "log((125^(1/3)*(x-1)^2)/(x+4)^3)"}}
+{"Problem_265": {"answer": "x = 1/3"}}
+{"Problem_266": {"answer": "2x^2 + 2x - 1"}}
+{"Problem_267": {"answer": "12800"}}
+{"Problem_268": {"answer": "-0.231"}}
+{"Problem_269": {"answer": "C) y = 9x - 0.295"}}
+{"Problem_270": {"answer": "C) 1.000"}}
+{"Problem_271": {"answer": "\\frac{1}{2} \\tan^{-1} \\frac{x^2}{4} + C"}}
+{"Problem_272": {"answer": "\\frac{1}{59}"}}
+{"Problem_273": {"answer": "6.359"}}
+{"Problem_274": {"answer": "5/4"}}
+{"Problem_275": {"answer": "0.333"}}
+{"Problem_276": {"answer": "3 sin(3x)"}}
+{"Problem_277": {"answer": "\\frac{8}{3}"}}
+{"Problem_278": {"answer": "\\ln \\left(\\frac{x}{\\left(x^2-1\\right)^{12}}\\right)"}}
+{"Problem_279": {"answer": "y = 2x - 2"}}
+{"Problem_280": {"answer": "1/3"}}
+{"Problem_281": {"answer": "\\\\frac{-1}{4} \\\\ln |-2x^2 + 3| + C"}}
+{"Problem_282": {"answer": "\\\\frac{x^2 \\\\ln(x)}{2} - \\\\frac{x^2}{4} + C"}}
+{"Problem_283": {"answer": "C) \\\\frac{1}{2} \\\\int_{1}^{5} \\\\sqrt{u} du"}}
+{"Problem_284": {"answer": "\\frac{4 \\pi}{15}"}}
+{"Problem_285": {"answer": "\\frac{1}{2}xe^{2x} - \\frac{1}{4}e^{2x} + C"}}
+{"Problem_286": {"answer": "\\\\frac{2}{5}(x+3)^{\\\\frac{5}{2}}-2(x+3)^{\\\\frac{3}{2}}+C"}}
+{"Problem_287": {"answer": "y = 1 + cx^(-2)"}}
+{"Problem_288": {"answer": "11"}}
+{"Problem_289": {"answer": "-10"}}
+{"Problem_290": {"answer": "[2, 2, 2]"}}
+{"Problem_291": {"answer": "[3, 1, 1; 1, 3, 1; 1, 1, 3]"}}
+{"Problem_292": {"answer": "10"}}
+{"Problem_293": {"answer": "[7,-3]"}}
+{"Problem_294": {"answer": "[14,-8,2;-2,7,-1;2,-2,5]"}}
+{"Problem_295": {"answer": "2"}}
+{"Problem_296": {"answer": "3"}}
+{"Problem_297": {"answer": "[2, -2, 1; 4, -4, 2; 6, -6, 3]"}}
+{"Problem_298": {"answer": "1"}}
+{"Problem_299": {"answer": "8"}}
+{"Problem_300": {"answer": "8"}}
+{"Problem_301": {"answer": "[1, -2, 7; 0, 1, -4; 0, 0, 1]"}}
+{"Problem_302": {"answer": "[2,-1]"}}
+{"Problem_303": {"answer": "[4, 0]"}}
+{"Problem_304": {"answer": "4"}}
+{"Problem_305": {"answer": "[30,14;14,41]"}}
+{"Problem_306": {"answer": "[11,-7,0]"}}
+{"Problem_307": {"answer": "8"}}
+{"Problem_308": {"answer": "6"}}
+{"Problem_309": {"answer": "\u03c6"}}
+{"Problem_310": {"answer": "10"}}
+{"Problem_311": {"answer": "x^4 - 10x^2 + 1"}}
+{"Problem_312": {"answer": "(x-7)(x-1)"}}
+{"Problem_313": {"answer": "-0.5"}}
+{"Problem_314": {"answer": "7"}}
+{"Problem_315": {"answer": "4"}}
+{"Problem_316": {"answer": "a = 2"}}
+{"Problem_317": {"answer": "2"}}
+{"Problem_318": {"answer": "e"}}
+{"Problem_319": {"answer": "-\\frac{5}{4}"}}
+{"Problem_320": {"answer": "x = 2 or x = 6"}}
+{"Problem_321": {"answer": "112"}}
+{"Problem_322": {"answer": "> 0"}}
+{"Problem_323": {"answer": "8"}}
+{"Problem_324": {"answer": "1/2"}}
+{"Problem_325": {"answer": "1"}}
+{"Problem_326": {"answer": "\\ln(2)"}}
+{"Problem_327": {"answer": "1"}}
+{"Problem_328": {"answer": "{\n        \"\\\\u03b1\": 1,\n        \"\\\\u03b2\": 1\n    }"}}
+{"Problem_329": {"answer": "8"}}
+{"Problem_330": {"answer": "\\frac{\\pi}{4}"}}
+{"Problem_331": {"answer": "\u03c0/\u221a2"}}
+{"Problem_332": {"answer": "8\u03c0"}}
+{"Problem_333": {"answer": "\\frac{\\pi}{\\sqrt{2}}"}}
+{"Problem_334": {"answer": "(1/2)(e-1)-(1-e^(1/2))/sqrt(pi)"}}
+{"Problem_335": {"answer": "4"}}
+{"Problem_336": {"answer": "1"}}
+{"Problem_337": {"answer": "2 * sqrt(e)"}}
+{"Problem_338": {"answer": "y(x) = (e^(-x))/2 + (3*e^(2*x))/2"}}
+{"Problem_339": {"answer": "No"}}
+{"Problem_340": {"answer": "Yes"}}
+{"Problem_341": {"answer": "Yes"}}
+{"Problem_342": {"answer": "Unstable"}}
+{"Problem_343": {"answer": "Yes, the equilibrium x(t) = 0 is stable."}}
+{"Problem_344": {"answer": "There exists exactly one limit cycle."}}
+{"Problem_345": {"answer": "Yes, \\\\frac{\\\\partial y}{\\\\partial \\\\eta}(x,\\\\eta) is always positive."}}
+{"Problem_346": {"answer": "No"}}
+{"Problem_347": {"answer": "Yes, u is a constant."}}
+{"Problem_348": {"answer": "{\n        \"\\\\sqrt{\\\\frac{|G(\\\\xi,\\\\eta)|^2}{8\\\\pi}}\",\n        \"where G(\\\\xi,\\\\eta) = \\\\int_{-\\\\infty}^\\\\infty \\\\int_{-\\\\infty}^\\\\infty g(x,y)e^{-i\\\\xi x-i\\\\eta y}dx dy\"\n    }"}}
+{"Problem_349": {"answer": "[1, -2]"}}
+{"Problem_350": {"answer": "13983816"}}
+{"Problem_351": {"answer": "0.32"}}
+{"Problem_352": {"answer": "4060"}}
+{"Problem_353": {"answer": "9"}}
+{"Problem_354": {"answer": "0.230769"}}
+{"Problem_355": {"answer": "0.264241117658638"}}
+{"Problem_356": {"answer": "1"}}
+{"Problem_357": {"answer": ""}}
+{"Problem_358": {"answer": "1"}}
+{"Problem_359": {"answer": "12960"}}
+{"Problem_360": {"answer": "(7/13)e^(-2\u039b\u0304)"}}
+{"Problem_361": {"answer": "0.985"}}
+{"Problem_362": {"answer": "2"}}
+{"Problem_363": {"answer": "e^(-2*e+1)"}}
+{"Problem_364": {"answer": "1"}}
+{"Problem_365": {"answer": "(11/18) - (9/(2*e^2))"}}
+{"Problem_366": {"answer": "1"}}
+{"Problem_367": {"answer": "0"}}
+{"Problem_368": {"answer": "1/2"}}
+{"Problem_369": {"answer": "1"}}
+{"Problem_370": {"answer": "1/2"}}
+{"Problem_371": {"answer": "[4.8, 1.92]"}}
+{"Problem_372": {"answer": "Reject the null hypothesis"}}
+{"Problem_373": {"answer": "-0.4"}}
+{"Problem_374": {"answer": "Reject the null hypothesis"}}
+{"Problem_375": {"answer": "Reject H_0"}}
+{"Problem_376": {"answer": "{\n        \"sample_mean\": 107.78,\n        \"sample_standard_deviation\": 0.93,\n        \"confidence_interval\": \"(106.83, 108.73)\"\n    }"}}
+{"Problem_377": {"answer": "(0.206, 0.294)"}}
+{"Problem_378": {"answer": "(-3.34, 7.34)"}}
+{"Problem_379": {"answer": "(134.19, 1049.81)"}}
+{"Problem_380": {"answer": "Reject the null hypothesis"}}
+{"Problem_381": {"answer": "Yes, X is a complete statistic."}}
+{"Problem_382": {"answer": "{\n        \"CRLB\": 4 / n\n    }"}}
+{"Problem_383": {"answer": "1/\u03b8"}}
+{"Problem_384": {"answer": "1"}}
+{"Problem_385": {"answer": "Yes, the Cramer-Rao lower bound exists."}}
+{"Problem_386": {"answer": "n/(n-1)*\\\\bar{x}"}}
+{"Problem_387": {"answer": "Yes"}}
