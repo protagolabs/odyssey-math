@@ -73,14 +73,13 @@ We would like to extend our sincere gratitude to AGI Odyssey, the non-profit org
 
 ## Citation
 
-```latex
-@misc{netmindmath,
-  author = {Netmind.AI},
-  title = {Odyssey-Math},
-  year = {2024},
-  publisher = {GitHub},
-  journal = {GitHub Repository},
-  howpublished = {\url{https://github.com/protagolabs/odyssey-math/tree/main}},
-  note = {Accessed: April 22, 2024}
+Please cite the following:
+```
+@article{fang2024mathodyssey,
+  title={MathOdyssey: Benchmarking Mathematical Problem-Solving Skills in Large Language Models Using Odyssey Math Data}, 
+  author={Fang, Meng and Wan, Xiangpeng and Lu, Fei and Xing, Fei and Zou, Kai},
+  journal={arXiv preprint arXiv:2406.18321},
+  year={2024}
 }
 ```
+
