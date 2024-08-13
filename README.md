@@ -87,3 +87,16 @@ Please cite the following:
 }
 ```
 
+## 📜 License
+
+The new contributions to our dataset are distributed under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license, including
+
+- The creation of the dataset;
+- The filtering and cleaning of source datasets;
+- The standard formalization of instances for evaluation purposes;
+- The annotations of metadata.
+
+The copyright of the images and the questions belongs to the original authors. Alongside this license, the following conditions apply:
+
+- **Purpose:** The dataset was primarily designed for use as a test set.
+- **Commercial Use:** The dataset can be used commercially as a test set, but using it as a training set is prohibited. By accessing or using this dataset, you acknowledge and agree to abide by these terms in conjunction with the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license.
