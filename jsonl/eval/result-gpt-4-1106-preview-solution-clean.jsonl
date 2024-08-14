@@ -107,7 +107,7 @@
 {"Problem_107": {"true": "13 \\\\\n\\noindent", "prediction": "", "is_correct": "0", "label": "Geometry", "level": "high school competition"}}
 {"Problem_108": {"true": "32\\\\\n\\noindent", "prediction": "6", "is_correct": "0", "label": "Geometry", "level": "high school competition"}}
 {"Problem_109": {"true": "2\\\\\n\\noindent", "prediction": "two interlinked", "is_correct": "0", "label": "Geometry", "level": "high school competition"}}
-{"Problem_110": {"true": "$\\frac{\\sqrt{6}}{3}$\\\\\n\\noindent", "prediction": "e = \\\\sqrt{\\\\frac{3}{4}}", "is_correct": "The provided correct answer is \\( \\frac{\\sqrt{6}}{3} \\).\n\nThe student's answer is \\( \\sqrt{\\frac{3}{4}} \\) which simplifies to \\( \\frac{\\sqrt{3}}{2} \\).\n\nTo check if these are equivalent, we need to compare \\( \\frac{\\sqrt{6}}{3} \\) and \\( \\frac{\\sqrt{3}}{2} \\).\n\nCalculating both:\n- \\( \\frac{\\sqrt{6}}{3} \\approx 0.816 \\)\n- \\( \\frac{\\sqrt{3}}{2} \\approx 0.866 \\)\n\nThese values are not equivalent. Therefore, the student's answer is incorrect.\n\nScore: 0", "label": "Geometry", "level": "high school competition"}}
+{"Problem_110": {"true": "$\\frac{\\sqrt{6}}{3}$\\\\\n\\noindent", "prediction": "e = \\\\sqrt{\\\\frac{3}{4}}", "is_correct": "0", "label": "Geometry", "level": "high school competition"}}
 {"Problem_111": {"true": "1\\\\\n\\noindent", "prediction": "-1", "is_correct": "0", "label": "Geometry", "level": "high school competition"}}
 {"Problem_112": {"true": "$\\frac{3}{10}$\\\\\n\\noindent", "prediction": "1", "is_correct": "0", "label": "Combinatorics", "level": "high school competition"}}
 {"Problem_113": {"true": "4045\\\\\n\\noindent", "prediction": "4044", "is_correct": "0", "label": "Combinatorics", "level": "high school competition"}}
@@ -209,7 +209,7 @@
 {"Problem_209": {"true": "A\n\n\\noindent", "prediction": "B) -\\\\sqrt{2} + 6\\\\sqrt{3}", "is_correct": "0", "label": "Algebra", "level": "high school math"}}
 {"Problem_210": {"true": "B\\\\\n\\noindent", "prediction": "C) 3 \\\\sqrt[3]{32}", "is_correct": "0", "label": "Algebra", "level": "high school math"}}
 {"Problem_211": {"true": "C\\\\\n\\noindent", "prediction": "C) 7 x y^{2} \\\\sqrt{2 x y z}", "is_correct": "1", "label": "Algebra", "level": "high school math"}}
-{"Problem_212": {"true": "a. 3, b. 4 \\\\\n\\noindent", "prediction": "{\n        \"a\": -3.0,\n        \"b\": 4.0\n    }", "is_correct": "1. For part (a), the correct answer is 3. The student provided -3.0, which is incorrect. The score is 0.\n\n2. For part (b), the correct answer is 4. The student provided 4.0, which is correct. The score is 1.\n\nFinal scores:\na: 0\nb: 1", "label": "Algebra", "level": "high school math"}}
+{"Problem_212": {"true": "a. 3, b. 4 \\\\\n\\noindent", "prediction": "{\n        \"a\": -3.0,\n        \"b\": 4.0\n    }", "is_correct": "1", "label": "Algebra", "level": "high school math"}}
 {"Problem_213": {"true": "\\$ 9681.72 \\\\\n\\noindent", "prediction": "<calculated amount>", "is_correct": "0", "label": "Algebra", "level": "high school math"}}
 {"Problem_214": {"true": "13.45 years\\\\\n\\noindent", "prediction": "10.0", "is_correct": "0", "label": "Algebra", "level": "high school math"}}
 {"Problem_215": {"true": "-4\\\\\n\\noindent", "prediction": "x = -5 or x = 3", "is_correct": "0", "label": "Algebra", "level": "high school math"}}

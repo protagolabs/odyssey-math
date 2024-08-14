@@ -6,12 +6,17 @@ from typing import Dict
 import re
 import time
 
-from agents.dbrx_client import dbrx_GradioAPIClient
-from agents.llama_client import llama3_GradioAPIClient
+from agents.llama_client import Llama3APIClient
+from dotenv import load_dotenv
+
+# Load the environment variables from the .env file
+load_dotenv()
+api_token = os.getenv('Netmind_API_KEY')
 
 
-api_url = "https://d23a0914d3e1f7b8ce-llama3-70b.test-playground-inference.netmind.ai/"
-#client = llama3_GradioAPIClient(api_url)
+api_url = "https://inference-api.netmind.ai/inference-api/v1/llama3-70B"
+
+client = Llama3APIClient(api_url, api_token)
 request = """
     You are now assuming the role of a math professor. Your task is to assist the user by solving complex mathematical problems in a detailed and step-by-step manner.
 
@@ -42,17 +47,26 @@ request = """
 def process_math_problems(input_file, output_file):
     with open(input_file, 'r') as infile, open(output_file, 'w') as outfile:
         for line in infile:
-            client = llama3_GradioAPIClient(api_url)
-            time.sleep(5)
+            time.sleep(2)
             status = 0
             problem = json.loads(line)  # Convert JSON line to dictionary
             for key, value in problem.items():
                 question = value['question']
+                question =  "The given question is:   \n" + question
+                messages = [
+                    {
+                        "role": "system",
+                        "content": request
+                    },
+                    {
+                        "role": "user",
+                        "content": question
+                    }
+                ]
                 while status == 0:
                     try:
                         response = client.run(
-                            message="The given question is:   \n" + question,
-                            request_description=request
+                            messages
                         )
                         response = response['content']
                         status = 1

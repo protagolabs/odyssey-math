@@ -4,48 +4,45 @@ import traceback
 import json
 from typing import Dict
 
-from gradio_client import Client
+import requests
 
-class llama3_GradioAPIClient:
+class Llama3APIClient:
     """
-    The Gradio API client which uses a custom API to generate responses to plain text messages.
+    The API client that uses a custom API to generate responses to plain text messages.
     """
 
-    client: Client
-    api_url: str
-    default_params: dict
-    last_request_time: float
-
-    def __init__(self, api_url: str, **default_params):
+    def __init__(self, api_url: str, api_token: str, **default_params):
         """
-        Initializes the GradioAPIClient.
+        Initializes the API client.
 
         Parameters
         ----------
         api_url : str
-            The URL of the Gradio API endpoint.
+            The URL of the API endpoint.
+        api_token : str
+            The API token for authentication.
         """
         self.api_url = api_url
-        self.client = Client(api_url)
+        self.api_token = api_token
         self.default_params = {
-            "param_3":1024,
-		    "param_4":0.1,
-		    "param_5":0.9,
-		    "param_6":10,
-		    "param_7":1.2,
+            "max_new_tokens": 2048,
+            "temperature": 0.1,
+            "top_p": 0.9,
+            "top_k": 50,
+            "repetition_penalty": 1.2,
         }
         self.default_params.update(default_params)
 
-    def run(self, message: str, request_description: str) -> Dict[str, str]:
+    def run(self, messages: list, **override_params) -> Dict[str, str]:
         """
         Run the assistant with a given plain text message.
 
         Parameters
         ----------
-        message : str
-            The user message to be processed by the API.
-        request_description : str
-            The description of how the API should handle the message.
+        messages : list
+            A list of messages to be processed by the API.
+        override_params : dict
+            Parameters that will override the default parameters.
 
         Returns
         -------
@@ -58,24 +55,31 @@ class llama3_GradioAPIClient:
             If there is an error while making the request to the API.
         """
         params = self.default_params.copy()
-        params.update({
-            "message": message,
-            "request": request_description,
-            "api_name": "/chat"  # Assuming '/chat' is the endpoint for message handling
-        })
+        params.update(override_params)
+        data = {
+            "messages": messages,
+            **params
+        }
+
+        headers = {
+            "Authorization": f"Bearer {self.api_token}",
+            "Content-Type": "application/json"
+        }
 
         count = 0
         while count < 10:
             try:
-                result = self.client.predict(**params)
+                response = requests.post(self.api_url, headers=headers, data=json.dumps(data))
+                response.raise_for_status()
+
                 try:
-                    # Attempt to parse the result as JSON
-                    result_dict = json.loads(result)
+                    # Attempt to parse the response as JSON
+                    result_dict = response.json()
                     # Extract text content from JSON
                     text = result_dict.get('text', '')
                 except json.JSONDecodeError:
                     # If result is not JSON, use it directly
-                    text = result
+                    text = response.text
 
                 return {"content": text}
             except Exception as e:
@@ -86,40 +90,30 @@ class llama3_GradioAPIClient:
 
         raise Exception("Failed to get a response from the API after several attempts.")
 
-# Example of using the GradioAPIClient
+
 if __name__ == "__main__":
-    api_url = "https://d23a0914d3e1f7b8ce-llama3-70b.test-playground-inference.netmind.ai/"
-    client = llama3_GradioAPIClient(api_url)
-    response = client.run(
-        message="""
-                The given text is:
-
-                'Please Fill Out the Loan Application\nPersonal Information:\nFirst Name:\n\\(\\quad\\)Sophia\n\\(\\quad\\)Last Name:\n\\(\\quad\\)Martinez\n\\(\\quad\\)Social Security Number:\n\\(\\quad\\)N/A\n\\(\\quad\\)Date of Birth:\n\\(\\quad\\)N/A\n\\(\\quad\\)Email:\n\\(\\quad\\)sophia.martinez.fake@example.com\n\\(\\quad\\)Phone:\n\\(\\quad\\)\\( 555-1234 \\)\n\\(\\quad\\)Address:\n\\(\\quad\\)3300 Sunset Blvd, Apt 12, Los Angeles,\n\\(\\quad\\)CA 90026\n\\(\\quad\\)Marital Status:\n\\(\\quad\\)N/A\nEmployment and Financial Information:\n\\(\\quad\\)Employment Status:\n\\(\\quad\\)Employed\n\\(\\quad\\)Employer Name:\n\\(\\quad\\)N/A\n\\(\\quad\\)Annual Income:\n\\(\\quad\\)75000\n\\(\\quad\\)Other Income:\n\\(\\quad\\)0\n\\(\\quad\\)Monthly Expenses:\n\\(\\quad\\)5000\nLoan Requirement Details:\n\\(\\quad\\)Desired Loan Amount:\n\\(\\quad\\)30000\n\\(\\quad\\)Loan Purpose:\n\\(\\quad\\)Debt Consolidation\n\\(\\quad\\)Preferred Loan Term (in years):\n\\(\\quad\\)5\n\\(\\quad\\)Interest Rate (optional):\n\\(\\quad\\)\\( 6 \\% \\)\nSubmit Application'
-                """,
-        request_description="""Now, you are a Audit assistant who can help user to extract information from text.
-    ## You must follow all the requirements to modify the draft:
-        1. You must extract the name of person from the text, including first and last name.
-        2. You must extract the period_covered from the text, if given.
-        3. You must extract the address from the text, if given.
-        4. You must extract the Opening Balance from the text, if given.
-        5. You must extract the Closing Balance from the text only if given.
-        6. You must extract the loan amount from the text only if the text is about loan application.
     
-    ## About the output:
-        Your output must be a json file containing a python dictionary to store the extracted information in the format looks like this: 
-        
-        {{
-            "name": "xxx",
-            "period_covered": "xxx",
-            "address": "xxx",
-            "period_covered": "xxx",
-            "opening_balance": "xxx",
-            "closing_balance": "xxx",
-            "loan_amount": "xxx",
-        }}
-        You must follow all requirements listed above. 
-        Your output must contain the json file quoted by "```json" and "```"
+    from dotenv import load_dotenv
 
-    """
-    )
-    print(response)
+    # Load the environment variables from the .env file
+    load_dotenv()
+    api_token = os.getenv('Netmind_API_KEY')
+
+
+    api_url = "https://inference-api.netmind.ai/inference-api/v1/llama3-70B"
+
+    client = Llama3APIClient(api_url, api_token)
+
+    messages = [
+    {
+        "role": "system",
+        "content": "You are a helpful assistant."
+    },
+    {
+        "role": "user",
+        "content": "Write a 100-word article on 'Benefits of Open-Source in AI research'"
+    }
+]
+
+    response = client.run(messages)
+    print(response['content'])

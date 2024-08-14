@@ -261,7 +261,7 @@
 {"Problem_261": {"true": "A\n\n\\noindent", "prediction": "", "is_correct": "0", "label": "Trigonometry", "level": "high school math"}}
 {"Problem_262": {"true": "2 \\\\\n\\noindent", "prediction": "", "is_correct": "0", "label": "PreCalculus", "level": "high school math"}}
 {"Problem_263": {"true": "$2 \\ln x+3 \\ln \\left(y^{2}-z\\right)-\\frac{1}{2} \\ln (y+1)$\\\\\n\\noindent", "prediction": "2 ln(x) + 3 ln(y^2 - z) - 1/2 ln(y + 1)", "is_correct": "1", "label": "PreCalculus", "level": "high school math"}}
-{"Problem_264": {"true": "$\\log \\left(5 \\times (x-7)^{2} /(x+4)^{3}\\right)$ \\\\\n\\noindent", "prediction": "log(5 * (x - 1)^2 / (x + 4)^3)", "is_correct": "The provided solution is:\n$$\n\\log \\left(\\frac{5 \\times (x-7)^{2}}{(x+4)^{3}}\\right)\n$$\n\nThe student's answer is:\n$$\n\\log \\left(\\frac{5 \\times (x-1)^{2}}{(x+4)^{3}}\\right)\n$$\n\nComparing the two expressions, the difference lies in the terms $(x-7)^2$ in the provided solution versus $(x-1)^2$ in the student's answer. These two expressions are not equivalent as they represent different functions of \\(x\\). Therefore, the student's answer is incorrect.\n\nScore: 0", "label": "PreCalculus", "level": "high school math"}}
+{"Problem_264": {"true": "$\\log \\left(5 \\times (x-7)^{2} /(x+4)^{3}\\right)$ \\\\\n\\noindent", "prediction": "log(5 * (x - 1)^2 / (x + 4)^3)", "is_correct": "0", "label": "PreCalculus", "level": "high school math"}}
 {"Problem_265": {"true": "4/9 \\\\\n\\noindent", "prediction": "4/9", "is_correct": "1", "label": "PreCalculus", "level": "high school math"}}
 {"Problem_266": {"true": "$2 x^{2}+x-1$ \\\\\n\\noindent", "prediction": "2x^2 + x - 1", "is_correct": "1", "label": "PreCalculus", "level": "high school math"}}
 {"Problem_267": {"true": "5242.88\\\\\n\\noindent", "prediction": "<to be determined>", "is_correct": "0", "label": "PreCalculus", "level": "high school math"}}
@@ -379,7 +379,7 @@
 {"Problem_379": {"true": "$(38.90, 2792.41)$.\\\\\n\t\\noindent", "prediction": "<answer>", "is_correct": "0", "label": "Statistics", "level": "college math"}}
 {"Problem_380": {"true": "No \\\\\n\n\t\\noindent", "prediction": "", "is_correct": "0", "label": "Statistics", "level": "college math"}}
 {"Problem_381": {"true": "No \\\\\n\\noindent", "prediction": "", "is_correct": "0", "label": "Statistics", "level": "college math"}}
-{"Problem_382": {"true": "$2\\theta^2/n$. \\\\\n\\noindent", "prediction": "4*theta^2 / (1 + 4*theta)", "is_correct": "The student's answer, \\( \\frac{4\\theta^2}{1 + 4\\theta} \\), does not match the correct answer, \\( \\frac{2\\theta^2}{n} \\). Therefore, the score is:\n\n0", "label": "Statistics", "level": "college math"}}
+{"Problem_382": {"true": "$2\\theta^2/n$. \\\\\n\\noindent", "prediction": "4*theta^2 / (1 + 4*theta)", "is_correct": "0", "label": "Statistics", "level": "college math"}}
 {"Problem_383": {"true": "$\\theta^2$ \\\\\n\\noindent", "prediction": "1", "is_correct": "0", "label": "Statistics", "level": "college math"}}
 {"Problem_384": {"true": "1 \\\\ \n\n\\noindent", "prediction": "1", "is_correct": "1", "label": "Statistics", "level": "college math"}}
 {"Problem_385": {"true": "No \\\\\n\\noindent", "prediction": "To be calculated", "is_correct": "0", "label": "Statistics", "level": "college math"}}
