@@ -1,387 +1,387 @@
 {"Problem_1": {"answer": "2"}}
 {"Problem_2": {"answer": "1"}}
-{"Problem_3": {"answer": "{\n        \"coins\": \"(100 - 1/(t-1)) / (t + 1)\",\n        \"stickers\": \"101 - t*((100 - 1/(t-1)) / (t + 1))\"\n    }"}}
-{"Problem_4": {"answer": "2020"}}
-{"Problem_5": {"answer": "\\\\sqrt[4]{(a+77)^5}-\\\\sqrt{a^3}"}}
-{"Problem_6": {"answer": ""}}
-{"Problem_7": {"answer": "100"}}
-{"Problem_8": {"answer": "C) 2024"}}
-{"Problem_9": {"answer": "2"}}
-{"Problem_10": {"answer": "0"}}
+{"Problem_3": {"answer": "101"}}
+{"Problem_4": {"answer": "510"}}
+{"Problem_5": {"answer": "77 * ((5/4) * (b^(2/3) + 77)^(1/4) - (3/2) * b^(1/3))"}}
+{"Problem_6": {"answer": "16"}}
+{"Problem_7": {"answer": "1"}}
+{"Problem_8": {"answer": "B) 2023"}}
+{"Problem_9": {"answer": "0"}}
+{"Problem_10": {"answer": "To be determined"}}
 {"Problem_11": {"answer": "1"}}
-{"Problem_12": {"answer": "7"}}
-{"Problem_13": {"answer": "8"}}
-{"Problem_14": {"answer": ""}}
-{"Problem_15": {"answer": "{\n        \"first_digit_before_decimal\": 1,\n        \"first_digit_after_decimal\": \"Cannot be determined\"\n    }"}}
-{"Problem_16": {"answer": "4500"}}
-{"Problem_17": {"answer": "112"}}
-{"Problem_18": {"answer": "No answer provided."}}
-{"Problem_19": {"answer": "n(n + 1)(2n + 1) / 6"}}
-{"Problem_20": {"answer": "No answer provided."}}
-{"Problem_21": {"answer": "No answer provided."}}
+{"Problem_12": {"answer": "2658455991569831744654692615953842176"}}
+{"Problem_13": {"answer": "{\n        \"prime_numbers\": [2, 5],\n        \"sum\": 7\n    }"}}
+{"Problem_14": {"answer": "0"}}
+{"Problem_15": {"answer": "The first digit before the decimal point is 1, and the first digit after the decimal point is 0"}}
+{"Problem_16": {"answer": "266664000"}}
+{"Problem_17": {"answer": "312"}}
+{"Problem_18": {"answer": "To be calculated"}}
+{"Problem_19": {"answer": "<total_sum>"}}
+{"Problem_20": {"answer": "792"}}
+{"Problem_21": {"answer": "The values of a and b are yet to be determined"}}
 {"Problem_22": {"answer": "No answer provided."}}
 {"Problem_23": {"answer": "2"}}
-{"Problem_24": {"answer": "27"}}
-{"Problem_25": {"answer": "0"}}
-{"Problem_26": {"answer": "\\\\frac{4}{7}+\\\\frac{5}{7^2}+\\\\frac{6}{7^3}+\\\\frac{3}{7^4}"}}
-{"Problem_27": {"answer": "No answer provided."}}
-{"Problem_28": {"answer": "The sum of the values of y in the solutions of the indeterminate equation x^2 - y^2 = xy^2 - 19 is the sum of the prime solutions of the quadratic equation y = (-x^2 \u00b1 sqrt(x^4 - 76x)) / -2x."}}
-{"Problem_29": {"answer": "4"}}
-{"Problem_30": {"answer": "No answer provided."}}
-{"Problem_31": {"answer": "<answer>"}}
-{"Problem_32": {"answer": "No answer provided."}}
-{"Problem_33": {"answer": "8"}}
-{"Problem_34": {"answer": "0"}}
-{"Problem_35": {"answer": "6005"}}
-{"Problem_36": {"answer": "4"}}
+{"Problem_24": {"answer": "3"}}
+{"Problem_25": {"answer": "1002"}}
+{"Problem_26": {"answer": "None of the given options"}}
+{"Problem_27": {"answer": "The sum of all positive integers n such that 3 divides $p_n$ is the sum of 2 and all multiples of 4 that are not multiples of 3 up to n."}}
+{"Problem_28": {"answer": "No answer provided."}}
+{"Problem_29": {"answer": "Infinite"}}
+{"Problem_30": {"answer": "The 5n-th auspicious number"}}
+{"Problem_31": {"answer": "The solution involves a complex calculation that cannot be easily expressed in a single number or formula. The exact number of possible values of `n` depends on the specific values of `x` and `y`."}}
+{"Problem_32": {"answer": "<answer>"}}
+{"Problem_33": {"answer": "2"}}
+{"Problem_34": {"answer": "2"}}
+{"Problem_35": {"answer": "3"}}
+{"Problem_36": {"answer": "2"}}
 {"Problem_37": {"answer": "No answer provided."}}
-{"Problem_38": {"answer": "7"}}
+{"Problem_38": {"answer": "0"}}
 {"Problem_39": {"answer": "No answer provided."}}
-{"Problem_40": {"answer": "420"}}
-{"Problem_41": {"answer": "20412"}}
-{"Problem_42": {"answer": "4011"}}
-{"Problem_43": {"answer": "1"}}
+{"Problem_40": {"answer": "No answer provided."}}
+{"Problem_41": {"answer": "No answer provided."}}
+{"Problem_42": {"answer": "127"}}
+{"Problem_43": {"answer": "1003"}}
 {"Problem_44": {"answer": "2"}}
-{"Problem_45": {"answer": "No answer provided."}}
-{"Problem_46": {"answer": "0"}}
-{"Problem_47": {"answer": "Infinite"}}
-{"Problem_48": {"answer": "4"}}
-{"Problem_49": {"answer": "The equation is incorrect, so the maximum value of x+y+z cannot be determined."}}
-{"Problem_50": {"answer": "66"}}
-{"Problem_51": {"answer": "The remainder when the product of all integers from 2020 to 1977, each raised to the power of 2021, is divided by 2021"}}
-{"Problem_52": {"answer": "No answer provided."}}
-{"Problem_53": {"answer": "<maximum value of a + b>"}}
+{"Problem_45": {"answer": "20032002"}}
+{"Problem_46": {"answer": "6"}}
+{"Problem_47": {"answer": "0"}}
+{"Problem_48": {"answer": "0"}}
+{"Problem_49": {"answer": "3012"}}
+{"Problem_50": {"answer": "13"}}
+{"Problem_51": {"answer": "The remainder when the product of the integers from 2020 to 1945 is divided by 2021 is the product of the remainders when each of these integers is divided by 2021."}}
+{"Problem_52": {"answer": "2022(1 + sqrt(3))"}}
+{"Problem_53": {"answer": "1.5"}}
 {"Problem_54": {"answer": "3"}}
-{"Problem_55": {"answer": "33.7"}}
-{"Problem_56": {"answer": "<answer>"}}
-{"Problem_57": {"answer": "m = arcsin(1/100)"}}
-{"Problem_58": {"answer": "2"}}
-{"Problem_59": {"answer": "The value of x_0 is obtained by solving the equation derived from the vector relationship and the hyperbola equation."}}
+{"Problem_55": {"answer": "No answer provided."}}
+{"Problem_56": {"answer": "No answer provided."}}
+{"Problem_57": {"answer": "5"}}
+{"Problem_58": {"answer": "2x_1 or 2x_2"}}
+{"Problem_59": {"answer": "No answer provided."}}
 {"Problem_60": {"answer": "No answer provided."}}
-{"Problem_61": {"answer": "1"}}
-{"Problem_62": {"answer": "2689490000"}}
-{"Problem_63": {"answer": "2n"}}
+{"Problem_61": {"answer": "Sum from k=2 to 2019 of (binom(2019+k-1, k-1) - binom(2019+k-2, k-1))"}}
+{"Problem_62": {"answer": "No answer provided."}}
+{"Problem_63": {"answer": "4"}}
 {"Problem_64": {"answer": "No answer provided."}}
 {"Problem_65": {"answer": "4"}}
-{"Problem_66": {"answer": "a < 1 or a > 2"}}
+{"Problem_66": {"answer": "(-\u221e, 1) \u222a (2, \u221e)"}}
 {"Problem_67": {"answer": "0"}}
-{"Problem_68": {"answer": "62"}}
-{"Problem_69": {"answer": "sqrt(3)"}}
-{"Problem_70": {"answer": "No answer provided."}}
-{"Problem_71": {"answer": "-5"}}
-{"Problem_72": {"answer": "32"}}
-{"Problem_73": {"answer": "2022"}}
-{"Problem_74": {"answer": "1"}}
-{"Problem_75": {"answer": "The maximum and minimum values of the expression can be found by following the steps outlined above."}}
-{"Problem_76": {"answer": "1"}}
-{"Problem_77": {"answer": "Insufficient data"}}
-{"Problem_78": {"answer": "8"}}
-{"Problem_79": {"answer": "-3"}}
-{"Problem_80": {"answer": "29"}}
-{"Problem_81": {"answer": "9"}}
-{"Problem_82": {"answer": "undefined"}}
+{"Problem_68": {"answer": "To be calculated"}}
+{"Problem_69": {"answer": "No answer provided."}}
+{"Problem_70": {"answer": "<b^2+p>"}}
+{"Problem_71": {"answer": "Cannot be determined"}}
+{"Problem_72": {"answer": "8"}}
+{"Problem_73": {"answer": "2021"}}
+{"Problem_74": {"answer": "Infinitely many sets of real solutions"}}
+{"Problem_75": {"answer": "<answer>"}}
+{"Problem_76": {"answer": "<answer>"}}
+{"Problem_77": {"answer": "127"}}
+{"Problem_78": {"answer": "7"}}
+{"Problem_79": {"answer": "5.0"}}
+{"Problem_80": {"answer": "45.38"}}
+{"Problem_81": {"answer": "<answer>"}}
+{"Problem_82": {"answer": "-1"}}
 {"Problem_83": {"answer": "0"}}
 {"Problem_84": {"answer": "1"}}
-{"Problem_85": {"answer": "36"}}
-{"Problem_86": {"answer": "+\u221e"}}
-{"Problem_87": {"answer": "\u03c0/2"}}
-{"Problem_88": {"answer": "-1/2"}}
-{"Problem_89": {"answer": "2"}}
-{"Problem_90": {"answer": "64"}}
+{"Problem_85": {"answer": "1025/64"}}
+{"Problem_86": {"answer": "2"}}
+{"Problem_87": {"answer": "0"}}
+{"Problem_88": {"answer": "<answer>"}}
+{"Problem_89": {"answer": "1"}}
+{"Problem_90": {"answer": "8"}}
 {"Problem_91": {"answer": "4"}}
-{"Problem_92": {"answer": "No answer provided."}}
-{"Problem_93": {"answer": "4"}}
-{"Problem_94": {"answer": "770"}}
-{"Problem_95": {"answer": "15"}}
-{"Problem_96": {"answer": "19900"}}
-{"Problem_97": {"answer": "sqrt(2)"}}
-{"Problem_98": {"answer": ""}}
-{"Problem_99": {"answer": "90"}}
+{"Problem_92": {"answer": "0.6666666666666666"}}
+{"Problem_93": {"answer": "No answer provided."}}
+{"Problem_94": {"answer": "55"}}
+{"Problem_95": {"answer": ""}}
+{"Problem_96": {"answer": ""}}
+{"Problem_97": {"answer": "1"}}
+{"Problem_98": {"answer": "178"}}
+{"Problem_99": {"answer": "90 degrees"}}
 {"Problem_100": {"answer": "No answer provided."}}
-{"Problem_101": {"answer": "sqrt(2)/2"}}
+{"Problem_101": {"answer": "1"}}
 {"Problem_102": {"answer": "6"}}
-{"Problem_103": {"answer": "No answer provided."}}
-{"Problem_104": {"answer": "<answer>"}}
-{"Problem_105": {"answer": "Insufficient information"}}
-{"Problem_106": {"answer": "-Infinity"}}
-{"Problem_107": {"answer": "465"}}
+{"Problem_103": {"answer": "1"}}
+{"Problem_104": {"answer": "Cannot be calculated"}}
+{"Problem_105": {"answer": "1/2"}}
+{"Problem_106": {"answer": "3sqrt(3)"}}
+{"Problem_107": {"answer": "30"}}
 {"Problem_108": {"answer": "6"}}
-{"Problem_109": {"answer": "two separate loops, each with two twists"}}
-{"Problem_110": {"answer": "sqrt(1/2)"}}
-{"Problem_111": {"answer": "a^2"}}
-{"Problem_112": {"answer": "0.025"}}
-{"Problem_113": {"answer": "2022"}}
-{"Problem_114": {"answer": ""}}
-{"Problem_115": {"answer": "6144"}}
-{"Problem_116": {"answer": "No answer provided."}}
-{"Problem_117": {"answer": "<value of probability variable>"}}
-{"Problem_118": {"answer": "128"}}
-{"Problem_119": {"answer": "3"}}
-{"Problem_120": {"answer": "3.682 \u00d7 10^157 + 1"}}
+{"Problem_109": {"answer": "two separate loop-like structures"}}
+{"Problem_110": {"answer": "No answer provided."}}
+{"Problem_111": {"answer": "<product of the abscissas of P and Q>"}}
+{"Problem_112": {"answer": "0.0"}}
+{"Problem_113": {"answer": "2023"}}
+{"Problem_114": {"answer": "0.18333333333333332"}}
+{"Problem_115": {"answer": "1440"}}
+{"Problem_116": {"answer": "1287"}}
+{"Problem_117": {"answer": "0.015432098765432098"}}
+{"Problem_118": {"answer": "7"}}
+{"Problem_119": {"answer": "72"}}
+{"Problem_120": {"answer": "<number of participants>"}}
 {"Problem_121": {"answer": "52"}}
-{"Problem_122": {"answer": "<number of triangles>"}}
-{"Problem_123": {"answer": "100"}}
+{"Problem_122": {"answer": "<total number of combinations> - <number of invalid combinations>"}}
+{"Problem_123": {"answer": "45"}}
 {"Problem_124": {"answer": "A. Alice"}}
 {"Problem_125": {"answer": "4"}}
-{"Problem_126": {"answer": "674"}}
+{"Problem_126": {"answer": "2019"}}
 {"Problem_127": {"answer": "No answer provided."}}
-{"Problem_128": {"answer": "No answer provided."}}
-{"Problem_129": {"answer": "2"}}
-{"Problem_130": {"answer": "729"}}
+{"Problem_128": {"answer": "0"}}
+{"Problem_129": {"answer": "<minimum number of friends a person has>"}}
+{"Problem_130": {"answer": "2187"}}
 {"Problem_131": {"answer": "B. Alice can guarantee victory."}}
 {"Problem_132": {"answer": "A. Anna has a winning strategy."}}
 {"Problem_133": {"answer": "No answer provided."}}
-{"Problem_134": {"answer": "11"}}
-{"Problem_135": {"answer": "2 - 1/2^2023"}}
-{"Problem_136": {"answer": "66"}}
-{"Problem_137": {"answer": "119"}}
-{"Problem_138": {"answer": "397420"}}
-{"Problem_139": {"answer": "The final answer depends on the possible values for each term in the sequence, which were not provided in the problem."}}
+{"Problem_134": {"answer": "1022"}}
+{"Problem_135": {"answer": "3 - 1/(2^2022)"}}
+{"Problem_136": {"answer": "<answer>"}}
+{"Problem_137": {"answer": "11"}}
+{"Problem_138": {"answer": "66712"}}
+{"Problem_139": {"answer": "No answer provided."}}
 {"Problem_140": {"answer": "1024"}}
-{"Problem_141": {"answer": "No answer provided."}}
-{"Problem_142": {"answer": "20"}}
-{"Problem_143": {"answer": "No answer provided."}}
-{"Problem_144": {"answer": "90"}}
-{"Problem_145": {"answer": "26"}}
-{"Problem_146": {"answer": "6"}}
-{"Problem_147": {"answer": "The solution is a = 1, b = 2, c = 3, d = 4"}}
+{"Problem_141": {"answer": "56"}}
+{"Problem_142": {"answer": "34650"}}
+{"Problem_143": {"answer": "24"}}
+{"Problem_144": {"answer": "31"}}
+{"Problem_145": {"answer": "2"}}
+{"Problem_146": {"answer": "9"}}
+{"Problem_147": {"answer": "<four-digit number>"}}
 {"Problem_148": {"answer": "No answer provided."}}
 {"Problem_149": {"answer": "-44"}}
 {"Problem_150": {"answer": "B) 2x(x-7)"}}
-{"Problem_151": {"answer": "31 m"}}
-{"Problem_152": {"answer": "A) -16m^4p^6/n^5"}}
-{"Problem_153": {"answer": "A) 4a^5c^9/3b^9"}}
-{"Problem_154": {"answer": "A) (x+2)"}}
+{"Problem_151": {"answer": "C) 31 m"}}
+{"Problem_152": {"answer": "-16m^4p^6/n^5"}}
+{"Problem_153": {"answer": "(3b^9) / (4a^5c^9)"}}
+{"Problem_154": {"answer": "(x+2)"}}
 {"Problem_155": {"answer": "B) $6x^3 - 2x^2 + 3x - 1$"}}
 {"Problem_156": {"answer": "(8b - 1)^2"}}
-{"Problem_157": {"answer": "-48"}}
-{"Problem_158": {"answer": "16x^2yz\\\\sqrt{5xz}"}}
+{"Problem_157": {"answer": "-12"}}
+{"Problem_158": {"answer": "C"}}
 {"Problem_159": {"answer": "C"}}
-{"Problem_160": {"answer": "{\"x1\": 0.8, \"x2\": -2/3}"}}
+{"Problem_160": {"answer": ""}}
 {"Problem_161": {"answer": "-13"}}
-{"Problem_162": {"answer": "A) {-1-2\u221a2, -1+2\u221a2}"}}
+{"Problem_162": {"answer": "No answer provided."}}
 {"Problem_163": {"answer": "120"}}
 {"Problem_164": {"answer": "y = (x - 3) / z"}}
-{"Problem_165": {"answer": "C) one solution"}}
-{"Problem_166": {"answer": "D) I, III, and IV"}}
+{"Problem_165": {"answer": "B) infinite solutions"}}
+{"Problem_166": {"answer": "D) I, III and IV"}}
 {"Problem_167": {"answer": "(3/17, -32/17)"}}
 {"Problem_168": {"answer": "{x: x <= -7}"}}
-{"Problem_169": {"answer": "2x + y = 4"}}
-{"Problem_170": {"answer": "-3$ per person"}}
-{"Problem_171": {"answer": ""}}
+{"Problem_169": {"answer": ""}}
+{"Problem_170": {"answer": "D) -3$ per person"}}
+{"Problem_171": {"answer": "55"}}
 {"Problem_172": {"answer": "20 mph"}}
-{"Problem_173": {"answer": "k = 0.04; $32.00"}}
-{"Problem_174": {"answer": "D"}}
-{"Problem_175": {"answer": "No answer provided."}}
+{"Problem_173": {"answer": "A) k = 0.04; $32.00"}}
+{"Problem_174": {"answer": "D) y=x^2-2x+5"}}
+{"Problem_175": {"answer": "The x-intercept is -6, and the y-intercept is 10"}}
 {"Problem_176": {"answer": "Yes"}}
-{"Problem_177": {"answer": "B) y=6"}}
+{"Problem_177": {"answer": "6"}}
 {"Problem_178": {"answer": "C) 8"}}
 {"Problem_179": {"answer": "y = -5x - 3"}}
-{"Problem_180": {"answer": "(1.2 * 10) / 3"}}
+{"Problem_180": {"answer": "4"}}
 {"Problem_181": {"answer": "-3"}}
-{"Problem_182": {"answer": ""}}
-{"Problem_183": {"answer": "15"}}
+{"Problem_182": {"answer": "-1"}}
+{"Problem_183": {"answer": "No answer provided."}}
 {"Problem_184": {"answer": "D"}}
 {"Problem_185": {"answer": "C) II and III only"}}
 {"Problem_186": {"answer": "x = -1"}}
 {"Problem_187": {"answer": "None of the options"}}
-{"Problem_188": {"answer": "B"}}
+{"Problem_188": {"answer": "y=(8x+7)(8x-7)"}}
 {"Problem_189": {"answer": "-12"}}
 {"Problem_190": {"answer": "\u00b14"}}
 {"Problem_191": {"answer": "D) 100"}}
 {"Problem_192": {"answer": "13"}}
 {"Problem_193": {"answer": "x = 9/4, x = 1, x = 5/3"}}
-{"Problem_194": {"answer": "B: x = 1.35 and x = -0.45"}}
+{"Problem_194": {"answer": "No answer provided."}}
 {"Problem_195": {"answer": "83"}}
-{"Problem_196": {"answer": "A) h(t)=-16t^2+62t+150"}}
-{"Problem_197": {"answer": "<answer>"}}
-{"Problem_198": {"answer": "None of the above"}}
+{"Problem_196": {"answer": "h(t)=-16t^2+62t+150"}}
+{"Problem_197": {"answer": "The problem seems to be missing some information. Without the actual functions or the graph, we can't accurately solve this problem."}}
+{"Problem_198": {"answer": "3+sqrt(2)"}}
 {"Problem_199": {"answer": "7"}}
 {"Problem_200": {"answer": "[\"B\", \"F\"]"}}
-{"Problem_201": {"answer": "IV"}}
-{"Problem_202": {"answer": "A) xy/4"}}
+{"Problem_201": {"answer": "None of the given options"}}
+{"Problem_202": {"answer": "C) y / 4x"}}
 {"Problem_203": {"answer": "x=7/3"}}
 {"Problem_204": {"answer": "(-3,-5)"}}
 {"Problem_205": {"answer": "D) no horizontal asymptotes"}}
 {"Problem_206": {"answer": "x=6 and x=-3"}}
-{"Problem_207": {"answer": "A"}}
-{"Problem_208": {"answer": "1/(x - 8)"}}
+{"Problem_207": {"answer": "A) n+6/n-7"}}
+{"Problem_208": {"answer": "1"}}
 {"Problem_209": {"answer": "5\u221a2"}}
-{"Problem_210": {"answer": "C) 3 \u221a[3]{32}"}}
-{"Problem_211": {"answer": "7xy^2\u221a(2xy^2z)"}}
-{"Problem_212": {"answer": "No answer provided."}}
-{"Problem_213": {"answer": "<to be calculated>"}}
-{"Problem_214": {"answer": "<t>"}}
+{"Problem_210": {"answer": "3 \\\\sqrt[3]{32}"}}
+{"Problem_211": {"answer": "7 x y^{2} \\sqrt{2 x y z}"}}
+{"Problem_212": {"answer": "-3"}}
+{"Problem_213": {"answer": "No answer provided."}}
+{"Problem_214": {"answer": "t"}}
 {"Problem_215": {"answer": "-4"}}
-{"Problem_216": {"answer": "5*sqrt(3) cm"}}
-{"Problem_217": {"answer": "D) 15"}}
+{"Problem_216": {"answer": "5\u221a3 cm"}}
+{"Problem_217": {"answer": "10"}}
 {"Problem_218": {"answer": "B) an acute triangle"}}
 {"Problem_219": {"answer": "B) cosine"}}
-{"Problem_220": {"answer": "D"}}
+{"Problem_220": {"answer": "C) 5, 11, 13 and D) 3, 4, 5"}}
 {"Problem_221": {"answer": "7\u221a2 cm"}}
 {"Problem_222": {"answer": "A) Dilation"}}
 {"Problem_223": {"answer": "(12, -6)"}}
 {"Problem_224": {"answer": "(1, -3)"}}
 {"Problem_225": {"answer": "C) Kite"}}
 {"Problem_226": {"answer": "15"}}
-{"Problem_227": {"answer": "400"}}
-{"Problem_228": {"answer": "B) 2262"}}
+{"Problem_227": {"answer": "310"}}
+{"Problem_228": {"answer": "2262"}}
 {"Problem_229": {"answer": "2094"}}
 {"Problem_230": {"answer": "40"}}
-{"Problem_231": {"answer": "7:12"}}
-{"Problem_232": {"answer": "C) 3"}}
+{"Problem_231": {"answer": "C) 7:12"}}
+{"Problem_232": {"answer": "3"}}
 {"Problem_233": {"answer": "B) 4^x = 1/64; x = -3"}}
-{"Problem_234": {"answer": "-(sqrt(2) + sqrt(6)) / 4"}}
+{"Problem_234": {"answer": "B"}}
 {"Problem_235": {"answer": "120/169"}}
 {"Problem_236": {"answer": "D) 3\u03c0/2"}}
 {"Problem_237": {"answer": "C) \\( \\pi \\)"}}
-{"Problem_238": {"answer": "C) horizontal asymptote"}}
-{"Problem_239": {"answer": "3"}}
-{"Problem_240": {"answer": "C) f(5)=-5"}}
+{"Problem_238": {"answer": "C) Horizontal Asymptote"}}
+{"Problem_239": {"answer": "3,5"}}
+{"Problem_240": {"answer": "C) f(15) = -5"}}
 {"Problem_241": {"answer": "C) x > 5"}}
-{"Problem_242": {"answer": "C) x-int: -3/4, y-int: 3"}}
+{"Problem_242": {"answer": "No answer provided."}}
 {"Problem_243": {"answer": "a_1=-13; d=3"}}
 {"Problem_244": {"answer": "C) y = 0"}}
 {"Problem_245": {"answer": "\\\\log_3 \\\\left(\\\\frac{8}{125}\\\\right)"}}
 {"Problem_246": {"answer": "\\\\frac{\\\\pi^2}{9}"}}
 {"Problem_247": {"answer": "undefined"}}
-{"Problem_248": {"answer": "B) -cos^2 x"}}
+{"Problem_248": {"answer": "B) -cos^2x"}}
 {"Problem_249": {"answer": "C) \u03c0/3"}}
-{"Problem_250": {"answer": "[\"pi/3\", \"5pi/3\"]"}}
+{"Problem_250": {"answer": "[pi/3, 5pi/3]"}}
 {"Problem_251": {"answer": "\u03c0/4"}}
 {"Problem_252": {"answer": "A) \\\\frac{\\\\sqrt{2+\\\\sqrt{2}}}{2}"}}
-{"Problem_253": {"answer": "5pi/6"}}
+{"Problem_253": {"answer": "C) x = 5pi/6"}}
 {"Problem_254": {"answer": "-270"}}
 {"Problem_255": {"answer": "B"}}
 {"Problem_256": {"answer": "170"}}
-{"Problem_257": {"answer": "3.6"}}
-{"Problem_258": {"answer": "16.91"}}
-{"Problem_259": {"answer": "47.9"}}
-{"Problem_260": {"answer": "15.869"}}
-{"Problem_261": {"answer": ""}}
-{"Problem_262": {"answer": ""}}
-{"Problem_263": {"answer": "2 ln(x) + 3 ln(y^2 - z) - 1/2 ln(y + 1)"}}
-{"Problem_264": {"answer": "log(5 * (x - 1)^2 / (x + 4)^3)"}}
+{"Problem_257": {"answer": "<to be calculated>"}}
+{"Problem_258": {"answer": "16.91 cm"}}
+{"Problem_259": {"answer": "47.9 degrees"}}
+{"Problem_260": {"answer": "<b>"}}
+{"Problem_261": {"answer": "\\\\frac{24 + 25\\\\sqrt{3}}{39}"}}
+{"Problem_262": {"answer": "2"}}
+{"Problem_263": {"answer": "2 ln x + 3 ln (y^2 - z) - 1/2 ln (y + 1)"}}
+{"Problem_264": {"answer": "\\\\log \\\\left[\\\\frac{5 \\\\cdot (x-1)^2}{(x+4)^3} \\\\right]"}}
 {"Problem_265": {"answer": "4/9"}}
 {"Problem_266": {"answer": "2x^2 + x - 1"}}
-{"Problem_267": {"answer": "<to be determined>"}}
-{"Problem_268": {"answer": "C) -0.135"}}
+{"Problem_267": {"answer": "<calculated value>"}}
+{"Problem_268": {"answer": "No answer provided."}}
 {"Problem_269": {"answer": "C) y = 9x - 0.295"}}
-{"Problem_270": {"answer": ""}}
-{"Problem_271": {"answer": "A"}}
-{"Problem_272": {"answer": ""}}
-{"Problem_273": {"answer": ""}}
+{"Problem_270": {"answer": "No answer provided."}}
+{"Problem_271": {"answer": "E) None of these"}}
+{"Problem_272": {"answer": "None of the given options"}}
+{"Problem_273": {"answer": "6.204"}}
 {"Problem_274": {"answer": "-5/4"}}
-{"Problem_275": {"answer": ""}}
-{"Problem_276": {"answer": "3*sin(3x)"}}
+{"Problem_275": {"answer": "0.333"}}
+{"Problem_276": {"answer": "3 * sin(3x)"}}
 {"Problem_277": {"answer": "16/3"}}
-{"Problem_278": {"answer": "D"}}
+{"Problem_278": {"answer": "D) ln((x/(x^2-1)^12))"}}
 {"Problem_279": {"answer": "E) None of these"}}
-{"Problem_280": {"answer": "A) 1/6"}}
+{"Problem_280": {"answer": "0.16666666666666666"}}
 {"Problem_281": {"answer": "C"}}
-{"Problem_282": {"answer": "B"}}
+{"Problem_282": {"answer": "B) \\\\frac{x^{2} \\\\ln (x)}{2}-\\\\frac{x^{2}}{4}+C"}}
 {"Problem_283": {"answer": "C) \\\\frac{1}{2} \\\\int_{1}^{5} \\\\sqrt{u} du"}}
 {"Problem_284": {"answer": "4\u03c0/21"}}
 {"Problem_285": {"answer": "E) None of these"}}
-{"Problem_286": {"answer": "E) \\\\frac{2}{5}(x+3)^{5/2} - 2(x+3)^{3/2} + C"}}
-{"Problem_287": {"answer": "y = e^{1/(2x^2)}(\\\\int -e^{-1/(2x^2)}/x^3 dx + C)"}}
+{"Problem_286": {"answer": "E) \\\\frac{2}{5}(x+3)^{\\\\frac{5}{2}}-2(x+3)^{\\\\frac{3}{2}}+C"}}
+{"Problem_287": {"answer": "y = -e^{1/2x^{-2}}\\\\int \\\\frac{e^{-1/2x^{-2}}}{x^3} dx"}}
 {"Problem_288": {"answer": "10"}}
-{"Problem_289": {"answer": "-20a - 2c + 4b"}}
-{"Problem_290": {"answer": "[1/3, 2/3, 7/3]"}}
-{"Problem_291": {"answer": "[sqrt(3), 1, 1; 1, sqrt(3), 1; 1, 1, sqrt(3)]"}}
-{"Problem_292": {"answer": "13.5"}}
+{"Problem_289": {"answer": "2c + 14"}}
+{"Problem_290": {"answer": "[2, 1, 3]"}}
+{"Problem_291": {"answer": "[3, 2, 2; 2, 3, 2; 2, 2, 3]"}}
+{"Problem_292": {"answer": "<answer>"}}
 {"Problem_293": {"answer": "[3,3]"}}
-{"Problem_294": {"answer": "[1, 2, 1; -2, 3, -2; 1, 2, 1]"}}
+{"Problem_294": {"answer": ""}}
 {"Problem_295": {"answer": "2"}}
-{"Problem_296": {"answer": "3"}}
-{"Problem_297": {"answer": "[2^{2024}, 2^{2024}, 0; 4^{2024}, 4^{2024}, 0; 6^{2024}, 6^{2024}, 0]"}}
+{"Problem_296": {"answer": "4"}}
+{"Problem_297": {"answer": "No answer provided."}}
 {"Problem_298": {"answer": "1"}}
-{"Problem_299": {"answer": "4"}}
-{"Problem_300": {"answer": "8"}}
-{"Problem_301": {"answer": "[1, 0, 0; 2, 1, 0; 3, 4, 1]"}}
-{"Problem_302": {"answer": "No answer provided."}}
-{"Problem_303": {"answer": "[4,5]"}}
-{"Problem_304": {"answer": "The problem statement is incorrect, and 'a' cannot be determined."}}
-{"Problem_305": {"answer": "Cannot be computed"}}
-{"Problem_306": {"answer": "[-1, 4, 4]"}}
-{"Problem_307": {"answer": ""}}
+{"Problem_299": {"answer": "1"}}
+{"Problem_300": {"answer": "1"}}
+{"Problem_301": {"answer": "[1, -2, -5; 0, 1, -4; 0, 0, 1]"}}
+{"Problem_302": {"answer": "[1,1]"}}
+{"Problem_303": {"answer": "[4, 5]"}}
+{"Problem_304": {"answer": "3.5"}}
+{"Problem_305": {"answer": "The trace of BA is 18"}}
+{"Problem_306": {"answer": "[3, 0, 3]"}}
+{"Problem_307": {"answer": "4"}}
 {"Problem_308": {"answer": "3"}}
-{"Problem_309": {"answer": "(1+sqrt(5))/2"}}
-{"Problem_310": {"answer": "The solution is complex and may not have a simple answer."}}
-{"Problem_311": {"answer": "x^4 - 10x^2 + 1"}}
-{"Problem_312": {"answer": ""}}
+{"Problem_309": {"answer": "1.61803"}}
+{"Problem_310": {"answer": "<value of a>"}}
+{"Problem_311": {"answer": "x^2 - 2x(\u221a2+\u221a3) + 5 = 0"}}
+{"Problem_312": {"answer": "x^3"}}
 {"Problem_313": {"answer": "1"}}
-{"Problem_314": {"answer": "11"}}
+{"Problem_314": {"answer": "-4"}}
 {"Problem_315": {"answer": "4"}}
-{"Problem_316": {"answer": "2"}}
+{"Problem_316": {"answer": "No value of a makes the function continuous on R"}}
 {"Problem_317": {"answer": "0"}}
-{"Problem_318": {"answer": "e - (1/2)e^2 + 1/2"}}
-{"Problem_319": {"answer": "1.25"}}
-{"Problem_320": {"answer": "2"}}
-{"Problem_321": {"answer": "243"}}
+{"Problem_318": {"answer": "-1"}}
+{"Problem_319": {"answer": "-2.5"}}
+{"Problem_320": {"answer": "<to be determined>"}}
+{"Problem_321": {"answer": "<answer>"}}
 {"Problem_322": {"answer": "0"}}
-{"Problem_323": {"answer": ""}}
-{"Problem_324": {"answer": "1/3"}}
-{"Problem_325": {"answer": "-1"}}
-{"Problem_326": {"answer": "4/3"}}
+{"Problem_323": {"answer": "No answer provided."}}
+{"Problem_324": {"answer": "0.1"}}
+{"Problem_325": {"answer": "<answer>"}}
+{"Problem_326": {"answer": "2/3"}}
 {"Problem_327": {"answer": "\u03c0/2"}}
-{"Problem_328": {"answer": "{\n        \"alpha\": 3,\n        \"beta\": 4\n    }"}}
-{"Problem_329": {"answer": "4"}}
+{"Problem_328": {"answer": "{\n        \"alpha\": 2,\n        \"beta\": 0.25\n    }"}}
+{"Problem_329": {"answer": "8"}}
 {"Problem_330": {"answer": "0.25"}}
-{"Problem_331": {"answer": "\u03c0/4"}}
-{"Problem_332": {"answer": ""}}
-{"Problem_333": {"answer": "\\\\frac{\\\\pi\\\\sqrt{2}}{4}"}}
-{"Problem_334": {"answer": "\\\\int_0^1\\\\int_y^1e^{-x^2}dx dy + 1"}}
+{"Problem_331": {"answer": "3/4*pi"}}
+{"Problem_332": {"answer": "<to be determined>"}}
+{"Problem_333": {"answer": "\\\\frac{\\\\pi}{2\\\\sqrt{2}}"}}
+{"Problem_334": {"answer": "Cannot be expressed in terms of elementary functions"}}
 {"Problem_335": {"answer": "2"}}
-{"Problem_336": {"answer": "No answer provided."}}
+{"Problem_336": {"answer": "1"}}
 {"Problem_337": {"answer": "2e"}}
-{"Problem_338": {"answer": "y = e^{-x}"}}
-{"Problem_339": {"answer": "Yes, for all x \u2260 0, there exists a system of three linear homogeneous ODEs such that all of y1, y2, y3 are solutions to this system. However, for x = 0, there does not exist such a system of ODEs."}}
-{"Problem_340": {"answer": "Yes"}}
+{"Problem_338": {"answer": "y = 1"}}
+{"Problem_339": {"answer": "No, there does not exist such a system of ODEs."}}
+{"Problem_340": {"answer": "No"}}
 {"Problem_341": {"answer": "y=0 is a solution to the differential equation, but it is not clear if it is a singular solution."}}
-{"Problem_342": {"answer": "The equilibrium point (0,0) is not stable."}}
-{"Problem_343": {"answer": "Yes, the equilibrium x(t) = 0 is stable."}}
-{"Problem_344": {"answer": "To be determined"}}
-{"Problem_345": {"answer": "The answer depends on the solution to the variational equation associated with the given ODE."}}
+{"Problem_342": {"answer": "<stability of the equilibrium point>"}}
+{"Problem_343": {"answer": "The equilibrium point x(t) = 0 is stable."}}
+{"Problem_344": {"answer": "To be determined after computing the divergence"}}
+{"Problem_345": {"answer": "The partial derivative of the solution y with respect to the initial condition \u03b7 is not necessarily always positive."}}
 {"Problem_346": {"answer": "No"}}
-{"Problem_347": {"answer": "Yes, the function u is a constant."}}
-{"Problem_348": {"answer": "No answer provided."}}
+{"Problem_347": {"answer": "Cannot be determined without knowing the dimension n"}}
+{"Problem_348": {"answer": "The limit does not exist"}}
 {"Problem_349": {"answer": "[1, 0]"}}
 {"Problem_350": {"answer": "29937600"}}
-{"Problem_351": {"answer": "<calculated answer>"}}
-{"Problem_352": {"answer": "4004"}}
+{"Problem_351": {"answer": "0.3"}}
+{"Problem_352": {"answer": "4032"}}
 {"Problem_353": {"answer": "No answer provided."}}
 {"Problem_354": {"answer": "No answer provided."}}
-{"Problem_355": {"answer": "No answer provided."}}
-{"Problem_356": {"answer": "0.9"}}
-{"Problem_357": {"answer": "To be calculated in the next steps"}}
-{"Problem_358": {"answer": "<answer>"}}
-{"Problem_359": {"answer": "5080320"}}
-{"Problem_360": {"answer": "p"}}
-{"Problem_361": {"answer": "No answer provided."}}
+{"Problem_355": {"answer": "<answer>"}}
+{"Problem_356": {"answer": "1"}}
+{"Problem_357": {"answer": "2.718"}}
+{"Problem_358": {"answer": "No answer provided."}}
+{"Problem_359": {"answer": "<to be calculated>"}}
+{"Problem_360": {"answer": "No answer provided."}}
+{"Problem_361": {"answer": "P"}}
 {"Problem_362": {"answer": "No answer provided."}}
-{"Problem_363": {"answer": "No answer provided."}}
+{"Problem_363": {"answer": "Cannot be calculated analytically"}}
 {"Problem_364": {"answer": "1"}}
-{"Problem_365": {"answer": "No answer provided."}}
-{"Problem_366": {"answer": "No answer provided."}}
+{"Problem_365": {"answer": "<float value>"}}
+{"Problem_366": {"answer": "f(1)"}}
 {"Problem_367": {"answer": "0.0"}}
 {"Problem_368": {"answer": "1/(N+1)"}}
-{"Problem_369": {"answer": "1"}}
-{"Problem_370": {"answer": "<answer>"}}
+{"Problem_369": {"answer": "1.0"}}
+{"Problem_370": {"answer": "16/17"}}
 {"Problem_371": {"answer": ""}}
-{"Problem_372": {"answer": "Reject the null hypothesis"}}
+{"Problem_372": {"answer": ""}}
 {"Problem_373": {"answer": "1.5"}}
-{"Problem_374": {"answer": "Yes, the actual percentage of type A blood donations differs from 40% at a significance level of 0.01."}}
-{"Problem_375": {"answer": "No answer provided."}}
-{"Problem_376": {"answer": "No answer provided."}}
-{"Problem_377": {"answer": ""}}
+{"Problem_374": {"answer": ""}}
+{"Problem_375": {"answer": ""}}
+{"Problem_376": {"answer": "<answer>"}}
+{"Problem_377": {"answer": "(0.2249, 0.2751)"}}
 {"Problem_378": {"answer": ""}}
-{"Problem_379": {"answer": "<answer>"}}
-{"Problem_380": {"answer": ""}}
+{"Problem_379": {"answer": ""}}
+{"Problem_380": {"answer": "No"}}
 {"Problem_381": {"answer": ""}}
-{"Problem_382": {"answer": "4*theta^2 / (1 + 4*theta)"}}
-{"Problem_383": {"answer": "1"}}
-{"Problem_384": {"answer": "1"}}
-{"Problem_385": {"answer": "To be calculated"}}
+{"Problem_382": {"answer": "\\\\theta^2"}}
+{"Problem_383": {"answer": "theta^2"}}
+{"Problem_384": {"answer": "0.5"}}
+{"Problem_385": {"answer": "No"}}
 {"Problem_386": {"answer": "1/T"}}
 {"Problem_387": {"answer": "Yes"}}

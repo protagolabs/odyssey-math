@@ -42,7 +42,7 @@ def process_files(file_true, file_pred):
 
 def main():
     file_true = 'final-odyssey-math-with-levels.jsonl'
-    file_pred = 'jsonl/clean/dbrx-instruct-solution-clean.jsonl'
+    file_pred = 'jsonl/clean/output-last.jsonl'
     results = process_files(file_true, file_pred)
     save_jsonl(results, 'jsonl/eval/result-'+file_pred.split('/')[-1])
     print("Results have been saved.")

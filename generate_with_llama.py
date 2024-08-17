@@ -37,22 +37,24 @@ request = """
     
     ```json
     {{
+        "reasoning": "<detailed solution process>",
         "answer": "<answer>",
-        "reasoning": "<detailed solution process>"
     }}
     ```
     Ensure that all task requirements are meticulously followed in your response.
 """
 
 def process_math_problems(input_file, output_file):
+
     with open(input_file, 'r') as infile, open(output_file, 'w') as outfile:
         for line in infile:
             time.sleep(2)
             status = 0
             problem = json.loads(line)  # Convert JSON line to dictionary
             for key, value in problem.items():
+        
                 question = value['question']
-                question =  "The given question is:   \n" + question
+                question =  "The given question is:  \n" + question
                 messages = [
                     {
                         "role": "system",
@@ -79,7 +81,7 @@ def process_math_problems(input_file, output_file):
 
 # Specify your input and output files
 input_file_path = 'final-odyssey-math-with-levels.jsonl'
-output_file_path = 'jsonl/llama3-70b-solution.jsonl'
+output_file_path = 'jsonl/llama3-70b-solution-last.jsonl'
 
 # Call the processing function
 process_math_problems(input_file_path, output_file_path)

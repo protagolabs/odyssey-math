@@ -75,8 +75,8 @@ SOLUTION = [
             
             ```json
             {{
+                "reasoning": "<detailed solution process>",
                 "answer": "<answer>",
-                "reasoning": "<detailed solution process>"
             }}
             ```
             Ensure that all task requirements are meticulously followed in your response.
