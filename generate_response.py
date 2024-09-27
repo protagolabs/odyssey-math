@@ -1,4 +1,4 @@
-from agents.solve_update import mathSolve
+from agents.solve import mathSolve
 import json
 
 def process_math_problems(input_file, output_file):
@@ -14,7 +14,7 @@ def process_math_problems(input_file, output_file):
 
 # Specify your input and output files
 input_file_path = 'final-odyssey-math-with-levels.jsonl'
-output_file_path = 'jsonl/gpt-4-o1-preview-solution.jsonl'
+output_file_path = 'jsonl/gpt-4-1106-preview.jsonl'
 
 # Call the processing function
 process_math_problems(input_file_path, output_file_path)
