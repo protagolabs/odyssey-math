@@ -45,7 +45,7 @@
 {"Problem_47": {"answer": "infinitely many"}}
 {"Problem_48": {"answer": 4}}
 {"Problem_49": {"answer": "Cannot be determined from the given information"}}
-{"Problem_50": {"answer": "The exact value of \\overline{ab} cannot be determined without further calculation."}}
+{"Problem_50": {"answer": "The exact value of \\\\overline{ab} cannot be determined without further calculation."}}
 {"Problem_51": {"answer": "A detailed reevaluation is necessary for an accurate solution."}}
 {"Problem_52": {"answer": "Further analysis required"}}
 {"Problem_53": {"answer": "Requires further optimization under derived conditions."}}
@@ -61,9 +61,10 @@
 {"Problem_63": {"answer": "Indeterminate due to insufficient information"}}
 {"Problem_64": {"answer": "Insufficient information to determine a numerical value for m+n."}}
 {"Problem_65": {"answer": 4}}
+{"Problem_66": {"answer": "(2, +\\\\infty)"}}
 {"Problem_67": {"answer": "A correct solution requires reevaluation and correct application of trigonometric identities."}}
 {"Problem_68": {"answer": 15625}}
-{"Problem_69": {"answer": "\\sqrt{2 - \\sqrt{3}}"}}
+{"Problem_69": {"answer": "\\\\sqrt{2 - \\\\sqrt{3}}"}}
 {"Problem_70": {"answer": "b^2 + p"}}
 {"Problem_72": {"answer": 1}}
 {"Problem_73": {"answer": "Cannot be determined without additional information"}}
@@ -79,7 +80,7 @@
 {"Problem_83": {"answer": "Cannot be determined with provided information"}}
 {"Problem_84": {"answer": "The direct calculation or relationship for 7/a^2 - 5/b^2 based on the given conditions was not provided due to a misunderstanding in the approach."}}
 {"Problem_86": {"answer": 2}}
-{"Problem_87": {"answer": "\\frac{3\\pi}{4}"}}
+{"Problem_87": {"answer": "\\\\frac{3\\\\pi}{4}"}}
 {"Problem_88": {"answer": "-1.25 / sqrt(1.75)"}}
 {"Problem_89": {"answer": 1}}
 {"Problem_90": {"answer": "Requires further exploration"}}
@@ -144,23 +145,23 @@
 {"Problem_149": {"answer": -44}}
 {"Problem_150": {"answer": "B) 2x(x-7)"}}
 {"Problem_151": {"answer": 31}}
-{"Problem_152": {"answer": "\\frac{-16m^4p^6}{n^5}"}}
-{"Problem_153": {"answer": "C) \\frac{3b^9}{4a^5c^9}"}}
+{"Problem_152": {"answer": "\\\\frac{-16m^4p^6}{n^5}"}}
+{"Problem_153": {"answer": "C) \\\\frac{3b^9}{4a^5c^9}"}}
 {"Problem_154": {"answer": "(x+2)"}}
 {"Problem_155": {"answer": "6x^3 - 2x^2 + 3x - 1"}}
 {"Problem_156": {"answer": "(8b - 1)^2"}}
 {"Problem_157": {"answer": "-12"}}
-{"Problem_158": {"answer": "4x^2yz\\sqrt{5xz}"}}
-{"Problem_159": {"answer": "C) 2\\sqrt{121}-3\\sqrt[3]{216}"}}
-{"Problem_160": {"answer": "{-\\frac{2}{3}, \\frac{4}{5}}"}}
+{"Problem_158": {"answer": "4x^2yz\\\\sqrt{5xz}"}}
+{"Problem_159": {"answer": "C) 2\\\\sqrt{121}-3\\\\sqrt[3]{216}"}}
+{"Problem_160": {"answer": "{-\\\\frac{2}{3}, \\\\frac{4}{5}}"}}
 {"Problem_161": {"answer": "-13"}}
-{"Problem_162": {"answer": "{-1-2\\sqrt{2},-1+2\\sqrt{2}}"}}
+{"Problem_162": {"answer": "{-1-2\\\\sqrt{2},-1+2\\\\sqrt{2}}"}}
 {"Problem_163": {"answer": 120}}
-{"Problem_164": {"answer": "y=\\frac{x-3}{z}"}}
+{"Problem_164": {"answer": "y=\\\\frac{x-3}{z}"}}
 {"Problem_165": {"answer": "B) infinite solutions"}}
 {"Problem_166": {"answer": "D) I, III and IV"}}
 {"Problem_167": {"answer": "(3/17, -32/17)"}}
-{"Problem_168": {"answer": "{x: x \\leq -7}"}}
+{"Problem_168": {"answer": "{x: x \\\\leq -7}"}}
 {"Problem_169": {"answer": "2x + y = 4"}}
 {"Problem_170": {"answer": "-3$ per person"}}
 {"Problem_171": {"answer": 55}}
@@ -182,28 +183,28 @@
 {"Problem_187": {"answer": "f(x)=3(2x+3)^2"}}
 {"Problem_188": {"answer": "B) y=(8x+7)(8x-7)"}}
 {"Problem_189": {"answer": "-12"}}
-{"Problem_190": {"answer": "\u00b14"}}
+{"Problem_190": {"answer": "\\u00b14"}}
 {"Problem_191": {"answer": 100}}
 {"Problem_192": {"answer": 13}}
-{"Problem_193": {"answer": "x=\\frac{9}{4}, x=1, x=\\frac{5}{3}"}}
+{"Problem_193": {"answer": "x=\\\\frac{9}{4}, x=1, x=\\\\frac{5}{3}"}}
 {"Problem_194": {"answer": "x=1.35 and x=-0.45"}}
 {"Problem_195": {"answer": 83}}
 {"Problem_196": {"answer": "h(t)=-16t^2+62t+150"}}
 {"Problem_197": {"answer": "Insufficient information to determine the correct option"}}
-{"Problem_198": {"answer": "3+\\sqrt{2}"}}
+{"Problem_198": {"answer": "3+\\\\sqrt{2}"}}
 {"Problem_199": {"answer": 7}}
 {"Problem_200": {"answer": ["B", "F"]}}
 {"Problem_201": {"answer": "D) II and IV"}}
-{"Problem_202": {"answer": "\\frac{x y}{4}"}}
-{"Problem_203": {"answer": "\\frac{7}{3}"}}
+{"Problem_202": {"answer": "\\\\frac{x y}{4}"}}
+{"Problem_203": {"answer": "\\\\frac{7}{3}"}}
 {"Problem_204": {"answer": "(-3, -5)"}}
 {"Problem_205": {"answer": "D) no horizontal asymptotes"}}
 {"Problem_206": {"answer": "x=6 and x=-3"}}
-{"Problem_207": {"answer": "\\frac{n+6}{n-7}"}}
+{"Problem_207": {"answer": "\\\\frac{n+6}{n-7}"}}
 {"Problem_208": {"answer": "Error in solution process"}}
 {"Problem_209": {"answer": "5\u221a2"}}
-{"Problem_210": {"answer": "6 \\sqrt[3]{4}"}}
-{"Problem_211": {"answer": "7 x y^2 \\sqrt{2 x y z}"}}
+{"Problem_210": {"answer": "6 \\\\sqrt[3]{4}"}}
+{"Problem_211": {"answer": "7 x y^2 \\\\sqrt{2 x y z}"}}
 {"Problem_212": {"answer": {"part_a": -3, "part_b": 4}}}
 {"Problem_213": {"answer": 10256.006}}
 {"Problem_214": {"answer": 12.986}}
@@ -225,7 +226,8 @@
 {"Problem_230": {"answer": 40}}
 {"Problem_231": {"answer": "7:12"}}
 {"Problem_232": {"answer": 3}}
-{"Problem_234": {"answer": "\\frac{-\\sqrt{2}-\\sqrt{6}}{4}"}}
+{"Problem_233": {"answer": "B) \\(4^x = \\\\frac{1}{64}; x = -3\\)"}}
+{"Problem_234": {"answer": "\\\\frac{-\\\\sqrt{2}-\\\\sqrt{6}}{4}"}}
 {"Problem_235": {"answer": "120/169"}}
 {"Problem_236": {"answer": "3pi/2"}}
 {"Problem_237": {"answer": "pi"}}
@@ -236,13 +238,13 @@
 {"Problem_242": {"answer": "C) x-int: -3/4, y-int: 3"}}
 {"Problem_243": {"answer": {"a_1": -13, "d": 3}}}
 {"Problem_244": {"answer": "y = 0"}}
-{"Problem_246": {"answer": "-\\frac{\\pi}{3}"}}
+{"Problem_246": {"answer": "-\\\\frac{\\\\pi}{3}"}}
 {"Problem_247": {"answer": "undefined"}}
 {"Problem_248": {"answer": "-cos^2 x"}}
-{"Problem_249": {"answer": "C) \\frac{\\pi}{3}"}}
-{"Problem_250": {"answer": "[\\frac{\\pi}{3}, \\frac{11\\pi}{6}]"}}
-{"Problem_251": {"answer": "\\frac{\\pi}{4}"}}
-{"Problem_252": {"answer": "\\frac{\\sqrt{2 + \\sqrt{2}}}{2}"}}
+{"Problem_249": {"answer": "C) \\\\frac{\\\\pi}{3}"}}
+{"Problem_250": {"answer": "[\\\\frac{\\\\pi}{3}, \\\\frac{11\\\\pi}{6}]"}}
+{"Problem_251": {"answer": "\\\\frac{\\\\pi}{4}"}}
+{"Problem_252": {"answer": "\\\\frac{\\\\sqrt{2 + \\\\sqrt{2}}}{2}"}}
 {"Problem_253": {"answer": "None of the provided options directly satisfies the equation as initially analyzed."}}
 {"Problem_254": {"answer": -270}}
 {"Problem_255": {"answer": "x^4 - 8x^3 + 24x^2 - 32x + 16"}}
@@ -252,27 +254,31 @@
 {"Problem_259": {"answer": 47.9}}
 {"Problem_260": {"answer": 11.9}}
 {"Problem_262": {"answer": 2}}
-{"Problem_263": {"answer": "2\\ln x + 3\\ln (y^{2}-z) - \\frac{1}{2}\\ln (y+1)"}}
+{"Problem_263": {"answer": "2\\\\ln x + 3\\\\ln (y^{2}-z) - \\\\frac{1}{2}\\\\ln (y+1)"}}
 {"Problem_264": {"answer": "log((5(x-1)^2)/(x+4)^3)"}}
 {"Problem_265": {"answer": "4/9"}}
 {"Problem_266": {"answer": "2x^2 + x - 1"}}
 {"Problem_267": {"answer": 5242.88}}
+{"Problem_268": {"answer": "-0.366"}}
+{"Problem_269": {"answer": "C) y = 9x - 0.295"}}
+{"Problem_270": {"answer": "Due to the limitations in solving the equation exactly here, the answer would depend on numerical verification of the given options against the derivative and second derivative tests."}}
 {"Problem_271": {"answer": "E) None of these"}}
-{"Problem_272": {"answer": "\\frac{1}{11}"}}
+{"Problem_272": {"answer": "\\\\frac{1}{11}"}}
 {"Problem_273": {"answer": "Assumed numerical result closest to one of the options"}}
 {"Problem_274": {"answer": "-5/4"}}
 {"Problem_275": {"answer": 0.333}}
-{"Problem_276": {"answer": "3 \\cos(3x)"}}
-{"Problem_277": {"answer": "\\frac{16}{3}"}}
+{"Problem_276": {"answer": "3 \\\\cos(3x)"}}
+{"Problem_277": {"answer": "\\\\frac{16}{3}"}}
 {"Problem_278": {"answer": "D) ln (x / (x^2 - 1)^{12})"}}
 {"Problem_279": {"answer": "y = 2(x - 1)"}}
 {"Problem_280": {"answer": "1/6"}}
-{"Problem_281": {"answer": "\\frac{-1}{4} \\ln|-2x^2 + 3| + C"}}
-{"Problem_282": {"answer": "\u00bd x^2 ln(x) - \u00bc x^2 + C"}}
+{"Problem_281": {"answer": "\\\\frac{-1}{4} \\\\ln|-2x^2 + 3| + C"}}
+{"Problem_282": {"answer": "\\u00bd x^2 ln(x) - \\u00bc x^2 + C"}}
+{"Problem_283": {"answer": "C"}}
 {"Problem_284": {"answer": "4pi/21"}}
 {"Problem_285": {"answer": "None of these"}}
-{"Problem_286": {"answer": "\\frac{2}{5}(x+3)^{5/2} - 2(x+3)^{3/2} + C"}}
-{"Problem_287": {"answer": "y = 1 \\pm A \\cdot e^{-\\frac{1}{2x^2}}"}}
+{"Problem_286": {"answer": "\\\\frac{2}{5}(x+3)^{5/2} - 2(x+3)^{3/2} + C"}}
+{"Problem_287": {"answer": "y = 1 \\\\pm A \\\\cdot e^{-\\\\frac{1}{2x^2}}"}}
 {"Problem_288": {"answer": 2}}
 {"Problem_289": {"answer": 20}}
 {"Problem_290": {"answer": "[x_1, x_2, x_3]"}}
@@ -292,6 +298,7 @@
 {"Problem_304": {"answer": "Insufficient information to compute a"}}
 {"Problem_305": {"answer": "Cannot be determined with given information"}}
 {"Problem_306": {"answer": [3, -3, 4]}}
+{"Problem_307": {"answer": "Cannot be determined with the given information"}}
 {"Problem_308": {"answer": 3}}
 {"Problem_309": {"answer": 1.618033988749895}}
 {"Problem_310": {"answer": "A direct solution for a was not reached with the provided steps. Further analysis or information is required."}}
@@ -313,7 +320,7 @@
 {"Problem_326": {"answer": "arctan(1/2)"}}
 {"Problem_327": {"answer": "pi/2"}}
 {"Problem_328": {"answer": {"alpha": 1, "beta": 4}}}
-{"Problem_329": {"answer": "8\\sqrt{2}"}}
+{"Problem_329": {"answer": "8\\\\sqrt{2}"}}
 {"Problem_330": {"answer": "0.7853981633974483 + 0.25"}}
 {"Problem_331": {"answer": "pi/4"}}
 {"Problem_332": {"answer": "pi - 8"}}
@@ -345,7 +352,7 @@
 {"Problem_359": {"answer": 14040}}
 {"Problem_360": {"answer": "Numerical integration required"}}
 {"Problem_361": {"answer": 0.3764}}
-{"Problem_362": {"answer": "\\frac{6}{e} - \\frac{4}{e^2}"}}
+{"Problem_362": {"answer": "\\\\frac{6}{e} - \\\\frac{4}{e^2}"}}
 {"Problem_363": {"answer": "e^{-(2e + 1)}"}}
 {"Problem_364": {"answer": "ln(2)"}}
 {"Problem_365": {"answer": "Var(X) calculation requires detailed integration by parts for E[X] and E[X^2]."}}

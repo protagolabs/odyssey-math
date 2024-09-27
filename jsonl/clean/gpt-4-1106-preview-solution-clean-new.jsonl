@@ -1,0 +1,387 @@
+{"Problem_1": {"answer": "\"answer\": 34\n}"}}
+{"Problem_2": {"answer": "\"answer\": \"The minimum value of $l$ satisfying the conditions is yet to be determined through the outlined steps.\"\n}"}}
+{"Problem_3": {"answer": "\"answer\": 34\n}"}}
+{"Problem_4": {"answer": "\"answer\": \"The solution requires computational work to determine the exact number of fans of 2020.\"\n}"}}
+{"Problem_5": {"answer": "\"answer\": 59033\n}"}}
+{"Problem_6": {"answer": "\"answer\": \"3n + 1 = a^2\"\n}"}}
+{"Problem_7": {"answer": "\"answer\": -96\n}"}}
+{"Problem_8": {"answer": "\"answer\": \"2025\"\n}"}}
+{"Problem_9": {"answer": "\"answer\": \"The number of possible sets of (a, b, c) is not provided here, as it requires a detailed case-by-case analysis and enumeration that is beyond the scope of this response.\"\n}"}}
+{"Problem_10": {"answer": null}}
+{"Problem_11": {"answer": "\"answer\": 1\n}"}}
+{"Problem_12": {"answer": "\"answer\": 7\n}"}}
+{"Problem_13": {"answer": "\"answer\": \"Due to the computational complexity and the need for an efficient primality test, the actual prime numbers and their sum cannot be provided without running the necessary computations. The answer will be a list of prime numbers of the form p^p + 1 with no more than 19 digits and their sum.\"\n}"}}
+{"Problem_14": {"answer": "\"answer\": \"The maximum possible value of n is yet to be determined through the step-by-step solution process.\"\n}"}}
+{"Problem_15": {"answer": "\"answer\": {\n        \"first_digit_before_decimal\": \"Calculation needed\",\n        \"first_digit_after_decimal\": \"Calculation needed\"\n    }"}}
+{"Problem_16": {"answer": null}}
+{"Problem_17": {"answer": "\"answer\": \"The minimum value of $n$ such that the last three digits of $n^3$ are 888 has not been computed yet. The steps provided are a guide to finding the solution, which involves a congruence equation and possibly a systematic search or trial and error.\"\n}"}}
+{"Problem_18": {"answer": "\"answer\": \"The detailed step-by-step solution will be provided after the search for the appropriate $x$ and $y$ values.\"\n}"}}
+{"Problem_19": {"answer": "\"answer\": \"The sum of all $n$ that satisfy the conditions is not computable in this format without the aid of a computer program to perform the necessary iterations and calculations.\"\n}"}}
+{"Problem_20": {"answer": null}}
+{"Problem_21": {"answer": "\"answer\": \"The solution process is incomplete. The steps provided are a guide to solving the problem, but actual calculations and verification are needed to determine the values of \\(a\\) and \\(b\\).\"\n}"}}
+{"Problem_22": {"answer": "\"answer\": 14\n}"}}
+{"Problem_23": {"answer": "\"answer\": \"The problem as stated does not provide a clear method for determining the number of terms equal to 1988 in $S_{1988}"}}
+{"Problem_24": {"answer": "\"answer\": 6\n}"}}
+{"Problem_25": {"answer": "\"answer\": \"Insufficient information to determine the number of elements in K(2004, 2004)\"\n}"}}
+{"Problem_26": {"answer": "\"answer\": \"C) \\\\frac{1}"}}
+{"Problem_27": {"answer": "\"answer\": 12\n}"}}
+{"Problem_28": {"answer": "\"answer\": 0\n}"}}
+{"Problem_29": {"answer": "\"answer\": \"The number of non-zero integer pairs (a, b) cannot be determined with the provided solution process.\"\n}"}}
+{"Problem_30": {"answer": "\"answer\": \"The solution requires a detailed analysis and computation which has not been completed yet.\"\n}"}}
+{"Problem_31": {"answer": "\"answer\": \"The detailed step-by-step solution will be provided in the following steps.\"\n}"}}
+{"Problem_32": {"answer": "\"answer\": \"\"\n}"}}
+{"Problem_33": {"answer": "\"answer\": \"The detailed step-by-step solution will be computed and the final count of valid triples will be provided after the calculations are completed.\"\n}"}}
+{"Problem_34": {"answer": "\"answer\": 0\n}"}}
+{"Problem_35": {"answer": "\"answer\": 0\n}"}}
+{"Problem_36": {"answer": "\"answer\": 2\n}"}}
+{"Problem_37": {"answer": "\"answer\": \"The sum of all such positive integers $b$ is yet to be determined through the detailed analysis and calculations.\"\n}"}}
+{"Problem_38": {"answer": null}}
+{"Problem_39": {"answer": "\"answer\": \"Lower bound for k\"\n}"}}
+{"Problem_40": {"answer": "\"answer\": \"The sum of all $n$ such that $10p(n) = n^2 + 4n - 2005$ is being calculated.\"\n}"}}
+{"Problem_41": {"answer": "\"answer\": \"Calculation in progress...\"\n}"}}
+{"Problem_42": {"answer": "\"answer\": \"The number of values of alpha that make the system of equations have integer solutions is to be determined by checking each value of alpha within the range -2005 to 2005.\"\n}"}}
+{"Problem_43": {"answer": "\"answer\": \"The number of elements in set A is calculated by counting the primes up to 2006 and subtracting the count of prime powers from 2006.\"\n}"}}
+{"Problem_44": {"answer": "\"answer\": 2\n}"}}
+{"Problem_45": {"answer": "\"answer\": \"The minimum value of the natural number whose last four digits are 2002 and is divisible by 2003 is 16016.\"\n}"}}
+{"Problem_46": {"answer": "\"answer\": 1\n}"}}
+{"Problem_47": {"answer": "\"answer\": \"infinite\"\n}"}}
+{"Problem_48": {"answer": "\"answer\": 4\n}"}}
+{"Problem_49": {"answer": "\"answer\": \"Unbounded\"\n}"}}
+{"Problem_50": {"answer": "\"answer\": 99\n}"}}
+{"Problem_51": {"answer": "\"answer\": 1\n}"}}
+{"Problem_52": {"answer": "\"answer\": 1\n}"}}
+{"Problem_53": {"answer": "\"answer\": \"The maximum value of \\(a + b\\) cannot be determined without additional constraints on \\(a\\) and \\(b\\). The problem as stated does not provide enough information to find a unique maximum for \\(a + b\\).\"\n}"}}
+{"Problem_54": {"answer": "\"answer\": \"The minimum value of $2x^2 + y^2$ cannot be determined from the provided information and the approach taken so far. Further analysis or a different method is required to solve the problem.\"\n}"}}
+{"Problem_55": {"answer": "\"answer\": 35\n}"}}
+{"Problem_56": {"answer": "\"answer\": \"The integer part of $x$ is 21.\"\n}"}}
+{"Problem_57": {"answer": null}}
+{"Problem_58": {"answer": "\"answer\": 2\n}"}}
+{"Problem_59": {"answer": "\"answer\": \"To be calculated after following the steps.\"\n}"}}
+{"Problem_60": {"answer": "\"answer\": \"The exact number of sets of positive integers $(x, y)$ that satisfy the equation $5F_x - 3F_y = 1$ cannot be determined without further computation.\"\n}"}}
+{"Problem_61": {"answer": "\"answer\": \"The number of such positive integers $n$ cannot be determined with the given information.\"\n}"}}
+{"Problem_62": {"answer": "\"answer\": \"Calculation in progress\"\n}"}}
+{"Problem_63": {"answer": "\"answer\": \"The maximum number of solutions for $P(P(x)) = x^2$ is the square of the degree of $P(x)$.\"\n}"}}
+{"Problem_64": {"answer": "\"answer\": \"\"\n}"}}
+{"Problem_65": {"answer": "\"answer\": 4\n}"}}
+{"Problem_66": {"answer": "\"answer\": \"a > 2 or a < 1\"\n}"}}
+{"Problem_67": {"answer": "\"answer\": \"No solution\"\n}"}}
+{"Problem_68": {"answer": "\"answer\": 1 + 6 + 15 + 6 + 15 + 30 + 60 + 60 + 6 + 6 + 120 + 120\n}"}}
+{"Problem_69": {"answer": "\"answer\": \"\u221a(2 - \u221a3)\"\n}"}}
+{"Problem_70": {"answer": "\"answer\": \"Calculations in progress...\"\n}"}}
+{"Problem_71": {"answer": "\"answer\": -1\n}"}}
+{"Problem_72": {"answer": "\"answer\": 32\n}"}}
+{"Problem_73": {"answer": "\"answer\": 2022\n}"}}
+{"Problem_74": {"answer": "\"answer\": \"At least one real solution\"\n}"}}
+{"Problem_75": {"answer": "\"answer\": {\n        \"maximum\": \"1/3\",\n        \"minimum\": \"-1/3\"\n    }"}}
+{"Problem_76": {"answer": "\"answer\": 1\n}"}}
+{"Problem_77": {"answer": "\"answer\": 166\n}"}}
+{"Problem_78": {"answer": "\"answer\": {\n        \"a_2\": \"a_1\",\n        \"a_4\": \"a_2\",\n        \"a_8\": \"a_4\",\n        \"a_{16}"}}
+{"Problem_79": {"answer": "\"answer\": \"The minimum value of $5x + 4y + 3z$ given the constraint $4x^2 + 4y^2 + z^2 + 2z = 3$ is to be calculated following the steps above. The exact numerical value will be determined after solving the system of equations.\"\n}"}}
+{"Problem_80": {"answer": "\"answer\": \"The maximum value of $9x + y$ is calculated after finding the corner points.\"\n}"}}
+{"Problem_81": {"answer": "\"answer\": \"\\\\frac{17}"}}
+{"Problem_82": {"answer": "\"answer\": null\n}"}}
+{"Problem_83": {"answer": "\"answer\": 1\n}"}}
+{"Problem_84": {"answer": "\"answer\": \"\\frac{12}"}}
+{"Problem_85": {"answer": "\"answer\": \"25\"\n}"}}
+{"Problem_86": {"answer": "\"answer\": \"2\\\\sqrt{\\\\frac{2}"}}
+{"Problem_87": {"answer": "\"answer\": \"\u221a2/4\"\n}"}}
+{"Problem_88": {"answer": "\"answer\": \"-2sqrt(5)/15\"\n}"}}
+{"Problem_89": {"answer": "\"answer\": 2\n}"}}
+{"Problem_90": {"answer": "\"answer\": \"The maximum volume is calculated by finding the largest product of the possible values for l, w, and h.\"\n}"}}
+{"Problem_91": {"answer": "\"answer\": \"The maximum of |\\\\overrightarrow{AB}"}}
+{"Problem_92": {"answer": "\"answer\": 0.8944\n}"}}
+{"Problem_93": {"answer": "\"answer\": \"(2/3)sqrt(6)\"\n}"}}
+{"Problem_94": {"answer": "\"answer\": 25\n}"}}
+{"Problem_95": {"answer": "\"answer\": \"The exact value of $a$ in degrees will be determined after completing the algebraic manipulation and solving the cubic equation.\"\n}"}}
+{"Problem_96": {"answer": "\"answer\": \"The exact number of distinct intersection points is not provided here due to the complexity of the problem. A detailed combinatorial and geometric analysis is required to obtain the final count.\"\n}"}}
+{"Problem_97": {"answer": "\"answer\": \"sqrt(2)\"\n}"}}
+{"Problem_98": {"answer": "\"answer\": 85\n}"}}
+{"Problem_99": {"answer": "\"answer\": \"90 degrees\"\n}"}}
+{"Problem_100": {"answer": "\"answer\": 16\n}"}}
+{"Problem_101": {"answer": "\"answer\": 1\n}"}}
+{"Problem_102": {"answer": "\"answer\": 5\n}"}}
+{"Problem_103": {"answer": "\"answer\": 0.6537037037037037\n}"}}
+{"Problem_104": {"answer": "\"answer\": null\n}"}}
+{"Problem_105": {"answer": "\"answer\": \"The detailed solution process will be provided in the next steps.\"\n}"}}
+{"Problem_106": {"answer": "\"answer\": \"3\u221a3\"\n}"}}
+{"Problem_107": {"answer": "\"answer\": 4\n}"}}
+{"Problem_108": {"answer": "\"answer\": 34\n}"}}
+{"Problem_109": {"answer": "\"answer\": \"two interlinked Mobius strips\"\n}"}}
+{"Problem_110": {"answer": "\"answer\": \"The detailed steps to solve for the eccentricity are not provided here. This is a placeholder for the final eccentricity value or algebraic expression after completing the calculations.\"\n}"}}
+{"Problem_111": {"answer": "\"answer\": 1\n}"}}
+{"Problem_112": {"answer": "\"answer\": \"85/136\"\n}"}}
+{"Problem_113": {"answer": "\"answer\": 2022\n}"}}
+{"Problem_114": {"answer": "\"answer\": \"The probability would be calculated by dividing the number of valid time combinations by 1440. The exact value would be determined by executing the algorithm described in the reasoning.\"\n}"}}
+{"Problem_115": {"answer": "\"answer\": \"The number of such six-digit numbers is calculated as follows:\\n\\n- '1' in the first or last position: 2 * (4 * 3 * 2 * 2 * 1) = 96\\n- '1' in the second or fifth position: 2 * (4 * 3 * 2 * 2 * 1) = 96\\n- '1' in the third or fourth position: (4 * 3 * 2 * 2 * 1) = 48\\n\\nTotal number of six-digit numbers: 96 + 96 + 48 = 240\"\n}"}}
+{"Problem_116": {"answer": "\"answer\": \"The total number of ordered pairs (A, B) satisfying the given conditions.\"\n}"}}
+{"Problem_117": {"answer": "\"answer\": \"(6 * 5 * 4 * 3 * 4 * 3) / (6^6)\"\n}"}}
+{"Problem_118": {"answer": "\"answer\": 199\n}"}}
+{"Problem_119": {"answer": null}}
+{"Problem_120": {"answer": "\"answer\": \"The exact calculation of k requires the use of a calculator or computational tool to evaluate the natural logarithm and the factorial. However, since we are using an approximation, we can estimate k as follows:\n\n    k >= |-ln(1/2)|\n    k >= |-(-0.6931471805599453)|\n    k >= 0.6931471805599453\n\n    Since k must be an integer (as it represents the number of participants), we round up to the nearest whole number to ensure that the probability of at least one correct guess is greater than or equal to 1/2.\n\n    k >= 1\n\n    Therefore, we need at least 1 participant to ensure that the probability of at least one correct guess is greater than or equal to 1/2. However, this result does not seem correct, as with only one participant, the probability of a correct guess is not guaranteed to be greater than or equal to 1/2. This indicates that there might be an error in the approximation or calculation. The correct approach would be to calculate the exact value of D(100) and solve for k numerically.\"\n}"}}
+{"Problem_121": {"answer": "\"answer\": 52\n}"}}
+{"Problem_122": {"answer": "\"answer\": \"The exact number of different shapes of triangles will be calculated in the following steps.\"\n}"}}
+{"Problem_123": {"answer": "\"answer\": \"The maximum value of M(A) is calculated as follows:\n\n    A = {9, 8, 7, 6, 5, 4, 3, 2, 1}"}}
+{"Problem_124": {"answer": "\"answer\": \"A. Alice\"\n}"}}
+{"Problem_125": {"answer": "\"answer\": 8\n}"}}
+{"Problem_126": {"answer": "\"answer\": 673\n}"}}
+{"Problem_127": {"answer": "\"answer\": 40/243\n}"}}
+{"Problem_128": {"answer": "\"answer\": 48\n}"}}
+{"Problem_129": {"answer": "\"answer\": 3\n}"}}
+{"Problem_130": {"answer": "\"answer\": \"The maximum number of guests is less than 9^3 = 729.\"\n}"}}
+{"Problem_131": {"answer": "\"answer\": \"Calculating...\"\n}"}}
+{"Problem_132": {"answer": "\"answer\": \"A. Anna has a winning strategy.\"\n}"}}
+{"Problem_133": {"answer": "\"answer\": 16.5\n}"}}
+{"Problem_134": {"answer": "\"answer\": 1023\n}"}}
+{"Problem_135": {"answer": "\"answer\": \"2 (1 - (1/2)^2024)\"\n}"}}
+{"Problem_136": {"answer": "\"answer\": \"The calculation of the exact number of derangements for 66 elements is computationally intensive and typically requires software or a programming language capable of handling large integers. However, the theoretical maximum number of holidays is the number of derangements of 66 elements.\"\n}"}}
+{"Problem_137": {"answer": "\"answer\": 153\n}"}}
+{"Problem_138": {"answer": "\"answer\": \"The total number of permutations satisfying the condition\"\n}"}}
+{"Problem_139": {"answer": null}}
+{"Problem_140": {"answer": "\"answer\": 1024\n}"}}
+{"Problem_141": {"answer": "\"answer\": 144\n}"}}
+{"Problem_142": {"answer": "\"answer\": \"369600\"\n}"}}
+{"Problem_143": {"answer": "\"answer\": \"6^5 - (6 + 6*5*5) - (2*4*5^3) + (2*4)\"\n}"}}
+{"Problem_144": {"answer": "\"answer\": \"The calculation is performed in the following steps.\"\n}"}}
+{"Problem_145": {"answer": "\"answer\": 5\n}"}}
+{"Problem_146": {"answer": null}}
+{"Problem_147": {"answer": "\"answer\": {\n        \"a\": 1,\n        \"b\": 0,\n        \"c\": 3,\n        \"d\": 0\n    }"}}
+{"Problem_148": {"answer": "\"answer\": \"<answer>\"\n}"}}
+{"Problem_149": {"answer": "\"answer\": -44\n}"}}
+{"Problem_150": {"answer": "\"answer\": \"B) 2x(x - 7)\"\n}"}}
+{"Problem_151": {"answer": "\"answer\": 31\n}"}}
+{"Problem_152": {"answer": "\"answer\": \"\\\\frac{-16m^4p^6}"}}
+{"Problem_153": {"answer": "\"answer\": \"\\\\frac{3b^9}"}}
+{"Problem_154": {"answer": "\"answer\": \"(x+2)\"\n}"}}
+{"Problem_155": {"answer": "\"answer\": \"6x^3 - 2x^2 + 3x - 1\"\n}"}}
+{"Problem_156": {"answer": "\"answer\": \"(8b - 1)^2\"\n}"}}
+{"Problem_157": {"answer": "\"answer\": \"-12\"\n}"}}
+{"Problem_158": {"answer": "\"answer\": \"4x^2yz\\\\sqrt{5xz}"}}
+{"Problem_159": {"answer": "\"answer\": \"C\"\n}"}}
+{"Problem_160": {"answer": "\"answer\": \"D\"\n}"}}
+{"Problem_161": {"answer": "\"answer\": -13\n}"}}
+{"Problem_162": {"answer": "\"answer\": {\n        \"x1\": \"-1 - 2\\u221a2\",\n        \"x2\": \"-1 + 2\\u221a2\"\n    }"}}
+{"Problem_163": {"answer": "\"answer\": 120\n}"}}
+{"Problem_164": {"answer": "\"answer\": \"y = (x - 3) / z\"\n}"}}
+{"Problem_165": {"answer": "\"answer\": \"B) infinite solutions\"\n}"}}
+{"Problem_166": {"answer": "\"answer\": \"D) I, III and IV\"\n}"}}
+{"Problem_167": {"answer": "\"answer\": \"(-\\\\frac{3}"}}
+{"Problem_168": {"answer": "\"answer\": \"{x: x \\\\leq -7}"}}
+{"Problem_169": {"answer": "\"answer\": \"2x + y = 4\"\n}"}}
+{"Problem_170": {"answer": "\"answer\": \"-3 dollars per person\"\n}"}}
+{"Problem_171": {"answer": "\"answer\": 55\n}"}}
+{"Problem_172": {"answer": "\"answer\": 20\n}"}}
+{"Problem_173": {"answer": "\"answer\": {\n        \"constant_of_variation\": 0.04,\n        \"cost_for_800_stickers\": 32.00\n    }"}}
+{"Problem_174": {"answer": "\"answer\": \"D\"\n}"}}
+{"Problem_175": {"answer": "\"answer\": \"B) The x-intercept is -6, and the y-intercept is 10.\"\n}"}}
+{"Problem_176": {"answer": "\"answer\": \"Yes\"\n}"}}
+{"Problem_177": {"answer": "\"answer\": 6\n}"}}
+{"Problem_178": {"answer": "\"answer\": 8\n}"}}
+{"Problem_179": {"answer": "\"answer\": \"y = -5x - 3\"\n}"}}
+{"Problem_180": {"answer": "\"answer\": {\n        \"proportion\": \"(3 inches / 10 feet) = (1.2 inches / x feet)\",\n        \"cross_multiplication\": \"3 * x = 10 * 1.2\",\n        \"solve_for_x\": \"x = (10 * 1.2) / 3\",\n        \"calculation\": \"x = 12 / 3\",\n        \"result\": \"x = 4\",\n        \"units\": \"The actual width of the door is 4 feet.\"\n    }"}}
+{"Problem_181": {"answer": "\"answer\": -3\n}"}}
+{"Problem_182": {"answer": "\"answer\": -1\n}"}}
+{"Problem_183": {"answer": "\"answer\": 15\n}"}}
+{"Problem_184": {"answer": "\"answer\": \"D) Translated 3 units right and 1 unit up and reflected over the x-axis\"\n}"}}
+{"Problem_185": {"answer": "\"answer\": \"C) II and III only\"\n}"}}
+{"Problem_186": {"answer": "\"answer\": \"x = -1\"\n}"}}
+{"Problem_187": {"answer": "\"answer\": \"B) f(x)=3(2x+3)^2\"\n}"}}
+{"Problem_188": {"answer": "\"answer\": \"B) y = (8x + 7)(8x - 7)\"\n}"}}
+{"Problem_189": {"answer": "\"answer\": \"-12\"\n}"}}
+{"Problem_190": {"answer": "\"answer\": \"\\u00b14\"\n}"}}
+{"Problem_191": {"answer": "\"answer\": 100\n}"}}
+{"Problem_192": {"answer": "\"answer\": 13\n}"}}
+{"Problem_193": {"answer": "\"answer\": \"x=\\\\frac{9}"}}
+{"Problem_194": {"answer": "\"answer\": {\n        \"x1\": 1.35,\n        \"x2\": -0.45\n    }"}}
+{"Problem_195": {"answer": "\"answer\": 43\n}"}}
+{"Problem_196": {"answer": "\"answer\": \"h(t) = -16t^2 + 62t + 150\"\n}"}}
+{"Problem_197": {"answer": "\"answer\": \"Insufficient information to determine the solution.\"\n}"}}
+{"Problem_198": {"answer": "\"answer\": \"3+\\\\sqrt{2}"}}
+{"Problem_199": {"answer": "\"answer\": \"x=7\"\n}"}}
+{"Problem_200": {"answer": "\"answer\": [\"B\", \"F\"]\n}"}}
+{"Problem_201": {"answer": "\"answer\": \"C) III and IV\"\n}"}}
+{"Problem_202": {"answer": "\"answer\": \"\\\\frac{y}"}}
+{"Problem_203": {"answer": "\"answer\": \"\\\\frac{7}"}}
+{"Problem_204": {"answer": "\"answer\": \"(-3, -5)\"\n}"}}
+{"Problem_205": {"answer": "\"answer\": \"D) no horizontal asymptotes\"\n}"}}
+{"Problem_206": {"answer": "\"answer\": \"B) x = 6 and x = -3\"\n}"}}
+{"Problem_207": {"answer": "\"answer\": \"\\\\frac{n+6}"}}
+{"Problem_208": {"answer": "\"answer\": \"D) \\\\frac{1}"}}
+{"Problem_209": {"answer": "\"answer\": \"5\\\\sqrt{2}"}}
+{"Problem_210": {"answer": "\"answer\": \"6 \\\\sqrt[3]{4}"}}
+{"Problem_211": {"answer": "\"answer\": \"C) 7 x y^{2}"}}
+{"Problem_212": {"answer": "\"answer\": {\n        \"a\": -3.0,\n        \"b\": 4.0\n    }"}}
+{"Problem_213": {"answer": "\"answer\": 10853.69\n}"}}
+{"Problem_214": {"answer": "\"answer\": \"t = ln(21,337.85 / 8,589) / 0.07\"\n}"}}
+{"Problem_215": {"answer": "\"answer\": -4\n}"}}
+{"Problem_216": {"answer": "\"answer\": 5\n}"}}
+{"Problem_217": {"answer": "\"answer\": 15\n}"}}
+{"Problem_218": {"answer": "\"answer\": \"B) an acute triangle\"\n}"}}
+{"Problem_219": {"answer": "\"answer\": \"B) cosine\"\n}"}}
+{"Problem_220": {"answer": "\"answer\": \"D) 3, 4, 5\"\n}"}}
+{"Problem_221": {"answer": "\"answer\": \"7\\\\sqrt{2}"}}
+{"Problem_222": {"answer": "\"answer\": \"A) Dilation\"\n}"}}
+{"Problem_223": {"answer": "\"answer\": \"(12, -6)\"\n}"}}
+{"Problem_224": {"answer": "\"answer\": \"(1, -3)\"\n}"}}
+{"Problem_225": {"answer": "\"answer\": \"C) Kite\"\n}"}}
+{"Problem_226": {"answer": "\"answer\": 15\n}"}}
+{"Problem_227": {"answer": "\"answer\": 400\n}"}}
+{"Problem_228": {"answer": "\"answer\": 2262\n}"}}
+{"Problem_229": {"answer": "\"answer\": 2094\n}"}}
+{"Problem_230": {"answer": "\"answer\": 40\n}"}}
+{"Problem_231": {"answer": "\"answer\": \"7:12\"\n}"}}
+{"Problem_232": {"answer": "\"answer\": 3\n}"}}
+{"Problem_233": {"answer": "\"answer\": \"B) \\( 4^x = \\frac{1}"}}
+{"Problem_234": {"answer": "\"answer\": \"\\\\frac{-\\\\sqrt{2}"}}
+{"Problem_235": {"answer": "\"answer\": \"\\\\frac{120}"}}
+{"Problem_236": {"answer": "\"answer\": \"\\\\frac{3\\\\pi}"}}
+{"Problem_237": {"answer": "\"answer\": \"\\\\pi\"\n}"}}
+{"Problem_238": {"answer": "\"answer\": \"C) horizontal asymptote\"\n}"}}
+{"Problem_239": {"answer": "\"answer\": \"3\"\n}"}}
+{"Problem_240": {"answer": "\"answer\": \"C) f(15) = -5\"\n}"}}
+{"Problem_241": {"answer": "\"answer\": \"x > 5\"\n}"}}
+{"Problem_242": {"answer": "\"answer\": \"C) x-int: -3/4, y-int: 3\"\n}"}}
+{"Problem_243": {"answer": "\"answer\": {\n        \"a_1\": -13,\n        \"d\": 3\n    }"}}
+{"Problem_244": {"answer": "\"answer\": \"C) y = 0\"\n}"}}
+{"Problem_245": {"answer": "\"answer\": \"C) \\\\log_3 \\\\left(\\\\frac{2}"}}
+{"Problem_246": {"answer": "\"answer\": \"\\u03c0^2/9\"\n}"}}
+{"Problem_247": {"answer": "\"answer\": \"undefined\"\n}"}}
+{"Problem_248": {"answer": "\"answer\": \"-cos^2(x)\"\n}"}}
+{"Problem_249": {"answer": "\"answer\": \"C) \\\\frac{\\\\pi}"}}
+{"Problem_250": {"answer": "\"answer\": \"None of the options provided are correct.\"\n}"}}
+{"Problem_251": {"answer": "\"answer\": \"B) pi/4\"\n}"}}
+{"Problem_252": {"answer": "\"answer\": \"\\\\frac{\\\\sqrt{2 + \\\\sqrt{2}"}}
+{"Problem_253": {"answer": "\"answer\": \"C) \\\\frac{5 \\\\pi}"}}
+{"Problem_254": {"answer": "\"answer\": -270\n}"}}
+{"Problem_255": {"answer": "\"answer\": \"x^{4}"}}
+{"Problem_256": {"answer": "\"answer\": 170\n}"}}
+{"Problem_257": {"answer": "\"answer\": 3.6\n}"}}
+{"Problem_258": {"answer": "\"answer\": 16.91\n}"}}
+{"Problem_259": {"answer": "\"answer\": \"47.9 degrees\"\n}"}}
+{"Problem_260": {"answer": "\"answer\": 11.9\n}"}}
+{"Problem_261": {"answer": "\"answer\": \"\\\\frac{25\\\\sqrt{3}"}}
+{"Problem_262": {"answer": "\"answer\": 2\n}"}}
+{"Problem_263": {"answer": "\"answer\": \"2 * ln(x) + 3 * ln(y^2 - z) - (1/2) * ln(y + 1)\"\n}"}}
+{"Problem_264": {"answer": "\"answer\": \"\\\\log(5 \\\\cdot (x-1)^2 \\\\cdot (x+4)^3)\"\n}"}}
+{"Problem_265": {"answer": "\"answer\": \"4/9\"\n}"}}
+{"Problem_266": {"answer": "\"answer\": \"2x^2 + x - 1\"\n}"}}
+{"Problem_267": {"answer": "\"answer\": 5244\n}"}}
+{"Problem_268": {"answer": "\"answer\": -0.23104906018664842\n}"}}
+{"Problem_269": {"answer": "\"answer\": \"C\"\n}"}}
+{"Problem_270": {"answer": "\"answer\": \"None of these\"\n}"}}
+{"Problem_271": {"answer": "\"answer\": \"\\\\frac{1}"}}
+{"Problem_272": {"answer": "\"answer\": \"To be calculated in the following steps.\"\n}"}}
+{"Problem_273": {"answer": "\"answer\": \"The numerical value obtained from the integral, which should be calculated using a numerical method.\"\n}"}}
+{"Problem_274": {"answer": "\"answer\": -5/4\n}"}}
+{"Problem_275": {"answer": "\"answer\": 0.333\n}"}}
+{"Problem_276": {"answer": "\"answer\": \"3 * cos(3x)\"\n}"}}
+{"Problem_277": {"answer": "\"answer\": \"\\\\frac{65}"}}
+{"Problem_278": {"answer": "\"answer\": \"\\\\ln \\\\left(\\\\frac{x}"}}
+{"Problem_279": {"answer": "\"answer\": \"y = 2(x - 1)\"\n}"}}
+{"Problem_280": {"answer": "\"answer\": \"\\\\frac{1}"}}
+{"Problem_281": {"answer": "\"answer\": \"\\\\frac{-1}"}}
+{"Problem_282": {"answer": "\"answer\": \"x^2 ln(x)/2 - x^2/4 + C\"\n}"}}
+{"Problem_283": {"answer": "\"answer\": \"C\"\n}"}}
+{"Problem_284": {"answer": "\"answer\": \"None of these\"\n}"}}
+{"Problem_285": {"answer": "\"answer\": \"(1/2)x e^(2x) - (1/4)e^(2x) + C\"\n}"}}
+{"Problem_286": {"answer": "\"answer\": \"\\\\frac{2}"}}
+{"Problem_287": {"answer": "\"answer\": \"y = 1 \\\\pm Ae^{-\\\\frac{1}"}}
+{"Problem_288": {"answer": "\"answer\": 10\n}"}}
+{"Problem_289": {"answer": "\"answer\": 15\n}"}}
+{"Problem_290": {"answer": "\"answer\": \"The detailed calculation steps will be provided after performing the actual calculations.\"\n}"}}
+{"Problem_291": {"answer": "\"answer\": \"[a_{11}"}}
+{"Problem_292": {"answer": "\"answer\": 13.5\n}"}}
+{"Problem_293": {"answer": null}}
+{"Problem_294": {"answer": "\"answer\": \"To be calculated in the following steps.\"\n}"}}
+{"Problem_295": {"answer": "\"answer\": 2\n}"}}
+{"Problem_296": {"answer": "\"answer\": 3\n}"}}
+{"Problem_297": {"answer": "\"answer\": \"[2^{2024}"}}
+{"Problem_298": {"answer": "\"answer\": 1\n}"}}
+{"Problem_299": {"answer": "\"answer\": 4\n}"}}
+{"Problem_300": {"answer": "\"answer\": -1\n}"}}
+{"Problem_301": {"answer": "\"answer\": \"[1, 2, 3; 0, 1, 4; 0, 0, 1]\"\n}"}}
+{"Problem_302": {"answer": "\"answer\": \"[a,b]\"\n}"}}
+{"Problem_303": {"answer": "\"answer\": \"[4,5]\"\n}"}}
+{"Problem_304": {"answer": "\"answer\": 5\n}"}}
+{"Problem_305": {"answer": "\"answer\": \"Insufficient information to compute BA\"\n}"}}
+{"Problem_306": {"answer": "\"answer\": [-1, 0, 4]\n}"}}
+{"Problem_307": {"answer": "\"answer\": \"To be computed after finding the eigenvalues and constructing D.\"\n}"}}
+{"Problem_308": {"answer": "\"answer\": 3\n}"}}
+{"Problem_309": {"answer": "\"answer\": \"The limit of the ratio $y_n/x_n$ as $n$ approaches infinity is the ratio of the coefficients of the eigenvector corresponding to the dominant eigenvalue in the expressions for $x_n$ and $y_n$. The exact value will be determined after performing the calculations in the steps outlined above.\"\n}"}}
+{"Problem_310": {"answer": "\"answer\": \"No integer $a$ exists such that $x^2 - x + a$ is a factor of $x^{13}"}}
+{"Problem_311": {"answer": "\"answer\": \"x^4 - 10x^2 + 1\"\n}"}}
+{"Problem_312": {"answer": "\"answer\": \"The polynomial $f(x)$ with the least degree such that $f(A)v=0$ is the characteristic polynomial of $A$, which is $f(x) = x^3 - 9x^2 + 31x - 27$. However, without explicit computation of $f(A)v$, we cannot confirm that this is indeed the minimal polynomial. Further calculations are required to verify this.\"\n}"}}
+{"Problem_313": {"answer": "\"answer\": 1.0\n}"}}
+{"Problem_314": {"answer": "\"answer\": -5\n}"}}
+{"Problem_315": {"answer": "\"answer\": \"The limit is $\\\\lim_{x\\\\to 4}"}}
+{"Problem_316": {"answer": "\"answer\": 2\n}"}}
+{"Problem_317": {"answer": "\"answer\": 0\n}"}}
+{"Problem_318": {"answer": "\"answer\": 1.0\n}"}}
+{"Problem_319": {"answer": "\"answer\": 1.25\n}"}}
+{"Problem_320": {"answer": "\"answer\": 2\n}"}}
+{"Problem_321": {"answer": "\"answer\": {\n        \"Step 1\": \"The 5th derivative of f(x)g(x) at x=0 is given by the sum: \\\\(\\\\frac{d^5}"}}
+{"Problem_322": {"answer": "\"answer\": 0\n}"}}
+{"Problem_323": {"answer": "\"answer\": \"16 - 4\\\\pi\"\n}"}}
+{"Problem_324": {"answer": "\"answer\": 0.25\n}"}}
+{"Problem_325": {"answer": "\"answer\": \"To be calculated after applying the steps.\"\n}"}}
+{"Problem_326": {"answer": "\"answer\": \"The series \\\\(\\\\sum\\\\limits_{n=0}"}}
+{"Problem_327": {"answer": "\"answer\": \"pi/2\"\n}"}}
+{"Problem_328": {"answer": "\"answer\": {\n        \"alpha\": 3,\n        \"beta\": 4\n    }"}}
+{"Problem_329": {"answer": "\"answer\": 8.0\n}"}}
+{"Problem_330": {"answer": "\"answer\": \"\\\\frac{\\\\pi}"}}
+{"Problem_331": {"answer": "\"answer\": \"\\\\frac{\\\\pi}"}}
+{"Problem_332": {"answer": "\"answer\": \"The detailed solution process is as follows:\n\n    1. **Graphical Analysis**:\n        - Upon plotting, we see that the cardioid and the circle intersect at certain points.\n\n    2. **Finding Points of Intersection**:\n        - Setting $2 = 2 + 2\\\\cos{\\\\theta}"}}
+{"Problem_333": {"answer": "\"answer\": \"To be calculated in the following steps.\"\n}"}}
+{"Problem_334": {"answer": "\"answer\": \"The integral cannot be expressed in terms of elementary functions due to the presence of \\\\(e^{-x^2}"}}
+{"Problem_335": {"answer": "\"answer\": 2.0\n}"}}
+{"Problem_336": {"answer": "\"answer\": 1\n}"}}
+{"Problem_337": {"answer": "\"answer\": 2 * Math.E\n}"}}
+{"Problem_338": {"answer": "\"answer\": \"e^{-x}"}}
+{"Problem_339": {"answer": "\"answer\": false\n}"}}
+{"Problem_340": {"answer": "\"answer\": \"Indeterminate without further analysis\"\n}"}}
+{"Problem_341": {"answer": "\"answer\": \"y=0 is considered a singular solution to the differential equation y' = \\\\sqrt{y}"}}
+{"Problem_342": {"answer": "\"answer\": \"Indeterminate without further nonlinear analysis\"\n}"}}
+{"Problem_343": {"answer": "\"answer\": \"The equilibrium $x(t) = 0$ is stable.\"\n}"}}
+{"Problem_344": {"answer": "\"answer\": \"Indeterminate without further analysis\"\n}"}}
+{"Problem_345": {"answer": "\"answer\": \"True\"\n}"}}
+{"Problem_346": {"answer": "\"answer\": \"false\"\n}"}}
+{"Problem_347": {"answer": "\"answer\": \"Yes, $u$ is a constant.\"\n}"}}
+{"Problem_348": {"answer": "\"answer\": \"The limit cannot be determined from the given information.\"\n}"}}
+{"Problem_349": {"answer": "\"answer\": \"[1, 0]\"\n}"}}
+{"Problem_350": {"answer": "\"answer\": 9988440\n}"}}
+{"Problem_351": {"answer": "\"answer\": 0.2 * 0.5 * (1 - 0.8) + 0.2 * 0.8 * (1 - 0.5) + 0.5 * 0.8 * (1 - 0.2)\n}"}}
+{"Problem_352": {"answer": "\"answer\": 4060\n}"}}
+{"Problem_353": {"answer": "\"answer\": \"The value of n that maximizes P(N=n) will be calculated and provided after evaluating the above probabilities.\"\n}"}}
+{"Problem_354": {"answer": "\"answer\": \"The probability that the shipment came from Vendor A given that 2 out of 25 vials are ineffective.\"\n}"}}
+{"Problem_355": {"answer": "\"answer\": \"0.7134952031398099\"\n}"}}
+{"Problem_356": {"answer": "\"answer\": 0.01111111111\n}"}}
+{"Problem_357": {"answer": "\"answer\": \"The calculation of the expected value is complex and requires enumeration of all possible positions and their probabilities. The detailed calculation will be provided in the next message.\"\n}"}}
+{"Problem_358": {"answer": "\"answer\": \"\"\n}"}}
+{"Problem_359": {"answer": "\"answer\": 154440\n}"}}
+{"Problem_360": {"answer": "\"answer\": \"<exact value of the integral>\"\n}"}}
+{"Problem_361": {"answer": "\"answer\": \"The probability that at most 30 of the selected bricks break under a force of 190 is calculated as follows:\n\n    Step 1: Calculate the z-score for a force of 190.\n    Z = (190 - 195) / 4 = -1.25\n\n    Step 2: Find the probability that a single brick will break under this force.\n    P(X < 190) = P(Z < -1.25) \u2248 0.1056 (from standard normal distribution tables)\n\n    Step 3: Use the normal approximation to estimate the probability for 300 bricks.\n    Mean of binomial distribution, np = 300 * 0.1056 \u2248 31.68\n    Standard deviation of binomial distribution, sqrt(np(1-p)) \u2248 sqrt(300 * 0.1056 * (1 - 0.1056)) \u2248 5.29\n\n    Step 4: Apply the continuity correction factor and calculate the z-score for 'at most 30'.\n    Z = (30.5 - 31.68) / 5.29 \u2248 -0.223\n\n    Step 5: Find the probability corresponding to this z-score.\n    P(Z < -0.223) \u2248 0.4115 (from standard normal distribution tables)\n\n    Step 6: Verify the normal approximation validity.\n    np = 31.68 > 5 and n(1-p) = 300 * (1 - 0.1056) > 5, so the approximation is valid.\n\n    Therefore, the estimated probability is approximately 0.4115.\"\n}"}}
+{"Problem_362": {"answer": "\"answer\": \"8e^{-1}"}}
+{"Problem_363": {"answer": "\"answer\": \"\"\n}"}}
+{"Problem_364": {"answer": "\"answer\": \"The detailed solution process will be provided in the next steps.\"\n}"}}
+{"Problem_365": {"answer": "\"answer\": 0.25\n}"}}
+{"Problem_366": {"answer": "\"answer\": 0.8\n}"}}
+{"Problem_367": {"answer": "\"answer\": -0.6525\n}"}}
+{"Problem_368": {"answer": "\"answer\": \"The long-run probability that there is one ball in the left box is the second element of the stationary distribution vector $\\pi$, which is obtained by solving the system $\\pi P = \\pi$ subject to the normalization condition.\"\n}"}}
+{"Problem_369": {"answer": "\"answer\": 2 / Math.PI\n}"}}
+{"Problem_370": {"answer": "\"answer\": \"P(X_T = 0) = E[T] / (6 + E[T])\"\n}"}}
+{"Problem_371": {"answer": "\"answer\": [4.8, 2.28]\n}"}}
+{"Problem_372": {"answer": "\"answer\": \"Reject the null hypothesis\"\n}"}}
+{"Problem_373": {"answer": "\"answer\": 1.5\n}"}}
+{"Problem_374": {"answer": "\"answer\": {\n        \"test_statistic\": 2.6675,\n        \"p_value\": 0.0152,\n        \"decision\": \"Do not reject the null hypothesis\",\n        \"conclusion\": \"Not enough evidence to suggest the actual percentage differs from 40%\"\n    }"}}
+{"Problem_375": {"answer": "\"answer\": \"Calculation in progress...\"\n}"}}
+{"Problem_376": {"answer": "\"answer\": {\n        \"sample_mean\": 107.78,\n        \"sample_standard_deviation\": 0.918937,\n        \"confidence_interval_95_percent\": {\n            \"lower_bound\": 106.584,\n            \"upper_bound\": 108.976\n        }"}}
+{"Problem_377": {"answer": "\"answer\": {\n        \"sample_proportion\": 0.25,\n        \"z_score\": 2.576,\n        \"standard_error\": \"sqrt((0.25 * (1 - 0.25)) / 2000)\",\n        \"margin_of_error\": \"2.576 * sqrt((0.25 * (1 - 0.25)) / 2000)\",\n        \"confidence_interval\": {\n            \"lower_bound\": \"0.25 - (2.576 * sqrt((0.25 * (1 - 0.25)) / 2000))\",\n            \"upper_bound\": \"0.25 + (2.576 * sqrt((0.25 * (1 - 0.25)) / 2000))\"\n        }"}}
+{"Problem_378": {"answer": "\"answer\": \"\"\n}"}}
+{"Problem_379": {"answer": "\"answer\": \"\"\n}"}}
+{"Problem_380": {"answer": "\"answer\": \"To be calculated after performing the two-sample t-test steps.\"\n}"}}
+{"Problem_381": {"answer": "\"answer\": \"X is a complete statistic.\"\n}"}}
+{"Problem_382": {"answer": "\"answer\": \"The Cramer-Rao Lower Bound for estimating $\\\\theta$ is $\\\\frac{2\\\\theta^2}"}}
+{"Problem_383": {"answer": "\"answer\": \"\\\\theta^2\"\n}"}}
+{"Problem_384": {"answer": "\"answer\": 1.0\n}"}}
+{"Problem_385": {"answer": "\"answer\": false\n}"}}
+{"Problem_386": {"answer": "\"answer\": \"1/T\"\n}"}}
+{"Problem_387": {"answer": "\"answer\": \"true\"\n}"}}

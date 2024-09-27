@@ -42,7 +42,7 @@ def process_files(file_true, file_pred):
 
 def main():
     file_true = 'final-odyssey-math-with-levels.jsonl'
-    file_pred = 'jsonl/clean/gpt-4-o1-preview-solution-clean.jsonl'
+    file_pred = "/root/Xiangpeng/odyssey-math/jsonl/clean/gpt-3.5-turbo-0125-solution-clean-new.jsonl"
     results = process_files(file_true, file_pred)
     save_jsonl(results, 'jsonl/eval/result-'+file_pred.split('/')[-1])
     print("Results have been saved.")

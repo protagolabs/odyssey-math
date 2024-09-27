@@ -1,0 +1,387 @@
+{"Problem_1": {"answer": 304}}
+{"Problem_2": {"answer": "<minimum value of l>"}}
+{"Problem_3": {"answer": 50}}
+{"Problem_4": {"answer": "Computationally determined"}}
+{"Problem_5": {"answer": "The value of d - b needs to be calculated after determining appropriate values for x and y."}}
+{"Problem_6": {"answer": 16}}
+{"Problem_7": {"answer": "n = 100"}}
+{"Problem_8": {"answer": "All options are possible."}}
+{"Problem_9": {"answer": "The number of possible sets (a, b, c) is determined after checking all potential combinations and verifying the divisibility condition for each."}}
+{"Problem_10": {"answer": 1}}
+{"Problem_11": {"answer": "The minimum value of (a_n + 90)/n is calculated based on the derivative and critical points found."}}
+{"Problem_12": {"answer": 7}}
+{"Problem_13": {"answer": "<sum_of_primes>"}}
+{"Problem_14": {"answer": 1}}
+{"Problem_15": {"answer": {"before_decimal": 3, "after_decimal": 6}}}
+{"Problem_16": {"answer": "The sum of all such 5-digit N values."}}
+{"Problem_17": {"answer": 192}}
+{"Problem_18": {"answer": "a + b"}}
+{"Problem_19": {"answer": "Sum of all unique n"}}
+{"Problem_20": {"answer": "Sum of all valid x values"}}
+{"Problem_21": {"answer": {"a": 2, "b": [15523, 9893]}}}
+{"Problem_22": {"answer": 14}}
+{"Problem_23": {"answer": "Indeterminate without further analysis or computational tools"}}
+{"Problem_24": {"answer": "Calculation pending for exact value of M and count of sets"}}
+{"Problem_25": {"answer": 0}}
+{"Problem_26": {"answer": "The 2005th number is not fully calculated in this response due to complexity; further detailed enumeration is needed to pinpoint the exact value."}}
+{"Problem_27": {"answer": "Sum of multiples of 6 up to a given N"}}
+{"Problem_28": {"answer": "No solutions found with initial small primes"}}
+{"Problem_29": {"answer": "Further analysis required"}}
+{"Problem_30": {"answer": "<a_{5n} value>"}}
+{"Problem_31": {"answer": "<number of integers>"}}
+{"Problem_32": {"answer": 1}}
+{"Problem_33": {"answer": 4}}
+{"Problem_34": {"answer": 0}}
+{"Problem_35": {"answer": 152}}
+{"Problem_36": {"answer": 2}}
+{"Problem_37": {"answer": "Further analysis required"}}
+{"Problem_38": {"answer": 0}}
+{"Problem_39": {"answer": "To be computed based on the iterative testing."}}
+{"Problem_40": {"answer": "The sum of all n such that 10p(n) = n^2 + 4n - 2005. (This requires further computation or simplification to find all valid n values.)"}}
+{"Problem_41": {"answer": 528}}
+{"Problem_42": {"answer": "The number of valid values of alpha is determined by computational testing."}}
+{"Problem_43": {"answer": 2006}}
+{"Problem_44": {"answer": 2}}
+{"Problem_45": {"answer": 10010002}}
+{"Problem_46": {"answer": 1}}
+{"Problem_47": {"answer": "infinite"}}
+{"Problem_48": {"answer": 4}}
+{"Problem_49": {"answer": 3}}
+{"Problem_50": {"answer": "Requires numerical computation for exact value"}}
+{"Problem_51": {"answer": "<answer>"}}
+{"Problem_52": {"answer": 3371}}
+{"Problem_53": {"answer": 1.6666666666666667}}
+{"Problem_54": {"answer": "-9 + 3 * sqrt(17)"}}
+{"Problem_55": {"answer": "f(6) value after solving the equations"}}
+{"Problem_56": {"answer": 30}}
+{"Problem_57": {"answer": "m needs to be computed numerically based on derived formulas."}}
+{"Problem_58": {"answer": 2}}
+{"Problem_59": {"answer": "x_0 value is derived from solving the quadratic equation and verifying the vector condition."}}
+{"Problem_60": {"answer": 0}}
+{"Problem_61": {"answer": "The number of such positive integers n is extensive, ranging from 1019090 to 2018 for k = 2, and potentially more for k > 2."}}
+{"Problem_62": {"answer": "Calculated difference between functions with and without fixed points"}}
+{"Problem_63": {"answer": 4}}
+{"Problem_64": {"answer": "Insufficient data to determine m + n"}}
+{"Problem_65": {"answer": 4}}
+{"Problem_66": {"answer": "a < 1 or a > 2"}}
+{"Problem_67": {"answer": "3 - 3sqrt(2)"}}
+{"Problem_68": {"answer": 115}}
+{"Problem_69": {"answer": "sqrt(2 - sqrt(3))"}}
+{"Problem_70": {"answer": "b^2 + p"}}
+{"Problem_71": {"answer": "The coefficient of the x^3 term in p(x) is calculated based on the values of a, b, c, d, and e."}}
+{"Problem_72": {"answer": 1}}
+{"Problem_73": {"answer": 2022}}
+{"Problem_74": {"answer": "(0, 0, 0)"}}
+{"Problem_75": {"answer": "Exact values need further numerical or graphical exploration; zero is a confirmed value the function can achieve."}}
+{"Problem_76": {"answer": "The minimum positive sum is slightly above zero, close to the case when the numbers of +1s and -1s are nearly equal but not exactly, ensuring a minimal positive sum."}}
+{"Problem_77": {"answer": 118}}
+{"Problem_78": {"answer": 6}}
+{"Problem_79": {"answer": 3}}
+{"Problem_80": {"answer": 32.185}}
+{"Problem_81": {"answer": 8.5}}
+{"Problem_82": {"answer": -1}}
+{"Problem_83": {"answer": "The sum of all elements in B \u2229 C is calculated based on the detailed steps provided."}}
+{"Problem_84": {"answer": 0}}
+{"Problem_85": {"answer": 17}}
+{"Problem_86": {"answer": 2.0}}
+{"Problem_87": {"answer": "3*pi/4"}}
+{"Problem_88": {"answer": "-6 / (5 * sqrt(3))"}}
+{"Problem_89": {"answer": 1.3333333333333333}}
+{"Problem_90": {"answer": "Further analysis required; no solution found with simple tests."}}
+{"Problem_91": {"answer": "Indeterminate without additional information"}}
+{"Problem_92": {"answer": "1/sqrt(3)"}}
+{"Problem_93": {"answer": "8*sqrt(3)/3"}}
+{"Problem_94": {"answer": "The number of bricks and their arrangement depend on finding a valid solution to the volume equation and the dimensional compatibility check."}}
+{"Problem_95": {"answer": 15}}
+{"Problem_96": {"answer": "Requires further combinatorial analysis or computational verification"}}
+{"Problem_97": {"answer": "The distance calculation will be provided after completing the algebraic simplifications and finding the maximum y' value."}}
+{"Problem_98": {"answer": "n"}}
+{"Problem_99": {"answer": 90.0}}
+{"Problem_100": {"answer": "The maximum area of quadrilateral ABCD is calculated based on the optimal slope m that maximizes the area function derived from the intersection points and the shoelace formula."}}
+{"Problem_101": {"answer": "\\\\frac{\\\\sqrt{3}}{2}"}}
+{"Problem_102": {"answer": 6}}
+{"Problem_103": {"answer": "cos(theta)"}}
+{"Problem_104": {"answer": "Volume calculation incomplete; additional information required."}}
+{"Problem_105": {"answer": "The exact value of AM/ME depends on the specific values of m, c, and p, which need to be calculated or given."}}
+{"Problem_106": {"answer": "9 * cot(pi/9)"}}
+{"Problem_107": {"answer": "Requires further analysis"}}
+{"Problem_108": {"answer": 14}}
+{"Problem_109": {"answer": "two linked Mobius strips"}}
+{"Problem_110": {"answer": 0.7071067811865476}}
+{"Problem_111": {"answer": "a^2"}}
+{"Problem_112": {"answer": 1.0}}
+{"Problem_113": {"answer": 1}}
+{"Problem_114": {"answer": "<calculated probability>"}}
+{"Problem_115": {"answer": "<computed_value>"}}
+{"Problem_116": {"answer": "Total pairs = sum of Total for each k from k=1 to k=7"}}
+{"Problem_117": {"answer": 0.185185185}}
+{"Problem_118": {"answer": 7}}
+{"Problem_119": {"answer": 0}}
+{"Problem_120": {"answer": 6}}
+{"Problem_121": {"answer": "The minimum number of operations needed is the LCM of the cycle lengths."}}
+{"Problem_122": {"answer": "The number of distinct triangles is calculated based on the iterative counting and verification of the triangle inequality for each combination of side lengths."}}
+{"Problem_123": {"answer": 27}}
+{"Problem_124": {"answer": "A. Alice"}}
+{"Problem_125": {"answer": 6}}
+{"Problem_126": {"answer": 46}}
+{"Problem_127": {"answer": "0.1646090535"}}
+{"Problem_128": {"answer": "The exact number needs computational verification or enumeration."}}
+{"Problem_129": {"answer": "n (in general, assuming no specific graph structure is provided)"}}
+{"Problem_130": {"answer": "Requires deeper combinatorial analysis for exact number"}}
+{"Problem_131": {"answer": "B. Alice can guarantee victory."}}
+{"Problem_132": {"answer": "B. Carl has a winning strategy."}}
+{"Problem_133": {"answer": 22}}
+{"Problem_134": {"answer": 512}}
+{"Problem_135": {"answer": "2^{n-1} * (1-(1/4)^n) / (3/4)"}}
+{"Problem_136": {"answer": "66!"}}
+{"Problem_137": {"answer": "n = 34"}}
+{"Problem_138": {"answer": "The total number of permutations satisfying this condition is calculated by summing the number of permutations for each case of transpositions (1 to 4)."}}
+{"Problem_139": {"answer": "The exact number of sequences would be calculated based on the detailed combinatorial analysis described."}}
+{"Problem_140": {"answer": "To be determined by simulation or further pattern analysis."}}
+{"Problem_141": {"answer": 72}}
+{"Problem_142": {"answer": "Further clarification needed"}}
+{"Problem_143": {"answer": 6964}}
+{"Problem_144": {"answer": "The exact number requires deeper analysis or computational methods."}}
+{"Problem_145": {"answer": 6}}
+{"Problem_146": {"answer": 8}}
+{"Problem_147": {"answer": "Further computation needed to find exact values of a, b, c, d."}}
+{"Problem_148": {"answer": "<calculated sum>"}}
+{"Problem_149": {"answer": -44}}
+{"Problem_150": {"answer": "B) 2x(x-7)"}}
+{"Problem_151": {"answer": 31}}
+{"Problem_152": {"answer": "-16m^4p^6/n^5"}}
+{"Problem_153": {"answer": "\\\\frac{3b^9}{4a^5c^9}"}}
+{"Problem_154": {"answer": "(x+2)"}}
+{"Problem_155": {"answer": "B) 6x^3 - 2x^2 + 3x - 1"}}
+{"Problem_156": {"answer": "(8b - 1)^2"}}
+{"Problem_157": {"answer": "24 - 36\\\\sqrt{3}"}}
+{"Problem_158": {"answer": "4x^2yz\\\\sqrt{5xz}"}}
+{"Problem_159": {"answer": "C"}}
+{"Problem_160": {"answer": "{-\\\\frac{2}{3}, \\\\frac{4}{5}}"}}
+{"Problem_161": {"answer": -13}}
+{"Problem_162": {"answer": "[-1-2\\u221a2, -1+2\\u221a2]"}}
+{"Problem_163": {"answer": 120}}
+{"Problem_164": {"answer": "y = (x - 3) / z"}}
+{"Problem_165": {"answer": "B) infinite solutions"}}
+{"Problem_166": {"answer": "D) I, III and IV"}}
+{"Problem_167": {"answer": "None of the provided options match the correct solution."}}
+{"Problem_168": {"answer": "{x: x <= -7}"}}
+{"Problem_169": {"answer": "2x + y = 4"}}
+{"Problem_170": {"answer": "-3 dollars per person"}}
+{"Problem_171": {"answer": 55}}
+{"Problem_172": {"answer": 20}}
+{"Problem_173": {"answer": {"constant_of_variation": 0.04, "price_for_800_stickers": 32.0}}}
+{"Problem_174": {"answer": "D"}}
+{"Problem_175": {"answer": {"x-intercept": -6, "y-intercept": 10}}}
+{"Problem_176": {"answer": "Yes"}}
+{"Problem_177": {"answer": 6}}
+{"Problem_178": {"answer": 8}}
+{"Problem_179": {"answer": "y = -5x - 3"}}
+{"Problem_180": {"answer": 4.0}}
+{"Problem_181": {"answer": -3}}
+{"Problem_182": {"answer": -1}}
+{"Problem_183": {"answer": 15}}
+{"Problem_184": {"answer": "D"}}
+{"Problem_185": {"answer": "C) II and III only"}}
+{"Problem_186": {"answer": "x = -1"}}
+{"Problem_187": {"answer": "B"}}
+{"Problem_188": {"answer": "B"}}
+{"Problem_189": {"answer": -12}}
+{"Problem_190": {"answer": "\\u00b14"}}
+{"Problem_191": {"answer": 100}}
+{"Problem_192": {"answer": 13}}
+{"Problem_193": {"answer": "x = 9/4, x = 1, x = 5/3"}}
+{"Problem_194": {"answer": "B) x = 1.35 and x = -0.45"}}
+{"Problem_195": {"answer": 83}}
+{"Problem_196": {"answer": "h(t) = -16t^2 + 62t + 150"}}
+{"Problem_197": {"answer": "Verification needed with specific function forms or graphical representation to determine the correct option."}}
+{"Problem_198": {"answer": "B) 3 + sqrt(2)"}}
+{"Problem_199": {"answer": 7}}
+{"Problem_200": {"answer": ["B", "F"]}}
+{"Problem_201": {"answer": "D"}}
+{"Problem_202": {"answer": "A"}}
+{"Problem_203": {"answer": "x = 7/3"}}
+{"Problem_204": {"answer": "(-3, -5)"}}
+{"Problem_205": {"answer": "no horizontal asymptotes"}}
+{"Problem_206": {"answer": "x=6 and x=-3"}}
+{"Problem_207": {"answer": "\\\\frac{n+6}{n-7}"}}
+{"Problem_208": {"answer": "D) \\\\( \\\\frac{1}{4} \\\\)"}}
+{"Problem_209": {"answer": "5sqrt(2)"}}
+{"Problem_210": {"answer": "6 \\\\sqrt[3]{4}"}}
+{"Problem_211": {"answer": "7 x y^2 sqrt(2 x y z)"}}
+{"Problem_212": {"answer": {"a": -3, "b": 4}}}
+{"Problem_213": {"answer": 10253.206}}
+{"Problem_214": {"answer": 12.986}}
+{"Problem_215": {"answer": -4}}
+{"Problem_216": {"answer": "5 sqrt(3) cm"}}
+{"Problem_217": {"answer": "15"}}
+{"Problem_218": {"answer": "B) an acute triangle"}}
+{"Problem_219": {"answer": "cosine"}}
+{"Problem_220": {"answer": "D"}}
+{"Problem_221": {"answer": "7\\\\sqrt{2} cm"}}
+{"Problem_222": {"answer": "A) Dilation"}}
+{"Problem_223": {"answer": "(12, -6)"}}
+{"Problem_224": {"answer": "(1, -3)"}}
+{"Problem_225": {"answer": "C) Kite"}}
+{"Problem_226": {"answer": 15}}
+{"Problem_227": {"answer": 382.84}}
+{"Problem_228": {"answer": 2262}}
+{"Problem_229": {"answer": 2094}}
+{"Problem_230": {"answer": 40}}
+{"Problem_231": {"answer": "7:12"}}
+{"Problem_232": {"answer": 3}}
+{"Problem_233": {"answer": -3}}
+{"Problem_234": {"answer": "-\\\\frac{\\\\sqrt{2} + \\\\sqrt{6}}{4}"}}
+{"Problem_235": {"answer": "0.710059171597633"}}
+{"Problem_236": {"answer": "3pi/2"}}
+{"Problem_237": {"answer": "C"}}
+{"Problem_238": {"answer": "C"}}
+{"Problem_239": {"answer": "3,5"}}
+{"Problem_240": {"answer": "C"}}
+{"Problem_241": {"answer": "x > 5"}}
+{"Problem_242": {"answer": {"x-intercept": "-3/4", "y-intercept": "3"}}}
+{"Problem_243": {"answer": {"a_1": -13, "d": 3}}}
+{"Problem_244": {"answer": "y = 0"}}
+{"Problem_245": {"answer": "\\\\log_3 \\\\left(\\\\frac{8}{125}\\\\right)"}}
+{"Problem_246": {"answer": "-\\\\frac{\\\\pi}{3}"}}
+{"Problem_247": {"answer": "undefined"}}
+{"Problem_248": {"answer": "-\\cos^2 x"}}
+{"Problem_249": {"answer": "pi/3"}}
+{"Problem_250": {"answer": "[pi/3, 2pi/3]"}}
+{"Problem_251": {"answer": "-pi/4"}}
+{"Problem_252": {"answer": "\\\\frac{\\\\sqrt{2 + \\\\sqrt{2}}}{2}"}}
+{"Problem_253": {"answer": "C) \\\\frac{5 \\\\pi}{6}"}}
+{"Problem_254": {"answer": -270}}
+{"Problem_255": {"answer": "x^4 - 8x^3 + 24x^2 - 32x + 16"}}
+{"Problem_256": {"answer": 170}}
+{"Problem_257": {"answer": 3.6}}
+{"Problem_258": {"answer": 16.91}}
+{"Problem_259": {"answer": 48.1}}
+{"Problem_260": {"answer": 11.9}}
+{"Problem_261": {"answer": "\\\\frac{25\\\\sqrt{3} + 48}{39}"}}
+{"Problem_262": {"answer": 2}}
+{"Problem_263": {"answer": "2 \\\\ln x + 3 \\\\ln (y^2 - z) - \\\\frac{1}{2} \\\\ln (y+1)"}}
+{"Problem_264": {"answer": "log((5 * (x-1)^2) / (x+4)^3)"}}
+{"Problem_265": {"answer": 0.4444444444444444}}
+{"Problem_266": {"answer": "2x^2 + x - 1"}}
+{"Problem_267": {"answer": 5248.5}}
+{"Problem_268": {"answer": -0.135}}
+{"Problem_269": {"answer": "C) y = 9x - 0.295"}}
+{"Problem_270": {"answer": "3.146"}}
+{"Problem_271": {"answer": "\\\\frac{1}{2} \\\\tan^{-1} \\\\frac{x^2}{4} + C"}}
+{"Problem_272": {"answer": "E) \\\\frac{1}{11}"}}
+{"Problem_273": {"answer": 6.202}}
+{"Problem_274": {"answer": "-5/4"}}
+{"Problem_275": {"answer": 0.333}}
+{"Problem_276": {"answer": "3 cos(3x)"}}
+{"Problem_277": {"answer": 5.333333333333333}}
+{"Problem_278": {"answer": "D"}}
+{"Problem_279": {"answer": "y = 2(x - 1)"}}
+{"Problem_280": {"answer": 0.16666666666666666}}
+{"Problem_281": {"answer": "-1/4 * ln|-2x^2 + 3| + C"}}
+{"Problem_282": {"answer": "\\\\frac{x^2 \\\\ln(x)}{2} - \\\\frac{x^2}{4} + C"}}
+{"Problem_283": {"answer": "C"}}
+{"Problem_284": {"answer": "C"}}
+{"Problem_285": {"answer": "\\\\frac{x e^{2x}}{2} - \\\\frac{e^{2x}}{4} + C"}}
+{"Problem_286": {"answer": "\\\\frac{2}{5}(x+3)^{\\\\frac{5}{2}}-2(x+3)^{\\\\frac{3}{2}}+C"}}
+{"Problem_287": {"answer": "y = 1 + C e^{-\\\\frac{1}{2x^2}}"}}
+{"Problem_288": {"answer": 10}}
+{"Problem_289": {"answer": 6}}
+{"Problem_290": {"answer": "[30/17, 42/17, 54/17]"}}
+{"Problem_291": {"answer": "[3, 2, 2; 2, 3, 2; 2, 2, 3]"}}
+{"Problem_292": {"answer": 13.5}}
+{"Problem_293": {"answer": "[3, 3]"}}
+{"Problem_294": {"answer": "[2, -3, 3; -2, 5, -4; 2, -3, 3]"}}
+{"Problem_295": {"answer": 2}}
+{"Problem_296": {"answer": 3}}
+{"Problem_297": {"answer": "[2, -2, 1; 4, -4, 2; 6, -6, 3]"}}
+{"Problem_298": {"answer": 1}}
+{"Problem_299": {"answer": 4}}
+{"Problem_300": {"answer": -1}}
+{"Problem_301": {"answer": "[1, -2, 5; 0, 1, -4; 0, 0, 1]"}}
+{"Problem_302": {"answer": [-1, 2]}}
+{"Problem_303": {"answer": "[4, 5]"}}
+{"Problem_304": {"answer": 1.3333333333333333}}
+{"Problem_305": {"answer": "[9, 0; 0, 9]"}}
+{"Problem_306": {"answer": [-1, -2, 4]}}
+{"Problem_307": {"answer": 4}}
+{"Problem_308": {"answer": 3}}
+{"Problem_309": {"answer": 1.618033988749895}}
+{"Problem_310": {"answer": "The value of a is yet to be determined through further calculation steps."}}
+{"Problem_311": {"answer": "x^4 - 10x^2 + 1 = 0"}}
+{"Problem_312": {"answer": "(x - 7)(x - 1)"}}
+{"Problem_313": {"answer": 1}}
+{"Problem_314": {"answer": -5}}
+{"Problem_315": {"answer": 4}}
+{"Problem_316": {"answer": 2}}
+{"Problem_317": {"answer": 0}}
+{"Problem_318": {"answer": 1}}
+{"Problem_319": {"answer": 1.25}}
+{"Problem_320": {"answer": 2}}
+{"Problem_321": {"answer": 243}}
+{"Problem_322": {"answer": 0}}
+{"Problem_323": {"answer": "16 - 4 * 3.14159"}}
+{"Problem_324": {"answer": 0.4166666666666667}}
+{"Problem_325": {"answer": "e/2"}}
+{"Problem_326": {"answer": "0.5493061443340549"}}
+{"Problem_327": {"answer": "pi/2"}}
+{"Problem_328": {"answer": {"alpha": 1, "beta": 4}}}
+{"Problem_329": {"answer": 16}}
+{"Problem_330": {"answer": "0.5358983848622454"}}
+{"Problem_331": {"answer": "pi/4"}}
+{"Problem_332": {"answer": "pi"}}
+{"Problem_333": {"answer": "\\\\frac{\\\\pi}{\\\\sqrt{2}}"}}
+{"Problem_334": {"answer": "1.5 - 0.5/e"}}
+{"Problem_335": {"answer": 2.0}}
+{"Problem_336": {"answer": 1}}
+{"Problem_337": {"answer": "2e"}}
+{"Problem_338": {"answer": "e^{-x}"}}
+{"Problem_339": {"answer": false}}
+{"Problem_340": {"answer": "Nonzero power series solution exists if a_1 is nonzero."}}
+{"Problem_341": {"answer": "y = 0 is a singular solution to the differential equation y' = sqrt(y) ln(ln(1+y))."}}
+{"Problem_342": {"answer": "Neutral stability (oscillatory behavior)"}}
+{"Problem_343": {"answer": "Stable"}}
+{"Problem_344": {"answer": 0}}
+{"Problem_345": {"answer": "Likely positive, depending on the behavior of the integral of x*cos(xy)"}}
+{"Problem_346": {"answer": "No, there does not exist any nonzero function f(x) in L^2(R^n) that is harmonic in R^n."}}
+{"Problem_347": {"answer": "u is a constant function."}}
+{"Problem_348": {"answer": "Further analysis required for exact numerical or analytical value"}}
+{"Problem_349": {"answer": [1, 2]}}
+{"Problem_350": {"answer": 831600}}
+{"Problem_351": {"answer": 0.42}}
+{"Problem_352": {"answer": 4032}}
+{"Problem_353": {"answer": 8}}
+{"Problem_354": {"answer": 0.3891}}
+{"Problem_355": {"answer": 0.5941}}
+{"Problem_356": {"answer": 0.1}}
+{"Problem_357": {"answer": "The detailed calculations for each position and their probabilities are required to provide a numerical answer."}}
+{"Problem_358": {"answer": 0.4375}}
+{"Problem_359": {"answer": 1544400}}
+{"Problem_360": {"answer": 0.0625}}
+{"Problem_361": {"answer": 0.9823}}
+{"Problem_362": {"answer": 2}}
+{"Problem_363": {"answer": "e^{-2e - 1 + 2}"}}
+{"Problem_364": {"answer": 1.0}}
+{"Problem_365": {"answer": 0.75}}
+{"Problem_366": {"answer": 1.0}}
+{"Problem_367": {"answer": 0.0}}
+{"Problem_368": {"answer": "N * (1/2)^N"}}
+{"Problem_369": {"answer": "Integral from 1 to 3 of (1/sqrt(2*pi*t^3)) dt"}}
+{"Problem_370": {"answer": 0.8}}
+{"Problem_371": {"answer": "[4.8, 2.24]"}}
+{"Problem_372": {"answer": "Reject the null hypothesis"}}
+{"Problem_373": {"answer": 1.5}}
+{"Problem_374": {"answer": "The proportion of type A blood donations is significantly different from 40% at the 0.01 significance level."}}
+{"Problem_375": {"answer": "The concrete should be used for the application."}}
+{"Problem_376": {"answer": {"mean": 107.78, "standard_deviation": 1.075, "confidence_interval": [106.44, 109.12]}}}
+{"Problem_377": {"answer": "[0.225, 0.275]"}}
+{"Problem_378": {"answer": "[-5.89, 1.89]"}}
+{"Problem_379": {"answer": "[38.88, 1194.21]"}}
+{"Problem_380": {"answer": "Reject the null hypothesis"}}
+{"Problem_381": {"answer": "No, $X$ is not a complete statistic."}}
+{"Problem_382": {"answer": "\\\\frac{2\\\\theta^2}{5n}"}}
+{"Problem_383": {"answer": "theta^2"}}
+{"Problem_384": {"answer": 1.0}}
+{"Problem_385": {"answer": "theta^2"}}
+{"Problem_386": {"answer": "1/overline{X}"}}
+{"Problem_387": {"answer": "Reject $H_0$ if $\\sum_{i=1}^n X_i^2 > \\frac{\\theta_0}{2} \\chi_{2n, \\alpha}^2."}}

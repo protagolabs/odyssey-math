@@ -27,7 +27,7 @@ class mathSolve(Agent):
         
         super().__init__()  
 
-        self.openai_agent = OpenAIClient(api_key=OPENAI_API_KEY, model='gpt-4-1106-preview', temperature=0., top_p=0.8)
+        self.openai_agent = OpenAIClient(api_key=OPENAI_API_KEY, model='gpt-3.5-turbo-0125', temperature=0., top_p=0.8)
         self.llm_evaluate_agent = LLMAgent(SOLUTION, self.openai_agent, stream=False)
 
     def extract_dict_from_json(self,text: str):
