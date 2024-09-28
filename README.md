@@ -34,7 +34,7 @@ A new dataset of 387 questions and solutions from high school competition questi
 ## Evaluation Baseline
 
 Evaluation Results of Odyssey-Math dataset across different models.
-![table_from_paper](./docs/benchmark.webp)
+![table_from_paper](./docs/benchmark-new.webp)
 
 
 ## News
