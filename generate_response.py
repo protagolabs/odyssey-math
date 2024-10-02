@@ -14,7 +14,7 @@ def process_math_problems(input_file, output_file):
 
 # Specify your input and output files
 input_file_path = 'final-odyssey-math-with-levels.jsonl'
-output_file_path = 'jsonl/gpt-3.5-turbo-0125.jsonl'
+output_file_path = 'jsonl/gpt-4-turbo-2024-04-09-second.jsonl'
 
 # Call the processing function
 process_math_problems(input_file_path, output_file_path)

@@ -6,17 +6,24 @@ from typing import Dict
 import re
 import time
 
-from agents.llama_client import Llama3APIClient
+from openai import OpenAI
 from dotenv import load_dotenv
 
 # Load the environment variables from the .env file
 load_dotenv()
-api_token = os.getenv('Netmind_API_KEY')
+api_token = os.getenv('NETMIND_POWER_KEY')
 
+# Set up the client with the new OpenAI structure
+client = OpenAI(
+    base_url="https://inference-api.netmind.ai/inference-api/openai/v1",
+    api_key=api_token,
+)
 
-api_url = "https://inference-api.netmind.ai/inference-api/v1/llama3-70B"
+model = "Qwen/Qwen2.5-72B-Instruct"
+stream = False  # Set to True if you want streamed output
+max_tokens = 2000
 
-client = Llama3APIClient(api_url, api_token)
+# Define the request prompt for solving math problems
 request = """
     You are now assuming the role of a math professor. Your task is to assist the user by solving complex mathematical problems in a detailed and step-by-step manner.
 
@@ -45,33 +52,33 @@ request = """
 """
 
 def process_math_problems(input_file, output_file):
-
     with open(input_file, 'r') as infile, open(output_file, 'w') as outfile:
         for line in infile:
             time.sleep(2)
             status = 0
             problem = json.loads(line)  # Convert JSON line to dictionary
             for key, value in problem.items():
-        
                 question = value['question']
-                question =  "The given question is:  \n" + question
-                messages = [
-                    {
-                        "role": "system",
-                        "content": request
-                    },
-                    {
-                        "role": "user",
-                        "content": question
-                    }
-                ]
+                question_prompt =  "The given question is:  \n" + question
+                full_prompt = request + "\n\n" + question_prompt
+                
                 while status == 0:
                     try:
-                        response = client.run(
-                            messages
+                        # Run the completion request using the new OpenAI API structure
+                        completion_res = client.completions.create(
+                            model=model,
+                            prompt=full_prompt,
+                            stream=stream,
+                            max_tokens=max_tokens,
                         )
-                        response = response['content']
-                        status = 1
+                        
+                        # Process streaming or non-streaming response
+                        if stream:
+                            response = ''.join([chunk.choices[0].text for chunk in completion_res])
+                        else:
+                            response = completion_res.choices[0].text
+                        
+                        status = 1  # Set status to 1 after successful completion
                     except:
                         time.sleep(10)
                         status = 0
@@ -81,7 +88,7 @@ def process_math_problems(input_file, output_file):
 
 # Specify your input and output files
 input_file_path = 'final-odyssey-math-with-levels.jsonl'
-output_file_path = 'jsonl/llama3-70b-solution-last.jsonl'
+output_file_path = 'jsonl/Qwen2.5-72B-Instruct-solution.jsonl'
 
 # Call the processing function
 process_math_problems(input_file_path, output_file_path)
