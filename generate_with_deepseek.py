@@ -45,7 +45,7 @@ request = """
     
     ```json
     {{
-        "reasoning": "<detailed solution process>",
+        "reasoning": "<concise solution process>",
         "answer": "<answer>",
     }}
     ```
@@ -61,26 +61,26 @@ def process_math_problems(input_file, output_file):
             for key, value in problem.items():
                 question = value['question']
                 question_prompt =  "The given question is:  \n" + question
-                full_prompt = request + "\n\n" + question_prompt
+                full_prompt = [
+                    {"role": "system", "content": request},
+                    {"role": "user", "content": question_prompt},
+                ]
                 
                 while status == 0:
                     try:
-                        # Run the completion request using the new OpenAI API structure
-                        completion_res = client.completions.create(
+                        chat_completion_response = client.chat.completions.create(
                             model=model,
-                            prompt=full_prompt,
+                            messages=full_prompt,
                             stream=stream,
                             max_tokens=max_tokens,
                         )
-                        
-                        # Process streaming or non-streaming response
-                        if stream:
-                            response = ''.join([chunk.choices[0].text for chunk in completion_res])
-                        else:
-                            response = completion_res.choices[0].text
+
+                        response = chat_completion_response.choices[0].message.content
                         
                         status = 1  # Set status to 1 after successful completion
-                    except:
+                    except Exception as e:
+                        print(f"Error occurred for {key}: {e}")  # Print the error message
+                        print("Retrying...")
                         time.sleep(10)
                         status = 0
                 

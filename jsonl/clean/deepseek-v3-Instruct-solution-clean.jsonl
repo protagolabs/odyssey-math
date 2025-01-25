@@ -1,0 +1,387 @@
+{"Problem_1": {"answer": "15"}}
+{"Problem_2": {"answer": "1"}}
+{"Problem_3": {"answer": "75"}}
+{"Problem_4": {"answer": "2020"}}
+{"Problem_5": {"answer": "235"}}
+{"Problem_6": {"answer": "16"}}
+{"Problem_7": {"answer": "125"}}
+{"Problem_8": {"answer": "D"}}
+{"Problem_9": {"answer": "0"}}
+{"Problem_10": {"answer": "None"}}
+{"Problem_11": {"answer": "12.923"}}
+{"Problem_12": {"answer": "7"}}
+{"Problem_13": {"answer": "264"}}
+{"Problem_14": {"answer": "1"}}
+{"Problem_15": {"answer": "{\n        \"before_decimal\": 1,\n        \"after_decimal\": 0"}}
+{"Problem_16": {"answer": "699300"}}
+{"Problem_17": {"answer": "192"}}
+{"Problem_18": {"answer": "None"}}
+{"Problem_19": {"answer": "325"}}
+{"Problem_20": {"answer": "0"}}
+{"Problem_21": {"answer": "None"}}
+{"Problem_22": {"answer": "14"}}
+{"Problem_23": {"answer": "2"}}
+{"Problem_24": {"answer": "None"}}
+{"Problem_25": {"answer": "1"}}
+{"Problem_26": {"answer": "C"}}
+{"Problem_27": {"answer": "\u221e"}}
+{"Problem_28": {"answer": "0.0"}}
+{"Problem_29": {"answer": "2"}}
+{"Problem_30": {"answer": "7000"}}
+{"Problem_31": {"answer": "1111"}}
+{"Problem_32": {"answer": "None"}}
+{"Problem_33": {"answer": "7"}}
+{"Problem_34": {"answer": "0"}}
+{"Problem_35": {"answer": "6159"}}
+{"Problem_36": {"answer": "None"}}
+{"Problem_37": {"answer": "58"}}
+{"Problem_38": {"answer": "0"}}
+{"Problem_39": {"answer": "None"}}
+{"Problem_40": {"answer": "None"}}
+{"Problem_41": {"answer": "11806"}}
+{"Problem_42": {"answer": "89"}}
+{"Problem_43": {"answer": "No solution exists under the given conditions."}}
+{"Problem_44": {"answer": "3"}}
+{"Problem_45": {"answer": "10002002"}}
+{"Problem_46": {"answer": "None"}}
+{"Problem_47": {"answer": "infinitely many"}}
+{"Problem_48": {"answer": "4"}}
+{"Problem_49": {"answer": "0"}}
+{"Problem_50": {"answer": "None"}}
+{"Problem_51": {"answer": "The expression simplifies to \\( \\frac{2020!"}}
+{"Problem_52": {"answer": "0.0"}}
+{"Problem_53": {"answer": "3.0"}}
+{"Problem_54": {"answer": "3.0"}}
+{"Problem_55": {"answer": "36.75"}}
+{"Problem_56": {"answer": "28"}}
+{"Problem_57": {"answer": "10"}}
+{"Problem_58": {"answer": "2.0"}}
+{"Problem_59": {"answer": "2.0"}}
+{"Problem_60": {"answer": "3"}}
+{"Problem_61": {"answer": "1017073"}}
+{"Problem_62": {"answer": "4862"}}
+{"Problem_63": {"answer": "4"}}
+{"Problem_64": {"answer": "None"}}
+{"Problem_65": {"answer": "4.0"}}
+{"Problem_66": {"answer": "a < 1 or a > 2"}}
+{"Problem_67": {"answer": "None"}}
+{"Problem_68": {"answer": "46656"}}
+{"Problem_69": {"answer": "\\\\frac{\\\\sqrt{6"}}
+{"Problem_70": {"answer": "None"}}
+{"Problem_71": {"answer": "\\[\n-6.\n\\]\n\n---\n\n### Final JSON Output:\n```json\n{\n    \"reasoning\": \"The problem involves constructing a quintic polynomial \\( p(x) \\) based on the given conditions. By expressing \\( p(x) + 1 \\) and \\( p(x) - 1 \\) in terms of their roots and equating the two expressions, we solve for the coefficients of \\( p(x) \\). The coefficient of \\( x^3 \\) is determined to be \\(-6\\).\",\n    \"answer\": -6.0"}}
+{"Problem_72": {"answer": "8"}}
+{"Problem_73": {"answer": "2022"}}
+{"Problem_74": {"answer": "1"}}
+{"Problem_75": {"answer": "{\n        \"maximum\": 0.649519052838329,\n        \"minimum\": -0.649519052838329"}}
+{"Problem_76": {"answer": "None"}}
+{"Problem_77": {"answer": "194"}}
+{"Problem_78": {"answer": "6"}}
+{"Problem_79": {"answer": "5*sqrt(2) - 3"}}
+{"Problem_80": {"answer": "75.0"}}
+{"Problem_81": {"answer": "8.464"}}
+{"Problem_82": {"answer": "-1.0"}}
+{"Problem_83": {"answer": "0"}}
+{"Problem_84": {"answer": "144"}}
+{"Problem_85": {"answer": "1.0"}}
+{"Problem_86": {"answer": "2.0"}}
+{"Problem_87": {"answer": "7/10 * pi"}}
+{"Problem_88": {"answer": "\\\\frac{\\\\sqrt{3"}}
+{"Problem_89": {"answer": "-0.6666666666666666"}}
+{"Problem_90": {"answer": "120.0"}}
+{"Problem_91": {"answer": "4.0"}}
+{"Problem_92": {"answer": "\\\\frac{4\\\\sqrt{29"}}
+{"Problem_93": {"answer": "4.0"}}
+{"Problem_94": {"answer": "24"}}
+{"Problem_95": {"answer": "None"}}
+{"Problem_96": {"answer": "64684950"}}
+{"Problem_97": {"answer": "2/sqrt(3)"}}
+{"Problem_98": {"answer": "360"}}
+{"Problem_99": {"answer": "90^\\circ"}}
+{"Problem_100": {"answer": "6"}}
+{"Problem_101": {"answer": "\u221a3/2"}}
+{"Problem_102": {"answer": "4"}}
+{"Problem_103": {"answer": "0.0"}}
+{"Problem_104": {"answer": "1/12"}}
+{"Problem_105": {"answer": "3.0"}}
+{"Problem_106": {"answer": "4.821"}}
+{"Problem_107": {"answer": "30"}}
+{"Problem_108": {"answer": "14"}}
+{"Problem_109": {"answer": "two interlinked loops"}}
+{"Problem_110": {"answer": "\\\\frac{\\\\sqrt{2"}}
+{"Problem_111": {"answer": "1.0"}}
+{"Problem_112": {"answer": "51/170"}}
+{"Problem_113": {"answer": "2"}}
+{"Problem_114": {"answer": "1/12"}}
+{"Problem_115": {"answer": "608"}}
+{"Problem_116": {"answer": "16640"}}
+{"Problem_117": {"answer": "1"}}
+{"Problem_118": {"answer": "100.0"}}
+{"Problem_119": {"answer": "0"}}
+{"Problem_120": {"answer": "100! + 1"}}
+{"Problem_121": {"answer": "52"}}
+{"Problem_122": {"answer": "1022121"}}
+{"Problem_123": {"answer": "165"}}
+{"Problem_124": {"answer": "A. Alice"}}
+{"Problem_125": {"answer": "5"}}
+{"Problem_126": {"answer": "46"}}
+{"Problem_127": {"answer": "40/243"}}
+{"Problem_128": {"answer": "384"}}
+{"Problem_129": {"answer": "1"}}
+{"Problem_130": {"answer": "2187"}}
+{"Problem_131": {"answer": "B. Alice can guarantee victory."}}
+{"Problem_132": {"answer": "B. Carl has a winning strategy."}}
+{"Problem_133": {"answer": "```json\n{\n    \"reasoning\": \"The problem is modeled as a Markov process with states representing the doors and transitions based on probabilities. The expected number of coins is calculated using a system of equations derived from the state transitions. Solving the system yields the expected cost.\",\n    \"answer\": 22.0"}}
+{"Problem_134": {"answer": "512"}}
+{"Problem_135": {"answer": "2.0"}}
+{"Problem_136": {"answer": "66!"}}
+{"Problem_137": {"answer": "18"}}
+{"Problem_138": {"answer": "362881"}}
+{"Problem_139": {"answer": "286"}}
+{"Problem_140": {"answer": "2"}}
+{"Problem_141": {"answer": "144"}}
+{"Problem_142": {"answer": "1681680"}}
+{"Problem_143": {"answer": "5592"}}
+{"Problem_144": {"answer": "63"}}
+{"Problem_145": {"answer": "26"}}
+{"Problem_146": {"answer": "7"}}
+{"Problem_147": {"answer": "None"}}
+{"Problem_148": {"answer": "625"}}
+{"Problem_149": {"answer": "-44"}}
+{"Problem_150": {"answer": "B"}}
+{"Problem_151": {"answer": "31"}}
+{"Problem_152": {"answer": "A) \\frac{-16m^4p^6"}}
+{"Problem_153": {"answer": "C"}}
+{"Problem_154": {"answer": "\\((x + 2)\\).\n    \",\n    \"answer\": \"A"}}
+{"Problem_155": {"answer": "B) \\(6x^3 - 2x^2 + 3x - 1\\)"}}
+{"Problem_156": {"answer": "(8b - 1)^2"}}
+{"Problem_157": {"answer": "-12"}}
+{"Problem_158": {"answer": "C) 4x^2yz\\sqrt{5xz"}}
+{"Problem_159": {"answer": "C"}}
+{"Problem_160": {"answer": "D"}}
+{"Problem_161": {"answer": "-13"}}
+{"Problem_162": {"answer": "A"}}
+{"Problem_163": {"answer": "120"}}
+{"Problem_164": {"answer": "A) \\( y = \\frac{x - 3"}}
+{"Problem_165": {"answer": "B) infinite solutions"}}
+{"Problem_166": {"answer": "D"}}
+{"Problem_167": {"answer": "A"}}
+{"Problem_168": {"answer": "\\[\n   \\{x: x \\leq -7\\"}}
+{"Problem_169": {"answer": "C"}}
+{"Problem_170": {"answer": "D) -3$ per person"}}
+{"Problem_171": {"answer": "55"}}
+{"Problem_172": {"answer": "20"}}
+{"Problem_173": {"answer": "The constant of variation \\( k = 0.04 \\) and the cost for 800 stickers is \\$32.00. This matches option A.\n\n5. **Conclusion**: The correct answer is option A, where \\( k = 0.04 \\) and the cost for 800 stickers is \\$32.00.\n\",\n    \"answer\": {\n        \"constant_of_variation\": 0.04,\n        \"cost_for_800_stickers\": 32.00"}}
+{"Problem_174": {"answer": "D"}}
+{"Problem_175": {"answer": "B"}}
+{"Problem_176": {"answer": "A) Yes"}}
+{"Problem_177": {"answer": "\\[\n\\boxed{B"}}
+{"Problem_178": {"answer": "8"}}
+{"Problem_179": {"answer": "y = -5x - 3"}}
+{"Problem_180": {"answer": "4.0"}}
+{"Problem_181": {"answer": "-3.0"}}
+{"Problem_182": {"answer": "-1.0"}}
+{"Problem_183": {"answer": "15"}}
+{"Problem_184": {"answer": "D"}}
+{"Problem_185": {"answer": "C"}}
+{"Problem_186": {"answer": "B) x = -1"}}
+{"Problem_187": {"answer": "B"}}
+{"Problem_188": {"answer": "B"}}
+{"Problem_189": {"answer": "-12"}}
+{"Problem_190": {"answer": "\u00b14"}}
+{"Problem_191": {"answer": "100"}}
+{"Problem_192": {"answer": "13"}}
+{"Problem_193": {"answer": "B) \\(x = \\frac{9"}}
+{"Problem_194": {"answer": "B) x=1.35 and x=-0.45"}}
+{"Problem_195": {"answer": "```json\n{\n    \"reasoning\": \"Using the Remainder Theorem, we substitute \\( x = 2 \\) into \\( f(x) \\) to find the remainder. The calculations yield \\( f(2) = 83 \\).\",\n    \"answer\": 83"}}
+{"Problem_196": {"answer": "A"}}
+{"Problem_197": {"answer": "```json\n{\n    \"reasoning\": \"The points in Option A satisfy the equation \\( f(x) = g(x) \\) as they lie on both graphs. Given the nature of the quadratic functions (one opening upwards and the other downwards), Option A is the most plausible answer.\",\n    \"answer\": \"A"}}
+{"Problem_198": {"answer": "B) 3+\u221a2"}}
+{"Problem_199": {"answer": "7"}}
+{"Problem_200": {"answer": "[\"B\", \"F\"]"}}
+{"Problem_201": {"answer": "C) III and IV"}}
+{"Problem_202": {"answer": "A) \\(\\frac{x y"}}
+{"Problem_203": {"answer": "D) \\(x = \\frac{7"}}
+{"Problem_204": {"answer": "(-3, -5)"}}
+{"Problem_205": {"answer": "D) no horizontal asymptotes"}}
+{"Problem_206": {"answer": "B) x=6 and x=-3"}}
+{"Problem_207": {"answer": "A) \\(\\frac{n+6"}}
+{"Problem_208": {"answer": "D) \\( \\frac{1"}}
+{"Problem_209": {"answer": "A) \\(5\\sqrt{2"}}
+{"Problem_210": {"answer": "B) 6 \\\\sqrt[3]{4"}}
+{"Problem_211": {"answer": "C) \\(7 x y^{2"}}
+{"Problem_212": {"answer": "{\n        \"a\": -3.0,\n        \"b\": 4.0"}}
+{"Problem_213": {"answer": "10251.31"}}
+{"Problem_214": {"answer": "13"}}
+{"Problem_215": {"answer": "-4"}}
+{"Problem_216": {"answer": "\\\\frac{10 \\\\sqrt{3"}}
+{"Problem_217": {"answer": "15"}}
+{"Problem_218": {"answer": "B) an acute triangle"}}
+{"Problem_219": {"answer": "The correct answer is **B) cosine**.\n\",\n    \"answer\": \"B) cosine"}}
+{"Problem_220": {"answer": "D"}}
+{"Problem_221": {"answer": "7\u221a2 cm"}}
+{"Problem_222": {"answer": "A"}}
+{"Problem_223": {"answer": "(12, -6)"}}
+{"Problem_224": {"answer": "(1, -3)"}}
+{"Problem_225": {"answer": "C) Kite"}}
+{"Problem_226": {"answer": "15"}}
+{"Problem_227": {"answer": "400"}}
+{"Problem_228": {"answer": "2262"}}
+{"Problem_229": {"answer": "\\[\n\\boxed{2094"}}
+{"Problem_230": {"answer": "40"}}
+{"Problem_231": {"answer": "7:12"}}
+{"Problem_232": {"answer": "3"}}
+{"Problem_233": {"answer": "B) \\( 4^x = \\frac{1"}}
+{"Problem_234": {"answer": "\\\\frac{-\\\\sqrt{2"}}
+{"Problem_235": {"answer": "\\[\n\\sin 2\\theta = \\frac{120"}}
+{"Problem_236": {"answer": "\\\\frac{3\\\\pi"}}
+{"Problem_237": {"answer": "C) \\( \\pi \\)"}}
+{"Problem_238": {"answer": "C"}}
+{"Problem_239": {"answer": "C) 3, 5"}}
+{"Problem_240": {"answer": "C"}}
+{"Problem_241": {"answer": "C) x > 5"}}
+{"Problem_242": {"answer": "C"}}
+{"Problem_243": {"answer": "A) \\( a_1 = -13; d = 3 \\)"}}
+{"Problem_244": {"answer": "C) \\( y = 0 \\)"}}
+{"Problem_245": {"answer": "B) \\( \\log_3 \\left(\\frac{8"}}
+{"Problem_246": {"answer": "-\\frac{\\pi"}}
+{"Problem_247": {"answer": "undefined"}}
+{"Problem_248": {"answer": "B) -cos^2 x"}}
+{"Problem_249": {"answer": "C) \u03c0/3"}}
+{"Problem_250": {"answer": "B) \\(\\frac{\\pi"}}
+{"Problem_251": {"answer": "B"}}
+{"Problem_252": {"answer": "A"}}
+{"Problem_253": {"answer": "C"}}
+{"Problem_254": {"answer": "-270"}}
+{"Problem_255": {"answer": "x^4 - 8x^3 + 24x^2 - 32x + 16"}}
+{"Problem_256": {"answer": "170"}}
+{"Problem_257": {"answer": "3.6"}}
+{"Problem_258": {"answer": "16.91"}}
+{"Problem_259": {"answer": "47.9\u00b0"}}
+{"Problem_260": {"answer": "11.9"}}
+{"Problem_261": {"answer": "A) \\( \\frac{25\\sqrt{3"}}
+{"Problem_262": {"answer": "2.0"}}
+{"Problem_263": {"answer": "2 \\\\ln x + 3 \\\\ln(y^2 - z) - \\\\frac{1"}}
+{"Problem_264": {"answer": "\\\\log \\\\left(\\\\frac{5(x-1)^2"}}
+{"Problem_265": {"answer": "4/9"}}
+{"Problem_266": {"answer": "2x^2 + x - 1"}}
+{"Problem_267": {"answer": "5243"}}
+{"Problem_268": {"answer": "-0.135"}}
+{"Problem_269": {"answer": "C"}}
+{"Problem_270": {"answer": "A"}}
+{"Problem_271": {"answer": "B"}}
+{"Problem_272": {"answer": "To find \\( g'(10) \\), we first determined \\( g(10) \\) by solving \\( f(x) = 10 \\), which gave \\( x = 2 \\). Then, we computed \\( f'(x) = 6x - 1 \\) and evaluated it at \\( x = 2 \\) to get \\( f'(2) = 11 \\). Finally, using the formula for the derivative of the inverse function, \\( g'(10) = \\frac{1"}}
+{"Problem_273": {"answer": "6.204"}}
+{"Problem_274": {"answer": "-5/4"}}
+{"Problem_275": {"answer": "0.333"}}
+{"Problem_276": {"answer": "3 cos(3x)"}}
+{"Problem_277": {"answer": "16/3"}}
+{"Problem_278": {"answer": "D"}}
+{"Problem_279": {"answer": "C"}}
+{"Problem_280": {"answer": "\\\\frac{1"}}
+{"Problem_281": {"answer": "The indefinite integral is:\n   \\[\n   -\\frac{1"}}
+{"Problem_282": {"answer": "B"}}
+{"Problem_283": {"answer": "C"}}
+{"Problem_284": {"answer": "```json\n{\n    \"reasoning\": \"The volume of the solid generated by revolving the region bounded by \\( y = x \\) and \\( y = x^3 \\) about the \\( x \\)-axis is calculated using the method of disks. The integral is set up as \\( V = \\pi \\int_{0"}}
+{"Problem_285": {"answer": "\\[\n   \\frac{x e^{2x"}}
+{"Problem_286": {"answer": "E"}}
+{"Problem_287": {"answer": "y = 1 + A e^{-\\\\frac{1"}}
+{"Problem_288": {"answer": "10.0"}}
+{"Problem_289": {"answer": "21.0"}}
+{"Problem_290": {"answer": "[1, 2, 3]"}}
+{"Problem_291": {"answer": "[3,1,1;1,3,1;1,1,3]"}}
+{"Problem_292": {"answer": "13.5"}}
+{"Problem_293": {"answer": "[3, 3]"}}
+{"Problem_294": {"answer": "None"}}
+{"Problem_295": {"answer": "2"}}
+{"Problem_296": {"answer": "3"}}
+{"Problem_297": {"answer": "[2, -2, 1; 4, -4, 2; 6, -6, 3]"}}
+{"Problem_298": {"answer": "1.0"}}
+{"Problem_299": {"answer": "4.0"}}
+{"Problem_300": {"answer": "-1.0"}}
+{"Problem_301": {"answer": "[1, -2, 5; 0, 1, -4; 0, 0, 1]"}}
+{"Problem_302": {"answer": "[2, 2]"}}
+{"Problem_303": {"answer": "[4, 5]"}}
+{"Problem_304": {"answer": "3.5"}}
+{"Problem_305": {"answer": "[9,9;9,9]"}}
+{"Problem_306": {"answer": "[-1, -2, 4]"}}
+{"Problem_307": {"answer": "4.0"}}
+{"Problem_308": {"answer": "3.0"}}
+{"Problem_309": {"answer": "(1 + sqrt(5)) / 2"}}
+{"Problem_310": {"answer": "2"}}
+{"Problem_311": {"answer": "x^4 - 10x^2 + 1"}}
+{"Problem_312": {"answer": "x^3 - 9x^2 + 23x - 15"}}
+{"Problem_313": {"answer": "1.0"}}
+{"Problem_314": {"answer": "-5.0"}}
+{"Problem_315": {"answer": "4.0"}}
+{"Problem_316": {"answer": "2.0"}}
+{"Problem_317": {"answer": "0.0"}}
+{"Problem_318": {"answer": "1.0"}}
+{"Problem_319": {"answer": "1.25"}}
+{"Problem_320": {"answer": "2"}}
+{"Problem_321": {"answer": "243.0"}}
+{"Problem_322": {"answer": "0.0"}}
+{"Problem_323": {"answer": "\\[\n16 - 4\\pi.\n\\]\",\n    \"answer\": \"16 - 4*pi"}}
+{"Problem_324": {"answer": "5/12"}}
+{"Problem_325": {"answer": "-1.3591409142295225"}}
+{"Problem_326": {"answer": "0.5 * ln(3)"}}
+{"Problem_327": {"answer": "1.5707963267948966"}}
+{"Problem_328": {"answer": "{\n        \"alpha\": \"\\(\\alpha > 0, \\alpha \\neq 1\\)\",\n        \"beta\": 4"}}
+{"Problem_329": {"answer": "8.0"}}
+{"Problem_330": {"answer": "The value of the integral is:\n   \\[\n   \\frac{\\pi"}}
+{"Problem_331": {"answer": "pi/4"}}
+{"Problem_332": {"answer": "3.141592653589793"}}
+{"Problem_333": {"answer": "pi / (2 * sqrt(2))"}}
+{"Problem_334": {"answer": "3/2 - 1/(2e)"}}
+{"Problem_335": {"answer": "2.0"}}
+{"Problem_336": {"answer": "e^{-1"}}
+{"Problem_337": {"answer": "2e"}}
+{"Problem_338": {"answer": "e^{-x"}}
+{"Problem_339": {"answer": "No such system of three linear homogeneous ODEs exists."}}
+{"Problem_340": {"answer": "No, the ODE does not have a nonzero power series solution near \\(x = 0\\)."}}
+{"Problem_341": {"answer": "Yes, \\( y = 0 \\) is a singular solution."}}
+{"Problem_342": {"answer": "The equilibrium (0, 0) is unstable."}}
+{"Problem_343": {"answer": "The equilibrium \\( x(t) = 0 \\) is stable."}}
+{"Problem_344": {"answer": "The number of limit cycles cannot be determined conclusively from the given information."}}
+{"Problem_345": {"answer": "Yes, \\(\\frac{\\partial y"}}
+{"Problem_346": {"answer": "No such nonzero function exists."}}
+{"Problem_347": {"answer": "Yes, \\( u \\) is a constant."}}
+{"Problem_348": {"answer": "0.0"}}
+{"Problem_349": {"answer": "```json\n{\n    \"reasoning\": \"The transport equation is solved using the method of characteristics. The initial condition determines the form of the solution, and the boundary condition is used to find the constants \\( A \\) and \\( B \\). Matching the boundary condition with the solution yields \\( A = 1 \\) and \\( B = 2 \\).\",\n    \"answer\": [1, 2]"}}
+{"Problem_350": {"answer": "9979200"}}
+{"Problem_351": {"answer": "0.42"}}
+{"Problem_352": {"answer": "- The number of ways to choose the board such that Alex and Jerry do not serve together is 24276.\n\",\n    \"answer\": 24276"}}
+{"Problem_353": {"answer": "2 or 3"}}
+{"Problem_354": {"answer": "We used Bayes' Theorem to compute the probability that the shipment came from Vendor A given the observed data. The prior probabilities were \\( P(A) = \\\\frac{2"}}
+{"Problem_355": {"answer": "0.5941"}}
+{"Problem_356": {"answer": "0.1111111111111111"}}
+{"Problem_357": {"answer": "22.38"}}
+{"Problem_358": {"answer": "0.5833333333333334"}}
+{"Problem_359": {"answer": "1395360"}}
+{"Problem_360": {"answer": "0.367"}}
+{"Problem_361": {"answer": "- The probability that at most 30 of the selected bricks break under a force of 190 is approximately 0.412.\n\",\n    \"answer\": 0.412"}}
+{"Problem_362": {"answer": "10e^{-1"}}
+{"Problem_363": {"answer": "exp(-2e + 1)"}}
+{"Problem_364": {"answer": "ln(2)"}}
+{"Problem_365": {"answer": "0.25"}}
+{"Problem_366": {"answer": "(-1 + sqrt(5))/2"}}
+{"Problem_367": {"answer": "0.0"}}
+{"Problem_368": {"answer": "N / 2^N"}}
+{"Problem_369": {"answer": "1.0"}}
+{"Problem_370": {"answer": "\\[\nP(X_T = 0) = \\frac{4"}}
+{"Problem_371": {"answer": "\\[\n[\\mu, \\sigma] = [4.8, 2.28].\n\\]\",\n    \"answer\": \"[4.8, 2.28]"}}
+{"Problem_372": {"answer": "Reject the null hypothesis."}}
+{"Problem_373": {"answer": "1.5"}}
+{"Problem_374": {"answer": "Reject the null hypothesis; the proportion of type A blood donations differs from 40%."}}
+{"Problem_375": {"answer": "The concrete can be used for the particular application."}}
+{"Problem_376": {"answer": "{\n        \"sample_mean\": 107.78,\n        \"sample_standard_deviation\": 1.075,\n        \"confidence_interval\": [106.444, 109.116]"}}
+{"Problem_377": {"answer": "(0.2251, 0.2749)"}}
+{"Problem_378": {"answer": "[-5.90, 3.90]"}}
+{"Problem_379": {"answer": "(38.89, 2792.27)"}}
+{"Problem_380": {"answer": "Fail to reject the null hypothesis. There is not sufficient evidence to indicate a difference in the true means of the two groups at \u03b1 = 0.05."}}
+{"Problem_381": {"answer": "Yes, \\( X \\) is a complete statistic."}}
+{"Problem_382": {"answer": "\\\\frac{2\\\\theta^2"}}
+{"Problem_383": {"answer": "theta^2"}}
+{"Problem_384": {"answer": "1.0"}}
+{"Problem_385": {"answer": "The CRLB does not exist for estimating \u03b8."}}
+{"Problem_386": {"answer": "1/T"}}
+{"Problem_387": {"answer": "Yes, the UMP test should reject \\( H_0 \\) if \\( \\sum_{i=1"}}
