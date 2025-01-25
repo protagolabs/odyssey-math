@@ -36,6 +36,50 @@ A new dataset of 387 questions and solutions from high school competition questi
 Evaluation Results of Odyssey-Math dataset across different models.
 ![table_from_paper](./docs/benchmark-new.webp)
 
+# Experiment Results: deepseek-v3-Instruct
+
+This document presents the performance of `deepseek-v3-Instruct` on our custom dataset. It serves as a supplementary experiment to our main results with other models.
+
+## Results by Label and Level
+
+| Label                                       | Level                   | Accuracy (%) | Correct / Total |
+|---------------------------------------------|-------------------------|--------------|-----------------|
+| **Algebra**                                 | High School Competition | 26.83%       | 22 / 82         |
+| **Number Theory**                           | High School Competition | 0.00%        | 0 / 4           |
+| **Geometry**                                | High School Competition | 20.00%       | 5 / 25          |
+| **Combinatorics**                           | High School Competition | 16.22%       | 6 / 37          |
+| **Algebra**                                 | High School Math        | 94.20%       | 65 / 69         |
+| **Geometry**                                | High School Math        | 92.86%       | 13 / 14         |
+| **PreCalculus**                             | High School Math        | 72.34%       | 34 / 47         |
+| **Trigonometry**                            | High School Math        | 100.00%      | 2 / 2           |
+| **Calculus**                                | High School Math        | 80.00%       | 4 / 5           |
+| **Series**                                  | High School Math        | 100.00%      | 1 / 1           |
+| **Differential Equations**                  | College Math            | 78.57%       | 11 / 14         |
+| **Linear Algebra and Abstract Algebra**     | College Math            | 80.00%       | 20 / 25         |
+| **Calculus and Analysis**                   | College Math            | 70.83%       | 17 / 24         |
+| **Probability**                             | College Math            | 42.86%       | 9 / 21          |
+| **Statistics**                              | College Math            | 82.35%       | 14 / 17         |
+
+## Overall Accuracy by Level
+
+| Level                     | Accuracy (%) | Correct / Total |
+|---------------------------|--------------|-----------------|
+| **High School Competition** | 22.30%       | 33 / 148         |
+| **High School Math**        | 86.23%       | 119 / 138        |
+| **College Math**            | 70.30%       | 71 / 101         |
+
+## Overall Accuracy for Entire Dataset
+
+| Metric                 | Value         |
+|------------------------|---------------|
+| **Overall Accuracy**   | 57.62%        |
+| **Correct / Total**    | 223 / 387     |
+
+---
+
+These results showcase the performance of `deepseek-v3-Instruct` on various levels and topics within the dataset. Please note that this is a supplementary experiment and complements the results of other models.
+
+For more details on our primary experiments, refer to the main documentation in this repository.
 
 ## News
 
